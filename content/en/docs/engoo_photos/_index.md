@@ -8,4 +8,4 @@ description: >
 
 I'm crafting scripts for 1-minute speeches by describing picture prompts featured on Engoo.
 
-ChatGPT is aiding me in composing these scripts, each restricted to 130 words to fit the timeframe.
+ChatGPT is aiding me in composing these scripts, each restricted to about 130 words to fit the timeframe.
