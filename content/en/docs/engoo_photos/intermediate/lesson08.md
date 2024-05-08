@@ -1,0 +1,70 @@
+---
+title: "Lesson 08"
+linkTitle: "Lesson 08"
+date: 2024-05-08
+weight: 2
+description: >
+  reference link: [Lesson 8: Daily Goods](https://engoo.com/app/lessons/describing-pictures-intermediate-describing-pictures-daily-goods/yCuxtkp1Eeey-psCXzWe5w?category_id=P_HriMOnEeifo0O-yMP42w&course_id=ZZasjsOnEeiHZVOMC0VfdA)
+---
+
+## Exercise 1: Learning to Ride a Bike
+
+{{% pageinfo %}}
+This script is devided into two parts.
+{{% /pageinfo %}}
+
+{{<card header="**1st script**">}}
+The photo captures a joyful moment of a young boy riding his bike, perhaps even for the first time without training wheels. <br/>
+As his father eagerly encourages him with open arms, the boy looks ecstatic and is shouting with excitement. <br/>
+He doesn't have any elbow or knee pads, but he's wearing a shiny golden helmet for safety. <br/>
+The boy looks adorable in a green polo shirt, white shorts, and orange sneakers. <br/>
+Meanwhile, the father, dressed in a light blue short-sleeved collared shirt, jeans, and athletic shoes, watches his son proudly. <br/>
+The boy's striking mountain bike features an orange frame and matching handlebar grips, white front fork and saddle, black handlebars, brake levers and thick, rugged tires.<br/>
+The explanation will be long, so I'll break here.<br/>
+<br/>
+(125 words)
+{{</card>}}
+
+　
+
+{{<card header="**2nd script**">}}
+In my previous video, I described the scene of a son riding his bike while his father watched over him. <br/>
+Now, let's take a look at the surroundings. <br/>
+The faded white center line of the cycling path guides the boy as he cycles straight ahead, just above it. <br/>
+In the distance, the path curves gently left around a small grove of trees. <br/>
+Upon closer inspection, you can see white buildings across the river, suggesting a residential district. <br/>
+The picture is set on a scenic cycling path by a river, surrounded by a magnificent natural mountain range. <br/>
+It's a touching scene that reflects the father's pride in his son's growth.<br/>
+<br/>
+(109 words)
+{{</card>}}
+　
+
+## Exercise 2: Eating an Ice Cream
+
+{{<card header="**Script**">}}
+In this arresting photo, we can see a young woman holding a delicious mixed vanilla-strawberry ice cream in a waffle cone.<br/>
+She looks stylish as she strikes a playful pose with a slight lift of her left shoulder.<br/>
+She is wearing pink-framed sunglasses with mirrored lenses that are tinged pink, reflecting the scene in front of her vibrantly.<br/>
+Her chunky pink chain necklace and pink vest add a touch of charm to her overall look. <br/>
+With her ash-blonde hair, she exudes a saucy aura that perfectly complements her pink-loving personality.<br/>
+The background behind her appears blurry, but suggests hills and fields, with sunlight peeking through from behind.<br/>
+Incidentally, after the photo was taken, she probably intended to enjoy the ice cream before it melted.<br/>
+<br/>
+(124 words)
+{{</card>}}
+
+## Exercise 3: Ready for School
+
+{{<card header="**Script**">}}
+The photo captures a blue backpack placed haphazardly on a slatted wooden park bench. <br/>
+The bench's backrest is painted green. <br/>
+All the bags' pockets are open, revealing their contents. <br/>
+The smallest pocket holds a calculator, while the middle pocket contains a pair of teal-colored scissors, a ruler, colored markers, a sketchbook, and a watercolor paint palette. <br/>
+In the largest main pocket at the top of the bag, two ring-bound notebooks with pink and purple covers are visible. <br/>
+All the pocket zippers have black straps with red logos. <br/>
+Since there are no valuables or luxury items, it may be safe from theft even when left open carelessly. <br/>
+You know, this backpack must belong to a budding artist!<br/>
+<br/>
+(116 words)
+{{</card>}}

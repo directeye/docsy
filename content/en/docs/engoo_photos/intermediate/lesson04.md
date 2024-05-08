@@ -1,5 +1,6 @@
 ---
 title: "Lesson 04"
+linkTitle: "Lesson 04"
 date: 2024-05-08
 weight: 2
 description: >
@@ -8,7 +9,9 @@ description: >
 
 ## Exercise 1: Let's Drive!
 
+{{% pageinfo %}}
 This script is devided into two parts.
+{{% /pageinfo %}}
 
 {{<card header="**1st script**">}}
 The photo shows a group of six friends enjoying a city drive together in a minivan. <br/>
@@ -21,7 +24,7 @@ All three women have their hair down.<br/>
 <br/>
 The explanation will be long, so I will break off here.<br/>
 <br/>
-(129 words)
+(130 words)
 {{</card>}}
 
 　
@@ -54,7 +57,7 @@ Her light pink tracksuit pants and crossed legs add to her relaxed posture. <br/
 To her right, there are three colorful cushions all neatly arranged on the sofa, while on her left side, her elbow rests on a soft white cushion wedged between her body and the armrest.<br/>
 Behind the sofa, a shelf displays two potted plants, one of which is lavender.<br/>
 <br/>
-(112 words)
+(111 words)
 {{</card>}}
 
 ## Exercise 3: Easter

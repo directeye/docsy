@@ -6,6 +6,10 @@ description: >
   Collection of scripts created for Engoo Photo Description Training at Intermediate Level
 ---
 
-I'm crafting scripts for 1-minute speeches by describing picture prompts from Engoo designed for intermediate learners.
+I'm writing scripts for 1-minute speeches by describing pictures from Engoo designed for intermediate learners.
 
-ChatGPT is aiding me in composing these scripts, each restricted to about 130 words to fit the timeframe.
+ChatGPT is helping me compose these scripts.
+Each restricted to about 130 words to fit the timeframe.
+
+Due to copyright concerns, I've opted not to embed or reproduce any of the photos used on Engoo on my website.   
+Instead, I've included the reference links I used, so you can view each photo there.

@@ -1,5 +1,6 @@
 ---
 title: "Lesson 05"
+linkTitle: "Lesson 05"
 date: 2024-05-08
 weight: 2
 description: >
