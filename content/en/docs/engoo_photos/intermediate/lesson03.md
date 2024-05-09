@@ -1,10 +1,10 @@
 ---
-title: "Lesson 03"
-linkTitle: "Lesson 03"
+title: "Scripts for lesson 03"
+linkTitle: "Scripts for lesson 03"
 date: 2024-05-08
 weight: 2
 description: >
-  reference link: [Lesson 3: A Happy Momemnt](https://engoo.com/app/lessons/describing-pictures-intermediate-describing-pictures-a-happy-moment/WAkGVkBpEeer4w8JMYgNuQ?category_id=P_HriMOnEeifo0O-yMP42w&course_id=ZZasjsOnEeiHZVOMC0VfdA)
+  Engoo website reference link: [Lesson 3: A Happy Momemnt](https://engoo.com/app/lessons/describing-pictures-intermediate-describing-pictures-a-happy-moment/WAkGVkBpEeer4w8JMYgNuQ?category_id=P_HriMOnEeifo0O-yMP42w&course_id=ZZasjsOnEeiHZVOMC0VfdA)
 ---
 
 ## Exercise 1: Family Cooking

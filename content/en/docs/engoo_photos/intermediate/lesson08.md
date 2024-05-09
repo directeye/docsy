@@ -1,10 +1,10 @@
 ---
-title: "Lesson 08"
-linkTitle: "Lesson 08"
+title: "Scripts for lesson 08"
+linkTitle: "Scripts for lesson 08"
 date: 2024-05-08
 weight: 2
 description: >
-  reference link: [Lesson 8: Daily Goods](https://engoo.com/app/lessons/describing-pictures-intermediate-describing-pictures-daily-goods/yCuxtkp1Eeey-psCXzWe5w?category_id=P_HriMOnEeifo0O-yMP42w&course_id=ZZasjsOnEeiHZVOMC0VfdA)
+  Engoo website reference link: [Lesson 8: Daily Goods](https://engoo.com/app/lessons/describing-pictures-intermediate-describing-pictures-daily-goods/yCuxtkp1Eeey-psCXzWe5w?category_id=P_HriMOnEeifo0O-yMP42w&course_id=ZZasjsOnEeiHZVOMC0VfdA)
 ---
 
 ## Exercise 1: Learning to Ride a Bike

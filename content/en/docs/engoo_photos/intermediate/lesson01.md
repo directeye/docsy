@@ -1,10 +1,10 @@
 ---
-title: "Lesson 01"
-linkTitle: "Lesson 01"
+title: "Scripts for lesson 01"
+linkTitle: "Scripts for lesson 01"
 date: 2024-05-08
 weight: 2
 description: >
-  reference link: [Lesson 1: A Checkup](https://engoo.com/app/lessons/describing-pictures-intermediate-describing-pictures-a-checkup/FJEZsEdWEeewrKcj_MvcGg?category_id=P_HriMOnEeifo0O-yMP42w&course_id=ZZasjsOnEeiHZVOMC0VfdA)
+  Engoo website reference link: [Lesson 1: A Checkup](https://engoo.com/app/lessons/describing-pictures-intermediate-describing-pictures-a-checkup/FJEZsEdWEeewrKcj_MvcGg?category_id=P_HriMOnEeifo0O-yMP42w&course_id=ZZasjsOnEeiHZVOMC0VfdA)
 ---
 
 ## Exercise 1: At the Doctor's Office

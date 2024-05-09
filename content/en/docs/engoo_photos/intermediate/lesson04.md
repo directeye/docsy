@@ -1,10 +1,10 @@
 ---
-title: "Lesson 04"
-linkTitle: "Lesson 04"
+title: "Scripts for lesson 04"
+linkTitle: "Scripts for lesson 04"
 date: 2024-05-08
 weight: 2
 description: >
-  reference link: [Lesson 4: A Journey Like No Other](https://engoo.com/app/lessons/describing-pictures-intermediate-describing-pictures-a-journey-like-no-other/m05ueEaHEeeRcYe0e4n9rw?category_id=P_HriMOnEeifo0O-yMP42w&course_id=ZZasjsOnEeiHZVOMC0VfdA)
+  Engoo website reference link: [Lesson 4: A Journey Like No Other](https://engoo.com/app/lessons/describing-pictures-intermediate-describing-pictures-a-journey-like-no-other/m05ueEaHEeeRcYe0e4n9rw?category_id=P_HriMOnEeifo0O-yMP42w&course_id=ZZasjsOnEeiHZVOMC0VfdA)
 ---
 
 ## Exercise 1: Let's Drive!

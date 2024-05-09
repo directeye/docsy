@@ -1,10 +1,10 @@
 ---
-title: "Lesson 07"
-linkTitle: "Lesson 07"
+title: "Scripts for lesson 07"
+linkTitle: "Scripts for lesson 07"
 date: 2024-05-08
 weight: 2
 description: >
-  reference link: [Lesson 7: Career and Private Life](https://engoo.com/app/lessons/describing-pictures-intermediate-describing-pictures-career-and-private-life/4MAFXkAsEeeMut_oanuBPg?category_id=P_HriMOnEeifo0O-yMP42w&course_id=ZZasjsOnEeiHZVOMC0VfdA)
+  Engoo website reference link: [Lesson 7: Career and Private Life](https://engoo.com/app/lessons/describing-pictures-intermediate-describing-pictures-career-and-private-life/4MAFXkAsEeeMut_oanuBPg?category_id=P_HriMOnEeifo0O-yMP42w&course_id=ZZasjsOnEeiHZVOMC0VfdA)
 ---
 
 ## Exercise 1: Let's Talk

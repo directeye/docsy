@@ -12,4 +12,4 @@ ChatGPT is helping me compose these scripts.
 Each restricted to about 130 words to fit the timeframe.
 
 Due to copyright concerns, I've opted not to embed or reproduce any of the photos used on Engoo on my website.   
-Instead, I've included the reference links I used, so you can view each photo there.
+Instead, I've included the reference links, so you can view each photo there.

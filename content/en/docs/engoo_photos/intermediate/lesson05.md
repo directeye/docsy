@@ -1,15 +1,13 @@
 ---
-title: "Lesson 05"
-linkTitle: "Lesson 05"
+title: "Scripts for lesson 05"
+linkTitle: "Scripts for lesson 05"
 date: 2024-05-08
 weight: 2
 description: >
-  reference link: [Lesson 5: Animal Kingdom](https://engoo.com/app/lessons/describing-pictures-intermediate-describing-pictures-animal-kingdom/-UaMYk9DEeeTcN-8qLwKpQ?category_id=P_HriMOnEeifo0O-yMP42w&course_id=ZZasjsOnEeiHZVOMC0VfdA)
+  Engoo website reference link: [Lesson 5: Animal Kingdom](https://engoo.com/app/lessons/describing-pictures-intermediate-describing-pictures-animal-kingdom/-UaMYk9DEeeTcN-8qLwKpQ?category_id=P_HriMOnEeifo0O-yMP42w&course_id=ZZasjsOnEeiHZVOMC0VfdA)
 ---
 
 ## Exercise 1: At the Zoo
-
-This script is devided into two parts.
 
 {{<card header="**Script**">}}
 The photo shows a heartwarming scene of a family of three enjoying their day at the zoo.<br/>

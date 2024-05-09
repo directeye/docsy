@@ -1,10 +1,10 @@
 ---
-title: "Lesson 02"
-linkTitle: "Lesson 02"
+title: "Scripts for lesson 02"
+linkTitle: "Scripts for lesson 02"
 date: 2024-05-08
 weight: 2
 description: >
-  reference link: [Lesson 2: A Day in the Life of a Business Person](https://engoo.com/app/lessons/describing-pictures-intermediate-describing-pictures-a-day-in-the-life-of-a-business-person/k8Lf4DlEEee42otzItB8PA?category_id=P_HriMOnEeifo0O-yMP42w&course_id=ZZasjsOnEeiHZVOMC0VfdA)
+  Engoo website reference link: [Lesson 2: A Day in the Life of a Business Person](https://engoo.com/app/lessons/describing-pictures-intermediate-describing-pictures-a-day-in-the-life-of-a-business-person/k8Lf4DlEEee42otzItB8PA?category_id=P_HriMOnEeifo0O-yMP42w&course_id=ZZasjsOnEeiHZVOMC0VfdA)
 ---
 
 ## Exercise 1: Discussing the Details
