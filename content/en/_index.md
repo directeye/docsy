@@ -1,8 +1,8 @@
 ---
-title: MyScripts
+title: My English learning notebook
 ---
 
-{{< blocks/cover title="Welcome to Goldydocs: A Docsy Example Project!" image_anchor="top" height="full" >}}
+{{< blocks/cover title="Welcome to my English learning notebook" image_anchor="top" height="full" >}}
 <a class="btn btn-lg btn-primary me-3 mb-4" href="/docsy/docs/">
   Main page <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>

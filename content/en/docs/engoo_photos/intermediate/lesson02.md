@@ -12,13 +12,13 @@ description: >
 {{<card header="**Script**">}}
 In the photo, a man and a woman are talking in a hallway, possibly after a meeting. <br/>
 The woman, who appears to have some questions, is asking the man for clarification.<br/>
-The man in a gray jacket has short hair and stubble. <br/>
+The man in a gray jacket has short hair and stubble on his chin and upper lip. <br/>
 He is politely explaining while showing her something in a file.<br/>
 The woman, with long hair, is attentively listening, her arms crossed and right hand lightly resting on her chin. <br/>
 However, she still appears puzzled.<br/>
 Incidentally, the trees dimly visible through the window have turned yellow, indicating that autumn is in full swing.<br/>
 <br/>
-(95 words)
+(101 words)
 {{</card>}}
 
 ## Exercise 2: A Snack
