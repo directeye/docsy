@@ -1,8 +1,8 @@
 ---
 title: "Scripts for lesson 21"
 linkTitle: "Scripts for lesson 21"
-date: 2024-05-08
-weight: 2
+date: 2024-05-09 06:00:00 +0900
+weight: 22
 description: >
   Engoo website reference link: [Lesson 21: Leisure Activities](https://engoo.com/app/lessons/describing-pictures-intermediate-describing-pictures-leisure-activities/mGIRoEbOEeeMJqtecYpcnw?category_id=P_HriMOnEeifo0O-yMP42w&course_id=ZZasjsOnEeiHZVOMC0VfdA)
 ---

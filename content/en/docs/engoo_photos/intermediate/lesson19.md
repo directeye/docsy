@@ -1,8 +1,8 @@
 ---
 title: "Scripts for lesson 19"
 linkTitle: "Scripts for lesson 19"
-date: 2024-05-08
-weight: 2
+date: 2024-05-09 06:00:00 +0900
+weight: 20
 description: >
   Engoo website reference link: [Lesson 19: Home and Family](https://engoo.com/app/lessons/describing-pictures-intermediate-describing-pictures-home-and-family/W7V2OEpxEeeMP6vt6vr7SA?category_id=P_HriMOnEeifo0O-yMP42w&course_id=ZZasjsOnEeiHZVOMC0VfdA)
 ---

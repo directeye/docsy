@@ -1,8 +1,8 @@
 ---
 title: "Scripts for lesson 06"
 linkTitle: "Scripts for lesson 06"
-date: 2024-05-08
-weight: 2
+date: 2024-05-08 04:25:00 +0900
+weight: 7
 description: >
   Engoo website reference link: [Lesson 6: A Whole Day to Myself](https://engoo.com/app/lessons/describing-pictures-intermediate-describing-pictures-a-whole-day-to-myself/OctwkkagEeeKii94a-QefQ?category_id=P_HriMOnEeifo0O-yMP42w&course_id=ZZasjsOnEeiHZVOMC0VfdA)
 ---

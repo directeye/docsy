@@ -1,8 +1,8 @@
 ---
 title: "Scripts for lesson 23"
 linkTitle: "Scripts for lesson 23"
-date: 2024-05-08
-weight: 2
+date: 2024-05-09 06:00:00 +0900
+weight: 24
 description: >
   Engoo website reference link: [Lesson 23: Let's Go Somewhere](https://engoo.com/app/lessons/describing-pictures-intermediate-describing-pictures-lets-go-somewhere/RptV8k6eEee3f0f8L1iQZQ?category_id=P_HriMOnEeifo0O-yMP42w&course_id=ZZasjsOnEeiHZVOMC0VfdA)
 ---

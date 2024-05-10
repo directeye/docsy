@@ -1,8 +1,8 @@
 ---
 title: "Scripts for lesson 07"
 linkTitle: "Scripts for lesson 07"
-date: 2024-05-08
-weight: 2
+date: 2024-05-08 04:30:00 +0900
+weight: 8
 description: >
   Engoo website reference link: [Lesson 7: Career and Private Life](https://engoo.com/app/lessons/describing-pictures-intermediate-describing-pictures-career-and-private-life/4MAFXkAsEeeMut_oanuBPg?category_id=P_HriMOnEeifo0O-yMP42w&course_id=ZZasjsOnEeiHZVOMC0VfdA)
 ---

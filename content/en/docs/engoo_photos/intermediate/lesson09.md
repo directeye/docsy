@@ -1,8 +1,8 @@
 ---
 title: "Scripts for lesson 09"
 linkTitle: "Scripts for lesson 09"
-date: 2024-05-08
-weight: 2
+date: 2024-05-08 04:40:00 +0900
+weight: 10
 description: >
   Engoo website reference link: [Lesson 9: Delighted](https://engoo.com/app/lessons/describing-pictures-intermediate-describing-pictures-delighted/IXld1EbREeeysy81-xi1vg?category_id=P_HriMOnEeifo0O-yMP42w&course_id=ZZasjsOnEeiHZVOMC0VfdA)
 ---

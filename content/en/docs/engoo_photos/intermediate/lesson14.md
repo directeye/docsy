@@ -1,8 +1,8 @@
 ---
 title: "Scripts for lesson 14"
 linkTitle: "Scripts for lesson 14"
-date: 2024-05-08
-weight: 2
+date: 2024-05-09 06:00:00 +0900
+weight: 15
 description: >
   Engoo website reference link: [Lesson 14: Going Away](https://engoo.com/app/lessons/describing-pictures-intermediate-describing-pictures-going-away/3uPstD0vEee640c1XLxW8w?category_id=P_HriMOnEeifo0O-yMP42w&course_id=ZZasjsOnEeiHZVOMC0VfdA)
 ---

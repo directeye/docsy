@@ -1,7 +1,7 @@
 ---
 title: "Scripts for lesson 01"
 linkTitle: "Scripts for lesson 01"
-date: 2024-05-08
+date: 2024-05-08 04:00:00 +0900
 weight: 2
 description: >
   Engoo website reference link: [Lesson 1: A Checkup](https://engoo.com/app/lessons/describing-pictures-intermediate-describing-pictures-a-checkup/FJEZsEdWEeewrKcj_MvcGg?category_id=P_HriMOnEeifo0O-yMP42w&course_id=ZZasjsOnEeiHZVOMC0VfdA)

@@ -1,23 +1,23 @@
 ---
 title: "My website launched!"
-date: "2024-05-09"
+date: 2024-05-10 22:00:00 +0900
 tags:
 - "Engoo"
 categories:
-- "studies"
+- "news"
 slug: launch-mysite
 draft: true
 ---
 
 I've launched a website where I document my English learning journey!
 
-I mainly utilize Engoo's resources, which are available for personal use for free and are tailored for English learners.   
-In particular, Engoo's describing picture materials contain a wide variety of photos.  
-My goal is to be able to spontaneously describe what's depicted in those images in English!   
+I mainly utilize [Engoo](https://engoo.com/app/materials/en)'s resources, which are freely available for personal use and are tailored for English learners.   
+In particular, [Engoo's describing picture material](https://engoo.com/app/materials/describing-pictures/P_HriMOnEeifo0O-yMP42w) contains a wide variety of photos and I use them for improve my English.  
+My immediate aim is to become proficient at spontaneously describing what's depicted those images in English.   
 I understand that achieving that goal instantly is unrealistic.   
-Therefore, I've been working on deviding or condensing it into a short speech within one minute, memorizing the script, and recording myself delivering the speech without reading the script.
+Therefore, I've been working on dividing or condensing it into a short speech within one minute, memorizing the script, and recording myself delivering the speech without reading the script.
 
-Through this practice, I aim to stop thinking in Japanese and start understanding and speaking in English sentence structures.   
+Through this practice, I aim to stop thinking in Japanese and instead understand and speak in English word order.  
 Currently, I can only speak English somewhat haltingly, but I feel like my pronunciation might have improved a bit when I listen back to my memorized and recorded speeches, even to a native English speaker.  
 
 In preparation for recording these English short speeches, I've been thoroughly rehearsing the script using AI-generated voice narration to mimic a natural delivery until I can faithfully reproduce the speech.  

@@ -1,8 +1,8 @@
 ---
 title: "Scripts for lesson 04"
 linkTitle: "Scripts for lesson 04"
-date: 2024-05-08
-weight: 2
+date: 2024-05-08 04:15:00 +0900
+weight: 5
 description: >
   Engoo website reference link: [Lesson 4: A Journey Like No Other](https://engoo.com/app/lessons/describing-pictures-intermediate-describing-pictures-a-journey-like-no-other/m05ueEaHEeeRcYe0e4n9rw?category_id=P_HriMOnEeifo0O-yMP42w&course_id=ZZasjsOnEeiHZVOMC0VfdA)
 ---

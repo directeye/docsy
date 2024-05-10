@@ -1,8 +1,8 @@
 ---
 title: "Scripts for lesson 10"
 linkTitle: "Scripts for lesson 10"
-date: 2024-05-08
-weight: 2
+date: 2024-05-08 04:45:00 +0900
+weight: 11
 description: >
   Engoo website reference link: [Lesson 10: Dine With Me](https://engoo.com/app/lessons/describing-pictures-intermediate-describing-pictures-dine-with-me/qNpLQE6lEee8csfQfIwDog?category_id=P_HriMOnEeifo0O-yMP42w&course_id=ZZasjsOnEeiHZVOMC0VfdA)
 ---

@@ -1,8 +1,8 @@
 ---
 title: "Scripts for lesson 17"
 linkTitle: "Scripts for lesson 17"
-date: 2024-05-08
-weight: 2
+date: 2024-05-09 06:00:00 +0900
+weight: 18
 description: >
   Engoo website reference link: [Lesson 17: Happy Days!](https://engoo.com/app/lessons/describing-pictures-intermediate-describing-pictures-happy-days/jzCEEEaQEeeTRUM9_hsgdw?category_id=P_HriMOnEeifo0O-yMP42w&course_id=ZZasjsOnEeiHZVOMC0VfdA)
 ---

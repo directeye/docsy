@@ -1,8 +1,8 @@
 ---
 title: "Scripts for lesson 13"
 linkTitle: "Scripts for lesson 13"
-date: 2024-05-08
-weight: 2
+date: 2024-05-09 06:00:00 +0900
+weight: 14
 description: >
   Engoo website reference link: [Lesson 13: Feeling Stressed](https://engoo.com/app/lessons/describing-pictures-intermediate-describing-pictures-feeling-stressed/_jaE8juTEee1ddf1xu1KHw?category_id=P_HriMOnEeifo0O-yMP42w&course_id=ZZasjsOnEeiHZVOMC0VfdA)
 ---

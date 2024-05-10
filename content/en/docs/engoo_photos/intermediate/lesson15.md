@@ -1,8 +1,8 @@
 ---
 title: "Scripts for lesson 15"
 linkTitle: "Scripts for lesson 15"
-date: 2024-05-08
-weight: 2
+date: 2024-05-09 06:00:00 +0900
+weight: 16
 description: >
   Engoo website reference link: [Lesson 15: Good Times](https://engoo.com/app/lessons/describing-pictures-intermediate-describing-pictures-good-times/At5F-ExWEeeFFlvgiz5nDw?category_id=P_HriMOnEeifo0O-yMP42w&course_id=ZZasjsOnEeiHZVOMC0VfdA)
 ---

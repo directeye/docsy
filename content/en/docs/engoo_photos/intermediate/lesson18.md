@@ -1,8 +1,8 @@
 ---
 title: "Scripts for lesson 18"
 linkTitle: "Scripts for lesson 18"
-date: 2024-05-08
-weight: 2
+date: 2024-05-09 06:00:00 +0900
+weight: 19
 description: >
   Engoo website reference link: [Lesson 18: Healthy and Productive](https://engoo.com/app/lessons/describing-pictures-intermediate-describing-pictures-healthy-and-productive/3dgY9jloEee-7jvD-OMTyg?category_id=P_HriMOnEeifo0O-yMP42w&course_id=ZZasjsOnEeiHZVOMC0VfdA)
 ---

@@ -1,8 +1,8 @@
 ---
 title: "Scripts for lesson 24"
 linkTitle: "Scripts for lesson 24"
-date: 2024-05-08
-weight: 2
+date: 2024-05-09 06:00:00 +0900
+weight: 25
 description: >
   Engoo website reference link: [Lesson 24: Let's Share!](https://engoo.com/app/lessons/describing-pictures-intermediate-describing-pictures-lets-share/JEielE6hEee1u-M55onvDQ?category_id=P_HriMOnEeifo0O-yMP42w&course_id=ZZasjsOnEeiHZVOMC0VfdA)
 ---

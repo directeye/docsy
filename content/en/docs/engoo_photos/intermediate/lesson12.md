@@ -1,8 +1,8 @@
 ---
 title: "Scripts for lesson 12"
 linkTitle: "Scripts for lesson 12"
-date: 2024-05-08
-weight: 2
+date: 2024-05-09 06:00:00 +0900
+weight: 13
 description: >
   Engoo website reference link: [Lesson 12: Fresh Air](https://engoo.com/app/lessons/describing-pictures-intermediate-describing-pictures-fresh-air/Ic6JBj7gEeeyh1fcXYNA3A?category_id=P_HriMOnEeifo0O-yMP42w&course_id=ZZasjsOnEeiHZVOMC0VfdA)
 ---

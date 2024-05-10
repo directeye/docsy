@@ -1,8 +1,8 @@
 ---
 title: "Scripts for lesson 05"
 linkTitle: "Scripts for lesson 05"
-date: 2024-05-08
-weight: 2
+date: 2024-05-08 04:20:00 +0900
+weight: 6
 description: >
   Engoo website reference link: [Lesson 5: Animal Kingdom](https://engoo.com/app/lessons/describing-pictures-intermediate-describing-pictures-animal-kingdom/-UaMYk9DEeeTcN-8qLwKpQ?category_id=P_HriMOnEeifo0O-yMP42w&course_id=ZZasjsOnEeiHZVOMC0VfdA)
 ---
