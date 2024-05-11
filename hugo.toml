@@ -21,6 +21,10 @@ enableGitInfo = true
 tag = "tags"
 category = "categories"
 
+[services]
+  [services.googleAnalytics]
+    ID = 'G-Z59LB6GH5D'
+
 [params.taxonomy]
 # set taxonomyCloud = [] to hide taxonomy clouds
 taxonomyCloud = ["tags", "categories"]
@@ -142,8 +146,6 @@ offlineSearch = true
 
 # Enable syntax highlighting and copy buttons on code blocks with Prism
 #prism_syntax_highlighting = false
-
-googleAnalytics = "G-SBFJSVTNC1"
 
 [params.copyright]
   authors = "directeye"
