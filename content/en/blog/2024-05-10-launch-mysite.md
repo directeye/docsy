@@ -1,20 +1,20 @@
 ---
 title: "My website launched!"
-date: 2024-05-09 06:00:00 +0900
+date: 2024-05-10 22:00:00 +0900
 tags:
 - "Engoo"
 categories:
 - "news"
 slug: launch-mysite
-draft: true
+draft: false
 ---
 
 I've launched a website where I document my English learning journey!
 
 I mainly utilize [Engoo](https://engoo.com/app/materials/en)'s resources, which are freely available for personal use and are tailored for English learners.   
 In particular, [Engoo's describing picture material](https://engoo.com/app/materials/describing-pictures/P_HriMOnEeifo0O-yMP42w) contains a wide variety of photos and I use them for improving my English.  
-My immediate aim is to become proficient at spontaneously describing what's depicted in those images in English.   
-I understand that achieving that goal instantly is unrealistic.   
+My primary goal right now is to become proficient at spontaneously describing what's depicted in those images in English.   
+I understand that mastering this skill overnight is unrealistic.   
 Therefore, I've been working on dividing and condensing it into short speeches within one minute, memorizing the script, and recording myself delivering the speech without reading it.
 
 Through this practice, I aim to stop thinking in Japanese and instead understand and speak English gramatically correct.  
