@@ -143,6 +143,8 @@ offlineSearch = true
 # Enable syntax highlighting and copy buttons on code blocks with Prism
 #prism_syntax_highlighting = false
 
+googleAnalytics = "G-SBFJSVTNC1"
+
 [params.copyright]
   authors = "directeye"
   from_year = 2023
