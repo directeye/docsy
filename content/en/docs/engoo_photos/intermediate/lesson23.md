@@ -9,9 +9,9 @@ description: >
 
 ## Exercise 1: On the Subway
 
-{{% pageinfo %}}
+{{<alert>}}
 This script is devided into four parts.
-{{% /pageinfo %}}
+{{</alert>}}
 
 {{<card header="**1st script**">}}
 The photo captures the interior of a train in Japan.<br/>
@@ -70,9 +70,9 @@ Having a seat while traveling is obviously more comfortable, but moderate crowdi
 
 ## Exercise 2: In the Car
 
-{{% pageinfo %}}
+{{<alert>}}
 This script is devided into three parts.
-{{% /pageinfo %}}
+{{</alert>}}
 
 {{<card header="**1st script**">}}
 In the photo, we see a dapper couple chilling in a convertible, they gaze out from their parked car. <br/>
@@ -115,9 +115,9 @@ Deciphering the exact nature of this situation becomes a bit challenging.<br/>
 
 ## Exercise 3: Let's Take the Scooter
 
-{{% pageinfo %}}
+{{<alert>}}
 This script is devided into three parts.
-{{% /pageinfo %}}
+{{</alert>}}
 
 {{<card header="**1st script**">}}
 In the photo, a man with a quiff hairstyle whispers into a woman's ear while holding an acoustic guitar. <br/>

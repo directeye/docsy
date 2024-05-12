@@ -24,9 +24,9 @@ In that case, the mother is contemplating the need to console her daughter by pi
 
 ## Exercise 2: Bike Ride with a Pet
 
-{{% pageinfo %}}
+{{<alert>}}
 This script is devided into two parts.
-{{% /pageinfo %}}
+{{</alert>}}
 
 {{<card header="**1st script**">}}
 In the photo, there's a young woman and her dog sitting on a stone bench alongside the park's outer pathway, looking at something.<br/>
@@ -61,9 +61,9 @@ The camera lens captures lens flares, caused by strong sunlight, creating hazy, 
 
 ## Exercise 3: Rain on a Sunny Day
 
-{{% pageinfo %}}
+{{<alert>}}
 This script is devided into two parts.
-{{% /pageinfo %}}
+{{</alert>}}
 
 {{<card header="**1st script**">}}
 In this photo, a young girl with curly, shoulder-length blond hair is sheltered beneath a large, sturdy handheld umbrella. <br/>

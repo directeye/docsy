@@ -9,9 +9,9 @@ description: >
 
 ## Exercise 1: Takeoff
 
-{{% pageinfo %}}
+{{<alert>}}
 This script is devided into two parts.
-{{% /pageinfo %}}
+{{</alert>}}
 
 {{<card header="**1st script**">}}
 The photo captures the moment when a rocket is blasting off from the steel launchpad tower.<br/>

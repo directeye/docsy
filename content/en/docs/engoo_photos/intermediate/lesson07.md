@@ -38,9 +38,9 @@ Perhaps the photo was captured after closing hours, although upon approaching th
 
 ## Exercise 3: In the Living Room
 
-{{% pageinfo %}}
+{{<alert>}}
 This script is devided into two parts.
-{{% /pageinfo %}}
+{{</alert>}}
 
 {{<card header="**1st script**">}}
 The photo shows a beautifully designed living room, unified in tones of white and grey, with elegant laminated flooring. <br/>

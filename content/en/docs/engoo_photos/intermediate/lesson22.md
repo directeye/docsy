@@ -9,9 +9,9 @@ description: >
 
 ## Exercise 1: Christmas Dinner
 
-{{% pageinfo %}}
+{{<alert>}}
 This script is devided into three parts.
-{{% /pageinfo %}}
+{{</alert>}}
 
 {{<card header="**1st script**">}}
 The photo captures three generations of family members seated at a Christmas dinner.<br/>
@@ -59,9 +59,9 @@ As a side note, looking at the blinds on the window in the far-right corner, it 
 
 ## Exercise 2: Business Meeting
 
-{{% pageinfo %}}
+{{<alert>}}
 This script is devided into three parts.
-{{% /pageinfo %}}
+{{</alert>}}
 
 {{<card header="**1st script**">}}
 This photo is a snapshot of a typical business meeting back in the days when everyone commuted to the office, even before the COVID pandemic.<br/>
@@ -99,9 +99,9 @@ Nevertheless, in-person meetings are still often necessary when engaging with ex
 
 ## Exercise 3: A Stroll in a Kimono
 
-{{% pageinfo %}}
+{{<alert>}}
 This script is devided into two parts.
-{{% /pageinfo %}}
+{{</alert>}}
 
 {{<card header="**1st script**">}}
 In the picture, two women are adorned in floral-patterned kimonos, the traditional Japanese attire, gracefully holding red parasols outdoors while sharing whispers and laughter.<br/>

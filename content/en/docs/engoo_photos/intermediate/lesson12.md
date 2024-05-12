@@ -9,9 +9,9 @@ description: >
 
 ## Exercise 1: Relaxing in the Evening
 
-{{% pageinfo %}}
+{{<alert>}}
 This script is devided into two parts.
-{{% /pageinfo %}}
+{{</alert>}}
 
 {{<card header="**1st script**">}}
 The photo displays a charming U-shaped cobblestone dining street, designated as pedestrian-only with signs indicating that bicycles are prohibited.<br/>

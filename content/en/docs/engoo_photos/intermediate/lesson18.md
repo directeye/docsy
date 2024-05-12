@@ -9,9 +9,9 @@ description: >
 
 ## Exercise 1: Walking the Dog
 
-{{% pageinfo %}}
+{{<alert>}}
 This script is devided into two parts.
-{{% /pageinfo %}}
+{{</alert>}}
 
 {{<card header="**1st script**">}}
 In the picture, we see a young couple walking barefoot with their dog along the water's edge, enjoying the relaxed atmosphere.<br/>
@@ -44,9 +44,9 @@ However, considering Japan's earthquake and tsunami risks, living by the beach m
 
 ## Exercise 2: Busy at Work
 
-{{% pageinfo %}}
+{{<alert>}}
 This script is devided into two parts.
-{{% /pageinfo %}}
+{{</alert>}}
 
 {{<card header="**1st script**">}}
 The picture shows a man in a white shirt and black tie, sitting at a large wooden table. <br/>

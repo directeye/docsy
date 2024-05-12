@@ -9,9 +9,9 @@ description: >
 
 ## Exercise 1: Stuck in Traffic
 
-{{% pageinfo %}}
+{{<alert>}}
 This script is devided into two parts.
-{{% /pageinfo %}}
+{{</alert>}}
 
 {{<card header="**1st script**">}}
 In the photo, we can see the division point of a highway where all the vehicles are stuck in a massive traffic jam. <br/>

@@ -9,9 +9,9 @@ description: >
 
 ## Exercise 1: Sharing an Ice Cream
 
-{{% pageinfo %}}
+{{<alert>}}
 This script is devided into two parts.
-{{% /pageinfo %}}
+{{</alert>}}
 
 {{<card header="**1st script**">}}
 The photo captures a heartwarming scene between a young girl and her mother, sharing a delicious strawberry ice cream with a waffle cone. <br/>
@@ -43,9 +43,9 @@ Below, a bench with a green backrest invites passersby to take a break and enjoy
 
 ## Exercise 2: Decisions...
 
-{{% pageinfo %}}
+{{<alert>}}
 This script is devided into two parts.
-{{% /pageinfo %}}
+{{</alert>}}
 
 {{<card header="**1st script**">}}
 In the photo, there's a woman with long dark brown hair wearing a vibrant red dress, standing in the toiletry aisle of the pharmacy, looking like she's searching for something. <br/>
@@ -75,9 +75,9 @@ Alternatively, the absence of rings suggests she's unmarried, perhaps with a boy
 
 ## Exercise 3: Eating a Watermelon
 
-{{% pageinfo %}}
+{{<alert>}}
 This script is devided into two parts.
-{{% /pageinfo %}}
+{{</alert>}}
 
 {{<card header="**1st script**">}}
 The vibrant photo captures a little girl sitting on a lawn, devouring a slice of watermelon. <br/>

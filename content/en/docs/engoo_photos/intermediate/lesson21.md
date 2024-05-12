@@ -9,9 +9,9 @@ description: >
 
 ## Exercise 1: Let's Go Swimming!
 
-{{% pageinfo %}}
+{{<alert>}}
 This script is devided into two parts.
-{{% /pageinfo %}}
+{{</alert>}}
 
 {{<card header="**1st script**">}}
 In this beach photo all three friends are reveling in the sea spray, raising both of their hands in unison.<br/>
@@ -45,9 +45,9 @@ Heading toward the mountains would probably give you a picturesque ocean view.<b
 
 ## Exercise 2: Movie Night
 
-{{% pageinfo %}}
+{{<alert>}}
 This script is devided into two parts.
-{{% /pageinfo %}}
+{{</alert>}}
 
 {{<card header="**1st script**">}}
 The photo captures a woman lounging on a wooden bed, juggling a smartphone in one hand and a bowl of nearly overflowing popcorn in the other. <br/>
@@ -80,9 +80,9 @@ If she decides to toss her phone on the bed for a popcorn break, having some wet
 
 ## Exercise 3: Exercise
 
-{{% pageinfo %}}
+{{<alert>}}
 This script is devided into two parts.
-{{% /pageinfo %}}
+{{</alert>}}
 
 {{<card header="**1st script**">}}
 The photo captures a man performing tire flips. <br/>

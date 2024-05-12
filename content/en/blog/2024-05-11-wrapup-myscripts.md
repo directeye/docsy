@@ -22,6 +22,8 @@ I also include comments expressing my own opinions and thoughts based on the pho
 
 ## Utilizing ChatGPT
 
+![ChatGPT screenshot](/docsy/imgs/2024-05-11-chatgpt-screenshot.png)
+
 Once the script is written in Japanese, I use [ChatGPT](https://chat.openai.com/) to translate it into English.
 
 ### Creating English Translation Scripts

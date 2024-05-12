@@ -9,9 +9,9 @@ description: >
 
 ## Exercise 1: An Usual Wedding Day
 
-{{% pageinfo %}}
+{{<alert>}}
 This script is devided into two parts.
-{{% /pageinfo %}}
+{{</alert>}}
 
 {{<card header="**1st script**">}}
 The photo shows a bride and groom on a bicycle rushing to their wedding reception. <br/>

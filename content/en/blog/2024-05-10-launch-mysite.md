@@ -12,17 +12,26 @@ draft: false
 I've launched a website where I document my English learning journey!
 
 I mainly utilize [Engoo](https://engoo.com/app/materials/en)'s resources, which are freely available for personal use and are tailored for English learners.   
-In particular, [Engoo's describing picture material](https://engoo.com/app/materials/describing-pictures/P_HriMOnEeifo0O-yMP42w) contains a wide variety of photos and I use them for improving my English.  
-My primary goal right now is to become proficient at spontaneously describing what's depicted in those images in English.   
-I understand that mastering this skill overnight is unrealistic.   
-Therefore, I've been working on dividing and condensing it into short speeches within one minute, memorizing the script, and recording myself delivering the speech without reading it.
+In particular, [Engoo's describing picture material](https://engoo.com/app/materials/describing-pictures/P_HriMOnEeifo0O-yMP42w) contains a wide variety of photos and I use them for improving my English.
 
-Through this practice, I aim to stop thinking in Japanese and instead understand and speak English gramatically correct.  
-Currently, I can only speak English somewhat haltingly, but I feel like my pronunciation has improved a bit when I listen to my memorized and recorded speeches, even to a native English speaker.  
+![Engoo Photo Description page](/docsy/imgs/2024-05-10-Engoo-PhotoDescription.png)
 
-In preparation for recording these short English speeches, I've been thoroughly rehearsing the script using AI-generated voice narration to mimic a natural delivery until I can faithfully reproduce the speech.  
+My primary goal right now is to become proficient at spontaneously describing what’s depicted in those images in English.
+I understand that mastering this skill overnight is unrealistic.
 
-Thanks to this approach, I've been able to establish an environment where I can create scripts, extract narration audio, and practice speeches using useful free websites and software.   
+I used to read news articles and English learning materials every day for about a year, but I realized I was just going through the motions without absorbing much content.   
+It became clear that I wouldn't learn to speak in my own words anytime soon.   
+So, I decided to change my approach.  
+Now, I'm fully committed to thinking and speaking in English.  
+I’ve been working on dividing and condensing it into short speeches within one minute, memorizing the script, and then recording myself delivering the speech without reading it.
+
+Through this practice, I've found myself expressing the scripts much more actively in my own words in English, rather than simply reading something written by someone else.  
+And I want to break the habit of thinking in Japanese and start thinking and speaking in English, with proper grammar.
+
+Currently, I can only speak English still haltingly, but I've noticed some improvement in my pronunciation when I listen back to my recorded speeches, even for native English speakers.  
+In preparation for recording these short English speeches, I’ve been thoroughly rehearsing the script, using AI-generated voice narration to mimic a natural delivery until I can confidently reproduce the speech.
+
+Thanks to this approach, I’ve been able to establish an environment where I can create scripts, extract narration audio, and practice speeches using useful free websites and software.  
 I hope to share these tips with others who might find it beneficial.
 
 I'd be delighted if you're interested in checking out my website.  

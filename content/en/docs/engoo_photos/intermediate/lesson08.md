@@ -9,9 +9,9 @@ description: >
 
 ## Exercise 1: Learning to Ride a Bike
 
-{{% pageinfo %}}
+{{<alert>}}
 This script is devided into two parts.
-{{% /pageinfo %}}
+{{</alert>}}
 
 {{<card header="**1st script**">}}
 The photo captures a joyful moment of a young boy riding his bike, perhaps even for the first time without training wheels. <br/>

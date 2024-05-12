@@ -13,6 +13,15 @@ description: >
 This script is devided into two parts.
 {{% /pageinfo %}}
 
+{{<alert info>}}
+This script is devided into two parts.
+{{</alert>}}
+
+{{<alert warning>}}
+This script is devided into two parts.
+{{</alert>}}
+
+
 {{<card header="**1st script**">}}
 The photo shows a group of six friends enjoying a city drive together in a minivan. <br/>
 Two men are in the front seats, two women are flanking a man in the middle-row, and one woman occupies the back seat.<br/>

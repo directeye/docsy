@@ -9,9 +9,9 @@ description: >
 
 ## Exercise 1: Dreaming
 
-{{% pageinfo %}}
+{{<alert>}}
 This script is devided into two parts.
-{{% /pageinfo %}}
+{{</alert>}}
 
 {{<card header="**1st script**">}}
 In this picture, a woman in a gray T-shirt and pajama bottoms is peacefully asleep on a bed above a large, fluffy white cloud. <br/>
@@ -45,9 +45,9 @@ Secondly, if she were to wake up and look down from such a great height, she mig
 
 ## Exercise 2: Father's Day
 
-{{% pageinfo %}}
+{{<alert>}}
 This script is devided into two parts.
-{{% /pageinfo %}}
+{{</alert>}}
 
 {{<card header="**1st script**">}}
 In the photo, there are presents on a timber desk that a father received for Father's Day. <br/>
@@ -80,9 +80,9 @@ I believe it’s a heartwarming gift that would make him smile.<br/>
 
 ## Exercise 3: Inside a Closet
 
-{{% pageinfo %}}
+{{<alert>}}
 This script is devided into two parts.
-{{% /pageinfo %}}
+{{</alert>}}
 
 {{<card header="**1st script**">}}
 The photo shows an open closet divided into three partitions. <br/>
