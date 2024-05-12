@@ -9,18 +9,9 @@ description: >
 
 ## Exercise 1: Let's Drive!
 
-{{% pageinfo %}}
-This script is devided into two parts.
-{{% /pageinfo %}}
-
-{{<alert info>}}
+{{<alert>}}
 This script is devided into two parts.
 {{</alert>}}
-
-{{<alert warning>}}
-This script is devided into two parts.
-{{</alert>}}
-
 
 {{<card header="**1st script**">}}
 The photo shows a group of six friends enjoying a city drive together in a minivan. <br/>

@@ -16,7 +16,7 @@ In particular, [Engoo's describing picture material](https://engoo.com/app/mater
 
 ![Engoo Photo Description page](/docsy/imgs/2024-05-10-Engoo-PhotoDescription.png)
 
-My primary goal right now is to become proficient at spontaneously describing what’s depicted in those images in English.
+My primary goal right now is to become proficient at spontaneously describing what’s depicted in those images in English.  
 I understand that mastering this skill overnight is unrealistic.
 
 I used to read news articles and English learning materials every day for about a year, but I realized I was just going through the motions without absorbing much content.   
