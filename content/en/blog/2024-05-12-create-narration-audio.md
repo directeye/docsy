@@ -17,14 +17,14 @@ Now, I'll explain how to create a narration audio file based on the prepared spe
 
 ## Using Software
 
-I'm using the following software:
+I use the following software:
 
 | Software | Description |
 | --- | --- |
 | [NaturalReader online](https://www.naturalreaders.com/) | It reads the text aloud in a natural voice. |
 | [OBS Studio](https://obsproject.com/) | It records the desktop screen, including audio. |
 | [FFmpeg](https://ffmpeg.org/) | It extracts MP3 audio from video files. |
-| [Audacity](https://www.audacityteam.org/) | It's digital audio editing software. |
+| [Audacity](https://www.audacityteam.org/) | It's a digital audio editing software. |
 
 {{<alert title="Note" color="primary">}}
 I'll spare the detailed setup and operation instructions for each software here.
@@ -42,12 +42,12 @@ Also, since downloading audio files directly from NaturalReader is a paid featur
 
 ![OBS Studio screenshot](/docsy/imgs/2024-05-12-obs-studio.png)
 
-While NaturalReader reads the text, I use OBS Studio to capture the desktop screen, saving it as an MP4 video file. 
+While NaturalReader reads the text, I use OBS Studio to capture the desktop screen, saving it as a MP4 video file. 
 
 ### FFmpeg
 
-After that, I use FFmpeg to pull out an MP3 audio file from the MP4 video.  
-Here's the command for extracting the MP3:
+After that, I use FFmpeg to extract a MP3 audio file from the MP4 video.  
+Here's the command prompt for extracting the MP3:
 
 ```
 ❯ ffmpeg -i narration.mp4 -vn narration.mp3

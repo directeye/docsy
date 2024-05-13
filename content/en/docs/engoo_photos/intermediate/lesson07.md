@@ -11,7 +11,7 @@ description: >
 
 {{<card header="**Script**">}}
 In the photo, a man and a woman, both dressed in navy business suits, are talking in front of a glass-walled building while looking at a file.<br/>
-The man, sporting facial stubble, is displaying the file and seems to be explaining something. <br/>
+The man, sporting stubble, is displaying the file and seems to be explaining something. <br/>
 Meanwhile, the woman, with strawberry-blond hair neatly tied up at the back, is holding a tablet in her left hand.<br/>
 She appears to be contemplating whether to sign the file with a pen, but it seems that she's still on the fence.<br/>
 It's worth noting that this is a staged representation, not a candid moment captured.<br/>

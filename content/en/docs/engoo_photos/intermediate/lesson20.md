@@ -15,7 +15,7 @@ He seems rather crestfallen. <br/>
 The bathroom walls are covered with turquoise mosaic tiles, and there's an arched wooden door behind him. <br/>
 The room gives off a somber vibe, perhaps mirroring his weary and jaded mood. <br/>
 He's leaning forward, with his cheek scrunched up into his right palm, perhaps he has just been dumped and is struggling with a sudden breakup. <br/>
-Despite sporting some facial stubble and a stylish buzz cut, his emotions seem to overshadow his appearance. <br/>
+Despite sporting stubble and a stylish buzz cut, his emotions seem to overshadow his appearance. <br/>
 He may be hoping that when he steps out of the bathroom, he can pull himself together and show a more confident and cheerful side of himself.<br/>
 <br/>
 (119 words)

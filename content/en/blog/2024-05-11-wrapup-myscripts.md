@@ -10,14 +10,14 @@ slug: wrapup-myscripts
 draft: false
 ---
 
-I usually draft one-minute speech scripts derived from [Engoo's describing picture material](https://engoo.com/app/materials/describing-pictures/P_HriMOnEeifo0O-yMP42w).  
-Those scripts can be found on my website under the section titled "[Scirpts for Engoo describing pictures](/docsy/docs/engoo_photos/)."
+I usually draft one-minute speech scripts derived from [Engoo's describing pictures material](https://engoo.com/app/materials/describing-pictures/P_HriMOnEeifo0O-yMP42w).  
+Those scripts can be found on my website under the section titled "[Scripts for Engoo describing pictures](/docsy/docs/engoo_photos/)."
 
 ## Drafting Detailed Photo Description Script
 
 
 When preparing a script for a photo description speech, I start by writing out the details in Japanese to make sure I capture all the nuances of the image.  
-Verbalise the clothing and behaviour of the people in the photo, or the situation of the objects.  
+I verbalise the clothing and behaviour of the people in the photo, or the situation of the objects.  
 I also include comments expressing my own opinions and thoughts based on the photo to complete the script.  
 
 ## Utilizing ChatGPT
@@ -72,7 +72,7 @@ If the script becomes too long and needs to be split into two one-minute speech 
 
 ```
 "write the translated script here"
-devide the script within the quotes into two parts
+divide the script within the quotes into two parts
 ```
 
 I'm experimenting like this to compile a script with more natural English expressions.

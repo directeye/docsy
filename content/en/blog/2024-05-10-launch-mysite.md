@@ -12,7 +12,7 @@ draft: false
 I've launched a website where I document my English learning journey!
 
 I mainly utilize [Engoo](https://engoo.com/app/materials/en)'s resources, which are freely available for personal use and are tailored for English learners.   
-In particular, [Engoo's describing picture material](https://engoo.com/app/materials/describing-pictures/P_HriMOnEeifo0O-yMP42w) contains a wide variety of photos and I use them for improving my English.
+In particular, [Engoo's describing pictures material](https://engoo.com/app/materials/describing-pictures/P_HriMOnEeifo0O-yMP42w) contains a wide variety of photos and I use them for improving my English.
 
 ![Engoo Photo Description page](/docsy/imgs/2024-05-10-Engoo-PhotoDescription.png)
 
