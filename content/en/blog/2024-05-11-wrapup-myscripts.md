@@ -11,7 +11,7 @@ draft: false
 ---
 
 I usually draft one-minute speech scripts derived from [Engoo's describing pictures material](https://engoo.com/app/materials/describing-pictures/P_HriMOnEeifo0O-yMP42w).  
-Those scripts can be found on my website under the section titled "[Scripts for Engoo describing pictures](/docsy/docs/engoo_photos/)."
+Those scripts can be found on my website under the section entitled "[Scripts for Engoo describing pictures](/docsy/docs/engoo_photos/)."
 
 ## Drafting Detailed Photo Description Script
 
@@ -41,7 +41,7 @@ When I leave the script as-is after translation, it tends to lose the natural fl
 That's why I have conversations like the one below with ChatGPT to refine it and make it sound more natural. 
 
 On the other hand, I've noticed that even when I provide the same instructions repeatedly, the resulting translation can vary each time.   
-So, I've compiled a script with the wording I find most suitable. 
+So, I compiled a script with the wording I find most suitable. 
 
 When I'm aiming for even greater naturalness, I'll provide the following prompt:
 
