@@ -10,7 +10,7 @@ description: >
 ## Exercise 1: On the Subway
 
 {{<alert>}}
-This script is devided into four parts.
+This script is divided into four parts.
 {{</alert>}}
 
 {{<card header="**1st script**">}}
@@ -71,7 +71,7 @@ Having a seat while traveling is obviously more comfortable, but moderate crowdi
 ## Exercise 2: In the Car
 
 {{<alert>}}
-This script is devided into three parts.
+This script is divided into three parts.
 {{</alert>}}
 
 {{<card header="**1st script**">}}
@@ -116,7 +116,7 @@ Deciphering the exact nature of this situation becomes a bit challenging.<br/>
 ## Exercise 3: Let's Take the Scooter
 
 {{<alert>}}
-This script is devided into three parts.
+This script is deiided into three parts.
 {{</alert>}}
 
 {{<card header="**1st script**">}}

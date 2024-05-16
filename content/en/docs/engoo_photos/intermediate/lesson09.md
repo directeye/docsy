@@ -10,7 +10,7 @@ description: >
 ## Exercise 1: An Usual Wedding Day
 
 {{<alert>}}
-This script is devided into two parts.
+This script is divided into two parts.
 {{</alert>}}
 
 {{<card header="**1st script**">}}

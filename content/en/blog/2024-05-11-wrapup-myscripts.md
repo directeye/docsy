@@ -55,7 +55,7 @@ change the script within the quotes above more naturally to make it easier to he
 If the script gets a bit long and can't fit into a one-minute speech, I'll give the following prompt:
 
 ```
-"write the translated script here"
+"write the script here"
 condense the script within the quotes to less than 120 words
 ```
 
@@ -71,7 +71,7 @@ shorten the above sentence into a headline-like format
 If the script becomes too long and needs to be split into two one-minute speech scripts, I'll provide the following prompt: 
 
 ```
-"write the translated script here"
+"write the script here"
 divide the script within the quotes into two parts
 ```
 

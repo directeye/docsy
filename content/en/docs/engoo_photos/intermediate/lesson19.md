@@ -10,7 +10,7 @@ description: >
 ## Exercise 1: Dreaming
 
 {{<alert>}}
-This script is devided into two parts.
+This script is divided into two parts.
 {{</alert>}}
 
 {{<card header="**1st script**">}}
@@ -46,7 +46,7 @@ Secondly, if she were to wake up and look down from such a great height, she mig
 ## Exercise 2: Father's Day
 
 {{<alert>}}
-This script is devided into two parts.
+This script is divided into two parts.
 {{</alert>}}
 
 {{<card header="**1st script**">}}
@@ -81,7 +81,7 @@ I believe it’s a heartwarming gift that would make him smile.<br/>
 ## Exercise 3: Inside a Closet
 
 {{<alert>}}
-This script is devided into two parts.
+This script is divided into two parts.
 {{</alert>}}
 
 {{<card header="**1st script**">}}

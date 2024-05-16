@@ -10,7 +10,7 @@ description: >
 ## Exercise 1: Christmas Dinner
 
 {{<alert>}}
-This script is devided into three parts.
+This script is divided into three parts.
 {{</alert>}}
 
 {{<card header="**1st script**">}}
@@ -60,7 +60,7 @@ As a side note, looking at the blinds on the window in the far-right corner, it 
 ## Exercise 2: Business Meeting
 
 {{<alert>}}
-This script is devided into three parts.
+This script is divided into three parts.
 {{</alert>}}
 
 {{<card header="**1st script**">}}
@@ -100,7 +100,7 @@ Nevertheless, in-person meetings are still often necessary when engaging with ex
 ## Exercise 3: A Stroll in a Kimono
 
 {{<alert>}}
-This script is devided into two parts.
+This script is divided into two parts.
 {{</alert>}}
 
 {{<card header="**1st script**">}}

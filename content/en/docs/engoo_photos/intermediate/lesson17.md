@@ -25,7 +25,7 @@ In that case, the mother is contemplating the need to console her daughter by pi
 ## Exercise 2: Bike Ride with a Pet
 
 {{<alert>}}
-This script is devided into two parts.
+This script is divided into two parts.
 {{</alert>}}
 
 {{<card header="**1st script**">}}
@@ -62,7 +62,7 @@ The camera lens captures lens flares, caused by strong sunlight, creating hazy, 
 ## Exercise 3: Rain on a Sunny Day
 
 {{<alert>}}
-This script is devided into two parts.
+This script is divided into two parts.
 {{</alert>}}
 
 {{<card header="**1st script**">}}

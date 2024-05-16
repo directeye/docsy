@@ -10,17 +10,17 @@ description: >
 ## Exercise 1: Brushing Teeth with Mom
 
 {{<alert>}}
-This script is devided into two parts.
+This script is divided into two parts.
 {{</alert>}}
 
 {{<card header="**1st script**">}}
 The photo shows a young boy brushing his teeth in the bathroom, with his mother holding him. <br/>
-The boy, dressed in a blue and white pinstriped short-sleeved shirt, holds a red-orange toothbrush in his right hand, pressing it against his front teeth, and smiling confidently at the camera. <br/>
+The boy, dressed in a blue and white pinstriped short-sleeved babygrow, holds a dark orange toothbrush in his right hand, pressing it against his front teeth, and smiling confidently at the camera. <br/>
 His mother, in a white blouse, squats beside him on his right, embracing his lower chest and appearing to offer him brushing advice while smiling. <br/>
 Upon closer inspection, you can see rings on both of her ring fingers.<br/>
 The explanation will be long, so I'll break here.<br/>
 <br/>
-(95 words)
+(96 words)
 {{</card>}}
 
 　
@@ -39,6 +39,18 @@ The mirror above the sink is slightly blurry, but it seems to reflect a kids' sp
 
 ## Exercise 2: All the Glamour
 
+{{<card header="**Script**">}}
+In the center of the photo, there's a woman who looks like a model posing while photographers surround her, flashing their cameras. <br/>
+It seems like she just entered a hallway with a red carpet leading to a stage, and the photographers are eagerly taking her picture.<br/>
+<br/>
+She's dressed in a classy beige sequined dress with a scoop neckline, complemented by a lavish gold necklace.<br/>
+With her right foot slightly forward, she exudes confidence.<br/>
+Her high cheekbones and facial contours are really accentuated, maybe because of her makeup. <br/>
+Her striking, wild eyes further emphasize her confident demeanor.<br/>
+The surrounding photographers, casually dressed, hold professional cameras with powerful flashes, highlighting her long, wavy blonde hair even more.<br/>
+<br/>
+(115 words)
+{{</card>}}
 
 ## Exercise 3: Which Flavor?
 

@@ -10,7 +10,7 @@ description: >
 ## Exercise 1: Learning to Ride a Bike
 
 {{<alert>}}
-This script is devided into two parts.
+This script is divided into two parts.
 {{</alert>}}
 
 {{<card header="**1st script**">}}

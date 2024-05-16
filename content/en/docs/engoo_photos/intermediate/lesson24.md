@@ -44,7 +44,7 @@ Below, a bench with a green backrest invites passersby to take a break and enjoy
 ## Exercise 2: Decisions...
 
 {{<alert>}}
-This script is devided into two parts.
+This script is divided into two parts.
 {{</alert>}}
 
 {{<card header="**1st script**">}}
@@ -76,7 +76,7 @@ Alternatively, the absence of rings suggests she's unmarried, perhaps with a boy
 ## Exercise 3: Eating a Watermelon
 
 {{<alert>}}
-This script is devided into two parts.
+This script is divided into two parts.
 {{</alert>}}
 
 {{<card header="**1st script**">}}

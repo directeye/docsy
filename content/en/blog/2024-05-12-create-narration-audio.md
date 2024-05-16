@@ -62,7 +62,7 @@ When recording screen captures with OBS Studio, it's common to end up with silen
 To address this, I use Audacity, an audio editing software, to trim out the unnecessary silent parts (<span style="color: red; ">highlighted in red in the diagram</span>) and extract the narration audio file.  
 The image above shows my script's narration audio being edited in Audacity.
 
-The following is a sample audio narration of [the script from Engoo Photo Description Lesson1 Exercise1](/docsy/docs/engoo_photos/intermediate/lesson01/#exercise-1-at-the-doctors-office).
+The following is a sample audio narration of [the script for Exercise 1 from Engoo's Photo Desctiption Lesson 1](/docsy/docs/engoo_photos/intermediate/lesson01/#exercise-1-at-the-doctors-office).
 <figure>
   <audio controls src="/docsy/audios/2024-05-12-narration.mp3">
 </figure>

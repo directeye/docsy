@@ -10,7 +10,7 @@ description: >
 ## Exercise 1: Walking the Dog
 
 {{<alert>}}
-This script is devided into two parts.
+This script is divided into two parts.
 {{</alert>}}
 
 {{<card header="**1st script**">}}
@@ -45,7 +45,7 @@ However, considering Japan's earthquake and tsunami risks, living by the beach m
 ## Exercise 2: Busy at Work
 
 {{<alert>}}
-This script is devided into two parts.
+This script is divided into two parts.
 {{</alert>}}
 
 {{<card header="**1st script**">}}

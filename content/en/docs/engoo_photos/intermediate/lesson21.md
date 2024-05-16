@@ -10,7 +10,7 @@ description: >
 ## Exercise 1: Let's Go Swimming!
 
 {{<alert>}}
-This script is devided into two parts.
+This script is divided into two parts.
 {{</alert>}}
 
 {{<card header="**1st script**">}}
@@ -46,7 +46,7 @@ Heading toward the mountains would probably give you a picturesque ocean view.<b
 ## Exercise 2: Movie Night
 
 {{<alert>}}
-This script is devided into two parts.
+This script is divided into two parts.
 {{</alert>}}
 
 {{<card header="**1st script**">}}
@@ -81,7 +81,7 @@ If she decides to toss her phone on the bed for a popcorn break, having some wet
 ## Exercise 3: Exercise
 
 {{<alert>}}
-This script is devided into two parts.
+This script is divided into two parts.
 {{</alert>}}
 
 {{<card header="**1st script**">}}
