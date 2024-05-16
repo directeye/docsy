@@ -54,4 +54,19 @@ The surrounding photographers, casually dressed, hold professional cameras with 
 
 ## Exercise 3: Which Flavor?
 
+{{<card header="**Script**">}}
+The photo shows three flavors of soft serve ice cream in different-sized cups lined up. <br/>
+Each cone-shaped cup holds a neatly swirled, twisted star-shaped soft serve.<br/>
+<br/>
+On the left, the largest cup has a rich brown chocolate flavor. <br/>
+In the middle-sized cup, there's a pale pink strawberry flavor, while the smallest cup on the right holds a creamy off-white vanilla flavor.<br/>
+<br/>
+Now, as for my flavor choice, it would depend on my mood since it can vary. <br/>
+Feeling a bit indulgent, I'd probably opt for the chocolate flavor. <br/>
+Soft serve ice cream is the perfect treat when hunger strikes on a hot day.<br/>
+<br/>
+Incidentally, the background in this photo is completely white with no shadows, giving it a staged representation.<br/>
+<br/>
+(120 words)
+{{</card>}}
 
