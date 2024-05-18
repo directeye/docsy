@@ -56,3 +56,14 @@ I'm sure people would have the same joyful expression as this dog when letting t
 
 ## Exercise 3: A Walk in the Field
 
+{{<card header="**Script**">}}
+The photo captures a woman walking through a wide meadow, clutching a bunch of yellow daisies in her right hand. <br/>
+She's dressed in a white knee-length sleeveless dress, giving off summer vibes. <br/>
+The hem of her dress is edged with lace, and there are horizontal pleats around her waist. <br/>
+She wears a wristband on her left wrist. <br/>
+Perhaps due to the strong wind, her long hair partially covers her face. <br/>
+On her right, there's this patch of untouched grass, while the grassland behind her slopes upward gently.<br/>
+It makes me wonder where she found those daisies, given that all around her, the grasslands are lush and green.<br/>
+<br/>
+(107 words)
+{{</card>}}
