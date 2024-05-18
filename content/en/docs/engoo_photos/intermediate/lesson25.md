@@ -15,7 +15,7 @@ This script is divided into two parts.
 
 {{<card header="**1st script**">}}
 The photo shows a young boy brushing his teeth in the bathroom, with his mother holding him. <br/>
-The boy, dressed in a blue and white pinstriped short-sleeved babygrow, holds a dark orange toothbrush in his right hand, pressing it against his front teeth, and smiling confidently at the camera. <br/>
+The boy, dressed in a blue and white pinstriped short-sleeved pajamas, holds a dark orange toothbrush in his right hand, pressing it against his front teeth, and smiling confidently at the camera. <br/>
 His mother, in a white blouse, squats beside him on his right, embracing his lower chest and appearing to offer him brushing advice while smiling. <br/>
 Upon closer inspection, you can see rings on both of her ring fingers.<br/>
 The explanation will be long, so I'll break here.<br/>
@@ -41,32 +41,49 @@ The mirror above the sink is slightly blurry, but it seems to reflect a kids' sp
 
 {{<card header="**Script**">}}
 In the center of the photo, there's a woman who looks like a model posing while photographers surround her, flashing their cameras. <br/>
-It seems like she just entered a hallway with a red carpet leading to a stage, and the photographers are eagerly taking her picture.<br/>
+It seems like she just entered a hallway with a red carpet leading to a stage, and the photographers are eagerly taking pictures of her.<br/>
 <br/>
 She's dressed in a classy beige sequined dress with a scoop neckline, complemented by a lavish gold necklace.<br/>
 With her right foot slightly forward, she exudes confidence.<br/>
 Her high cheekbones and facial contours are really accentuated, maybe because of her makeup. <br/>
-Her striking, wild eyes further emphasize her confident demeanor.<br/>
-The surrounding photographers, casually dressed, hold professional cameras with powerful flashes, highlighting her long, wavy blonde hair even more.<br/>
+Her striking eyes further emphasize her confident demeanor.<br/>
+The surrounding photographers are casually dressed and they hold professional cameras with powerful flashes that highlight her long, wavy blonde hair even more.<br/>
 <br/>
-(115 words)
+(119 words)
 {{</card>}}
 
 ## Exercise 3: Which Flavor?
 
-{{<card header="**Script**">}}
-The photo shows three flavors of soft serve ice cream in different-sized cups lined up. <br/>
-Each cone-shaped cup holds a neatly swirled, twisted star-shaped soft serve.<br/>
+{{<alert>}}
+This script is divided into two parts.
+{{</alert>}}
+
+{{<card header="**1st script**">}}
+The photo shows three flavors of soft serve ice cream in three different-sized cups that are lined up.<br/>
+Each cup holds a different amount of neatly swirled star-shaped soft serve ice-cream.<br/>
 <br/>
-On the left, the largest cup features a rich brown chocolate flavor. <br/>
-In the middle-sized cup, there's a pale pink strawberry flavor, while the smallest cup on the right holds a creamy off-white vanilla flavor.<br/>
+On the left, the largest cup features a rich, brown chocolate flavor.<br/>
+In the middle-sized cup, there's a delicate, pale pink strawberry flavor, while the smallest cup on the right holds a creamy, off-white vanilla flavor.<br/>
 <br/>
-Now, as for my flavor choice, it would depend on my mood since it can vary. <br/>
-However, being a bit greedy, I'd likely go for the chocolate flavor. <br/>
-Soft serve ice cream is just the perfect treat, especially on a scorching day.<br/>
+The explanation will be long, so I'll break here.<br/>
 <br/>
-Incidentally, the background in this photo is completely white with no shadows, giving it a staged representation.<br/>
-<br/>
-(120 words)
+(77 words)
 {{</card>}}
+
+　
+
+{{<card header="**2nd script**">}}
+In the previous video, I talked about three varieties of soft serve ice cream.<br/>
+If I had to make a choice based on greed alone, I'd go for the larger portion of chocolate.<br/>
+<br/>
+However, when it comes to my actual preference, it really depends on my mood. <br/>
+During the summer, I often crave something refreshing like mint chocolate or the tang of a Valencia orange flavor. <br/>
+But when winter arrives, I tend to stick to the comforting classics like vanilla or chocolate.<br/>
+Soft serve is an ideal treat, especially on hot days.<br/>
+<br/>
+Incidentally, the background is completely white with no shadows, giving it a staged representation.<br/>
+<br/>
+(106 words)
+{{</card>}}
+
 
