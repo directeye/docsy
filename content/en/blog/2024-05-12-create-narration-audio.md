@@ -27,7 +27,7 @@ I use the following software:
 | [Audacity](https://www.audacityteam.org/) | It's a digital audio editing software. |
 
 {{<alert title="Note" color="primary">}}
-I'll spare the detailed setup and operation instructions for each software here.
+Detailed setup and operation instructions for each software are omitted here.
 {{</alert>}}
 
 ### Natural Reader online

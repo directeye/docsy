@@ -12,8 +12,8 @@ slug: create-speech-video
 draft: false
 ---
 
-In my previous post, I explained how to extract the narration audio as an MP3 file.   
-Now, I'll explain how create my own speech videos by mimicking the narration. 
+In my previous post, I explained how to extract the narration audio as a MP3 file.   
+Now, I'll explain how I create my own speech videos by mimicking the narration. 
 
 ## Using Software
 
@@ -28,7 +28,7 @@ I use the following free software:
 | [YouTube](https://www.youtube.com/) | For uploading and sharing videos. |
 
 {{<alert title="Note" color="primary">}}
-I'll spare the detailed setup and operation instructions for each software here.
+Detailed setup and operation instructions for each software are omitted here.
 {{</alert>}}
 
 After extracting the narration audio, I use Audipo or VLC media player to adjust the playback speed and practice my speech.   
