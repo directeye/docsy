@@ -58,3 +58,35 @@ It's a heartwarming scene that brings a smile to my face.<br/>
 
 ## Exercise 3: Stressed over Work
 
+{{<alert>}}
+This script is divided into two parts.
+{{</alert>}}
+
+{{<card header="**1st script**">}}
+The woman in the photo looks worn out, clearly overwhelmed by the work in front of her.<br/>
+She's wearing this pale, light blue jacket with long sleeves, and her long hair is brushed back and draped over her left arm. <br/>
+On her desk, there's a laptop to the left and a towering stack of thick books and notebooks to the right, almost reaching her shoulder. <br/>
+She's trying to type something on the laptop with her right hand, but her hand is just kind of hovering there above the keyboard, paused.<br/>
+Meanwhile, her left elbow is propped up on the desk and she's using that hand to cover her face, eyes shut from sheer exhaustion.<br/>
+<br/>
+The explanation will be long, so I'll pause here.<br/>
+<br/>
+(123 words)
+{{</card>}}
+
+　
+
+{{<card header="**2nd script**">}}
+In my previous video, I described the scene of a woman who was exhausted from work.<br/>
+Now, let me share my thoughts on this image.<br/>
+<br/>
+She looks like she could use some help but doesn’t seem to have the energy to contact anyone. <br/>
+What she truly needs is to step away from her desk for a while to take a break and recharge herself.<br/>
+<br/>
+Before the COVID pandemic, I was a workaholic, constantly juggling massive projects that loomed over me. <br/>
+But now that I'm working from home full-time and don't have to deal with that daily commute, I've been able to shift my focus to a better work-life balance by tackling projects within my means.<br/>
+<br/>
+It's really made a positive difference for my wellbeing overall.<br/>
+<br/>
+(127 words)
+{{</card>}}
