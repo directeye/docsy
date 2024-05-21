@@ -47,23 +47,23 @@ As a side note, Japan's birthrate is declining and many households have only one
 The photo shows a dog enjoying the wind from the fully open rear left passenger window. <br/>
 It's a clear, sunny day with big white clouds in the sky and lush, green trees lining the road, making it perfect for a drive. <br/>
 The brown dog in the car draws attention with its large, black mouth. <br/>
-Its eyes closed, it slightly opens its mouth to feel the wind, revealing its oddly folded, wafer-thin, red tongue and prominent pointed canine teeth at the front. <br/>
+With its eyes closed, it slightly opens its mouth to feel the wind, revealing its oddly folded, wafer-thin, red tongue and prominent pointed canine teeth at the front. <br/>
 Upon closer inspection, you can also notice a collar with stitches in the middle around its neck.<br/>
 I'm sure people would have the same joyful expression as this dog when letting the wind hit their face by opening the car window.<br/>
 <br/>
-(122 words)
+(123 words)
 {{</card>}}
 
 ## Exercise 3: A Walk in the Field
 
 {{<card header="**Script**">}}
 The photo captures a woman walking through a wide meadow, clutching a bunch of yellow daisies in her right hand. <br/>
-She's dressed in a white knee-length sleeveless dress, giving off summer vibes. <br/>
+She's dressed in a white knee-length sleeveless dress, giving off a summer vibe. <br/>
 The hem of her dress is edged with lace, and there are horizontal pleats around her waist. <br/>
 Taking a closer look, she wears a wristband on her left wrist. <br/>
 Perhaps due to the strong wind, her long hair partially covers her face. <br/>
-On her right, there's this patch of untouched grass, while the grassland behind her slopes upward gently.<br/>
-It makes me wonder where she found those daisies, given that all around her, the grasslands are lush and green.<br/>
+On her right, there's a patch of untouched grass, while the grassland behind her slopes upward gently.<br/>
+It makes me wonder where she found those daisies, given that all around her we can only see lush, green grasslands.<br/>
 <br/>
-(111 words)
+(113 words)
 {{</card>}}
