@@ -10,15 +10,15 @@ description: >
 ## Exercise 1: Family
 
 {{<card header="**Script**">}}
-The photo shows a parent and baby wild elephant strolling leisurely across a grassy plain. <br/>
+The photo shows a parent and baby elephant strolling leisurely across a grassy plain. <br/>
 The larger one, probably the mother since she doesn’t have tusks, is walking with the baby snugly behind her on the left. <br/>
-The mother's lifted left front foot has wet toes, and the baby's trunk, which it’s putting in its mouth, is also wet.<br/>
+The mother's lifted left front foot has darkened toes, as does the baby's trunk, which it’s putting in its mouth, indicating they may be wet.<br/>
 They might have just come from a watering hole. <br/>
 Behind the mother, there’s a sturdy herbivore sitting, though its face isn’t visible. <br/>
-At first glance, there don’t seem to be any predators around. <br/>
+At first glance, there don't seem to be any predators around.<br/>
 The grassy plain has lush groves of trees, and it looks like they're enjoying a very peaceful moment.<br/>
 <br/>
-(120 words)
+(112 words)
 {{</card>}}
 
 
@@ -34,18 +34,17 @@ He’s awkwardly slicing tomatoes with a knife on a cutting board and has also c
 The woman on the left is resting her right hand on his shoulder, and her red nail polish is quite striking.<br/>
 <br/>
 On the left side of the cutting board, there's a whole uncut tomato and a half-sliced cucumber. <br/>
-From his perspective to the right back side of the cutting board, a clear glass bowl is filled with freshly cut salad. <br/>
-To the left back, a measuring scale and a glass of water are placed.<br/>
+A clear glass bowl is filled with freshly cut salad to the young man's right and behind the cutting board while a measuring scale and a glass of water are placed to the left.<br/>
 <br/>
 The explanation will be long, so I'll pause here.<br/>
 <br/>
-(123 words)
+(119 words)
 {{</card>}}
 
 　
 
 {{<card header="**2nd script**">}}
-Now, shifting our focus to the right of the young couple, a sleek black single sink with a modern faucet stands out. <br/>
+Now, shifting our focus to the right of the young couple, a single sleek black sink with a modern faucet stands out. <br/>
 Next to it, a knife holder proudly displays three knives. <br/>
 At the far end of the L-shaped wooden laminate kitchen counter, a stainless-steel bell-shaped whistling kettle sits atop the stove. <br/>
 Above it, a range hood is installed beneath white kitchen cabinets.<br/>
@@ -63,11 +62,11 @@ This script is divided into two parts.
 {{</alert>}}
 
 {{<card header="**1st script**">}}
-The woman in the photo looks worn out, clearly overwhelmed by the work in front of her.<br/>
-She's wearing this pale, light blue jacket with long sleeves, and her long hair is brushed back and draped over her left arm. <br/>
+The woman in the photo looks burned out and is clearly overwhelmed by the work in front of her.<br/>
+She's wearing a light blue long-sleeved shirt, and her long brown hair is loose and brushed to the left.<br/>
 On her desk, there's a laptop to the left and a towering stack of thick books and notebooks to the right, almost reaching her shoulder. <br/>
-She's trying to type something on the laptop with her right hand, but her hand is just kind of hovering there above the keyboard, paused.<br/>
-Meanwhile, her left elbow is propped up on the desk and she's using that hand to cover her face, eyes shut from sheer exhaustion.<br/>
+She's trying to type something on the laptop with her right hand, but her hand is just kind of hovering there above the keyboard.<br/>
+Meanwhile, her left elbow is propped up on the desk and she's using that hand to cover her face while she shuts her eyes from sheer exhaustion.<br/>
 <br/>
 The explanation will be long, so I'll pause here.<br/>
 <br/>
@@ -80,13 +79,13 @@ The explanation will be long, so I'll pause here.<br/>
 In my previous video, I described the scene of a woman who was exhausted from work.<br/>
 Now, let me share my thoughts on this image.<br/>
 <br/>
-She looks like she could use some help but doesn’t seem to have the energy to contact anyone. <br/>
-What she truly needs is to step away from her desk for a while to take a break and recharge herself.<br/>
+She looks like she could use some help but doesn’t even have the energy to contact anyone. <br/>
+What she truly needs is to step away from her desk for a while to take a break and recharge.<br/>
 <br/>
 Before the COVID pandemic, I was a workaholic, constantly juggling massive projects that loomed over me. <br/>
-But now that I'm working from home full-time and don't have to deal with that daily commute, I've been able to shift my focus to a better work-life balance by tackling projects within my means.<br/>
+Now, working from home full-time without the daily commute, I’ve shifted to a better work-life balance by tackling projects within my means.
 <br/>
-It's really made a positive difference for my wellbeing overall.<br/>
+It's really made a positive difference for my overall wellbeing and it looks like this woman would benefit from doing the same.<br/>
 <br/>
-(127 words)
+(122 words)
 {{</card>}}

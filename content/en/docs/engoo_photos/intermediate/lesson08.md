@@ -31,12 +31,12 @@ The explanation will be long, so I'll break here.<br/>
 In my previous video, I described the scene of a son riding his bike while his father watched over him. <br/>
 Now, let's take a look at the surroundings. <br/>
 The faded white center line of the cycling path guides the boy as he cycles straight ahead, just above it. <br/>
-In the distance, the path curves gently left around a small grove of trees. <br/>
+In the distance, the path curves gently to the left around a small grove of trees. <br/>
 Upon closer inspection, you can see white buildings across the river, suggesting a residential district. <br/>
 The picture is set on a scenic cycling path by a river, surrounded by a magnificent natural mountain range. <br/>
 It's a touching scene that reflects the father's pride in his son's growth.<br/>
 <br/>
-(109 words)
+(111 words)
 {{</card>}}
 　
 
