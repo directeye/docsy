@@ -12,7 +12,7 @@ slug: create-speech-video
 draft: false
 ---
 
-In my previous post, I explained how to extract the narration audio as a MP3 file.   
+In my previous post, I explained how to extract the narration audio as an MP3 file.   
 Now, I'll explain how I create my own speech videos by mimicking the narration. 
 
 ## Using Software

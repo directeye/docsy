@@ -26,11 +26,11 @@ Now, I'm fully committed to thinking and speaking in English.
 I’ve been working on dividing and condensing it into short speeches within one minute, memorizing the script, and then recording myself delivering the speech without reading it.
 
 Through this practice, I've found myself expressing the scripts much more actively in my own words in English, rather than simply reading something written by someone else.  
-And I want to break the habit of thinking in Japanese and start thinking and speaking in English, with proper grammar.
+I want to break the habit of thinking in Japanese and start thinking and speaking in English, with proper grammar.
 
 Currently, I feel like I'm finally starting to speak some English.   
 When I listen to my recorded speeches, I can tell my pronunciation has improved, and even native speakers have mentioned that it's getting better.   
-In preparation for recording these short English speeches, I’ve been thoroughly rehearsing the script, using AI-generated voice narration to mimic a natural delivery until I can confidently reproduce the speech.
+In preparation for recording these short English speeches, I’ve been thoroughly rehearsing the script, using AI-generated voice narration to mimic a natural delivery until I can confidently recite the speech.
 
 Thanks to this approach, I’ve been able to establish an environment where I can create scripts, extract narration audio, and practice speeches using useful free websites and software.  
 I hope to share these tips with others who might find it beneficial.

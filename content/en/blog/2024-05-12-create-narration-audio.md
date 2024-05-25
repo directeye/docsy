@@ -47,7 +47,7 @@ The image above shows my script being read by NaturalReader online, with the scr
 
 ### FFmpeg
 
-After that, I use FFmpeg to extract a MP3 audio file from the MP4 video.  
+After that, I use FFmpeg to extract an MP3 audio file from the MP4 video.  
 Here's the command prompt for extracting the MP3:
 
 ```

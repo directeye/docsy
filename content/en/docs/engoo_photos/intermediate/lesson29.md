@@ -1,7 +1,7 @@
 ---
 title: "Scripts for lesson 29"
 linkTitle: "Scripts for lesson 29"
-date: 2024-05-25 20:00:00 +0900
+date: 2024-05-24 20:00:00 +0900
 weight: 30
 description: >
   Engoo website reference link: [Lesson 29: Stress and Relaxation](https://engoo.com/app/lessons/describing-pictures-intermediate-describing-pictures-stress-and-relaxation/NzD7VkuPEeexG5uEAiobLQ?category_id=P_HriMOnEeifo0O-yMP42w&course_id=ZZasjsOnEeiHZVOMC0VfdA)
