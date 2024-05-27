@@ -42,7 +42,7 @@ Also, since downloading audio files directly from NaturalReader is a paid featur
 
 ![OBS Studio screenshot](/docsy/imgs/2024-05-12-obs-studio.png)
 
-While NaturalReader reads the text, I use OBS Studio to capture the desktop screen, saving it as a MP4 video file.   
+While NaturalReader reads the text, I use OBS Studio to capture the desktop screen, saving it as an MP4 video file.   
 The image above shows my script being read by NaturalReader online, with the screen captured using OBS Studio.
 
 ### FFmpeg
