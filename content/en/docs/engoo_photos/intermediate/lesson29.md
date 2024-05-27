@@ -80,3 +80,30 @@ Even though we can't see their faces, we can tell everyone’s having a great ti
 
 ## Exercise 3: On the Balcony
 
+{{<alert>}}
+This script is divided into two parts.
+{{</alert>}}
+
+{{<card header="**1st script**">}}
+The photo shows a charming second-floor balcony overlooking a lush garden below. <br/>
+Furnishing the balcony is a quaint round folding patio table with a steel frame and wooden top, paired with a slatted wooden folding garden chair. <br/>
+The chair rests on a blue tasseled rug and is made cozy with a gridded cushion and light blue tasseled blanket draped over it. <br/>
+Sitting on the table is an open thick book alongside three round potted plants, one of which is in bloom while the other two are houseplants.<br/>
+Additionally, three more round potted plants are tucked away on the floor under the right side of the table.<br/>
+<br/>
+The explanation will be long, so I'll pause here.<br/>
+<br/>
+(115 words)
+{{</card>}}
+
+　
+
+{{<card header="**2nd script**">}}
+Looking around the table on the second-floor balcony, you can see rectangular enamel planters brimming with flowering plants hanging from the stainless-steel railings in front of the table on either side. <br/>
+The planter to the right particularly stands out, overflowing with its vibrant red, white, and purple blooms that demand attention. <br/>
+When you look down into the garden below, you'll see towering trees reaching their branches up toward the second story, with a lush green lawn and other blooming flowers scattered around. <br/>
+Though the balcony may be compact in size, settling into the cozy seating arrangement with a cushioned chair, tasseled blanket, and a favorite book is irresistible. <br/>
+Surrounded by verdant greenery and colorful flowers, it would undoubtedly make for a relaxing and delightful day.<br/>
+<br/>
+(125 words)
+{{</card>}}
