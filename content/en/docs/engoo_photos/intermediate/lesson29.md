@@ -50,9 +50,9 @@ This script is divided into two parts.
 
 {{<card header="**1st script**">}}
 The photo shows a group of friends enjoying burgers at a restaurant.<br/>
-We can't quite tell if they're outside on a patio or inside, or whether it's daytime or nighttime.<br/>
+It's hard to tell if they're seated inside or outside on a patio, and we're not sure if it's daytime or nighttime.<br/>
 <br/>
-On the wooden table in front of them there are glasses of beer, the burgers and piles of fries. <br/>
+On the wooden table in front of them there are glasses of beer, two burgers and piles of fries. <br/>
 The food is served up on classic paper wrappers that are sitting on wooden trays. <br/>
 It is clear that they've already had a few sips of beer by looking at the half-empty glasses.<br/>
 So, it looks like the drinks came first and the food has just arrived. <br/>
@@ -60,19 +60,19 @@ They're about to start eating.<br/>
 <br/>
 The explanation will be long, so I'll pause here.<br/>
 <br/>
-(110 words)
+(114 words)
 {{</card>}}
 
 　
 
 {{<card header="**2nd script**">}}
-Now, let's focus on how the friends are behaving.<br/>
+Now, let's see how the friends are acting.<br/>
 <br/>
 The two friends on the left and right in the center are both gripping their burgers with both hands, ready to dig in. <br/>
-The one on the left still has a burger skewer sticking out of their burger, while the one on the right has already removed theirs.<br/>
-Up in the top right corner, someone has set aside a toothpick by the fries, but they're picking up a fry with their fingers instead.<br/>
+The one on the left still has a skewer in their burger, while the one on the right has removed theirs.<br/>
+Up in the top right corner, someone has set aside a toothpick by the fries, but they're picking them up with their fingers instead.<br/>
 The people on the upper left and bottom left seem to be reaching for their drinks.<br/>
-Overall, it's a lively, friendly atmosphere. <br/>
+Overall, it seems like a lively, friendly atmosphere. <br/>
 Even though we can't see their faces, we can tell everyone’s having a great time, chatting and surely enjoying their meal with lots of smiles.<br/>
 <br/>
 (126 words)
@@ -88,21 +88,21 @@ This script is divided into two parts.
 {{<card header="**1st script**">}}
 The photo shows a charming second-floor balcony overlooking a lush garden below. <br/>
 Furnishing the balcony is a quaint round folding patio table with a steel frame and wooden top, paired with a slatted wooden folding garden chair. <br/>
-The chair rests on a blue tasseled rug and is made cozy with a gridded cushion and light blue tasseled blanket draped over it. <br/>
+The chair rests on a blue tasseled rug and is made cozy with a grid designed cushion and a light blue tasseled blanket draped over it. <br/>
 Sitting on the table is an open thick book alongside three round potted plants, one of which is in bloom while the other two are houseplants.<br/>
 Additionally, three more round potted plants are tucked away on the floor under the right side of the table.<br/>
 <br/>
 The explanation will be long, so I'll pause here.<br/>
 <br/>
-(115 words)
+(116 words)
 {{</card>}}
 
 　
 
 {{<card header="**2nd script**">}}
-Looking around the table on the second-floor balcony, you can see rectangular enamel planters brimming with flowering plants hanging from the stainless-steel railings in front of the table on either side. <br/>
+Looking around the table on the second-floor balcony, you can see rectangular enamel planters brimming with flowering plants hanging from the stainless-steel railing in front of the table on either side. <br/>
 The planter to the right particularly stands out, overflowing with its vibrant red, white, and purple blooms. <br/>
-Down into the garden below, you'll see towering trees reaching their branches up toward the second story, with a lush green lawn and other blooming flowers scattered around. <br/>
+Down in the garden below, you'll see towering trees reaching their branches up toward the second story, with a lush green lawn and other blooming flowers scattered around. <br/>
 Though the balcony may be compact, settling into the cozy seating arrangement with a cushioned chair, tasseled blanket, and a favorite book is irresistible.<br/>
 Surrounded by verdant greenery and colorful flowers, it would undoubtedly make for a relaxing and delightful day.<br/>
 <br/>
