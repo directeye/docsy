@@ -47,14 +47,43 @@ It looks like an ideal spot to spend a weekend, close to both the city center an
 The photo captures dusk as the downtown high-rise district begins to light up.<br/>
 Despite clouds obscuring the sunset, glimpses of the bluish-white twilight sky peek through.<br/>
 As darkness sets in, the illuminated skyline becomes clear. <br/>
-The dark area in the middle, framed by the skyscrapers and a forefront street, looks like a park surrounded by greenery.<br/>
-The vividly glowing orange and greenish-white streaks on the major street in the foreground are likely from the strobing streetlights and passing car headlights.<br/>
+The dark patch in the middle, framed by the skyscrapers and a forefront street, looks like a park surrounded by greenery. <br/>
+The vividly glowing orange and greenish-white streaks on the major street are likely from the strobing streetlights and passing car headlights.<br/>
 With only an old iPhone camera, capturing such a crisp low-light photo seems impossible.<br/>
-Living in the countryside, opportunities to photograph skyscrapers are rare.<br/>
+Living in the countryside, opportunities to photograph high-rise cityscapes are rare.<br/>
 I wish I could experience taking a photo like this at least once with a professional DSLR camera.<br/>
 <br/>
-(122 words)
+(120 words)
 {{</card>}}
 
 ## Exercise 3: Fireworks Display
+
+{{<alert>}}
+This script is divided into two parts.
+{{</alert>}}
+
+{{<card header="**1st script**">}}
+This photo captures a dazzling fireworks display lighting up the night sky above the waterfront in vivid colors. <br/>
+On either side, fireworks shoot upwards, leaving trails behind, accompanied by small orange scale-like sparklers bursting outward from their trajectories.<br/>
+As they reach higher, some vibrant pink spherical fireworks appear, overlapping to create an even more bright spectacle.<br/>
+At the center's highest point, a massive purple firework with a glowing red core dances gracefully through the air.<br/>
+<br/>
+The explanation will be long, so I'll pause here.<br/>
+<br/>
+(84 words)
+{{</card>}}
+
+　
+
+{{<card header="**2nd script**">}}
+Shifting our focus to the bottom right corner, neon lights softly illuminate what appears to be the stadium entrance. <br/>
+Upon closer inspection, it's evident that the stadium field serves as the launch pad for the pink fireworks, with the venue's light poles turned off. <br/>
+Along the shore, the sparkling trails of fireworks and neon lights are reflected on the surface of the water.<br/>
+<br/>
+Culturally, such fireworks displays are often associated with New Year's celebrations in the West.<br/>
+In Japan, they're a staple of the summer Bon festival season, celebrated nationwide. <br/>
+Incidentally, the Japanese Bon festival has cultural similarities to Christianity's All Souls' Day, a time to honor ancestral spirits. <br/>
+<br/>
+(109 words)
+{{</card>}}
 
