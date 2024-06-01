@@ -30,19 +30,30 @@ The explanation will be long, so I'll pause here.<br/>
 
 {{<card header="**2nd script**">}}
 Looking towards the back of the desk rows where employees are seated, you can see some cabinets or storage units, and beyond those, there are open meeting spaces. <br/>
-In the far right corner, there’s a glass-enclosed private room, probably for someone higher up or a team leader.<br/>
+In the far right corner, there’s a glass-enclosed private booth, probably for an executive of this company.<br/>
 <br/>
 As a side note, after the COVID pandemic, my company stopped assigning individual desks. <br/>
 We transitioned to a free-address seating system, where you can sit at any available desk. <br/>
 However, in the past four years since COVID, I've only commuted to the office a handful of times. <br/>
 I prefer my home office because I can take a guilt-free half-hour nap after lunch, clear my head, and work productively in the afternoon.<br/>
 <br/>
-(118 words)
+(116 words)
 {{</card>}}
 
 
 ## Exercise 2: Healthy Living
 
+{{<card header="**Script**">}}
+The photo captures a couple dressed in matching grey T-shirts and shorts, sitting on the sandy beach, ready to enjoy their salad. <br/>
+The man is holding a plastic salad container in his right hand and a fork in his left, pointing it at the salad while talking to his girlfriend. <br/>
+She’s holding her own salad container, and she's literally in the middle of bringing a forkful up to her mouth, smiling in response to what he’s saying. <br/>
+<br/>
+Behind them, the sandy ground slopes upward, with some greenery visible at the top.<br/>
+There's also a large palm tree directly behind the man. <br/>
+To the right, you can see the ocean extending from the beach, the cloudy sky creating a hazy horizon.<br/>
+<br/>
+(120 words)
+{{</card>}}
 
 ## Exercise 3: An Amazing View
 
