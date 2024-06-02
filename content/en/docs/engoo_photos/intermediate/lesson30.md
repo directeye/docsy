@@ -65,26 +65,27 @@ This script is divided into two parts.
 
 {{<card header="**1st script**">}}
 This photo captures a dazzling fireworks display lighting up a pitch black sky over a waterfront in vivid colors.<br/> 
-On either side of the photo, fireworks shoot upwards, leaving trails behind, accompanied by small orange scale-like sparklers bursting outward from their trajectories.<br/>
-As they reach higher, some vibrant pink spherical fireworks appear, overlapping to create an even brighter spectacle.<br/>
-At the center's highest point, a massive purple firework with a glowing red core dances gracefully through the air.<br/>
+On either side of the photo, several fuchsia-colored fireworks shoot upwards, leaving trails behind. <br/>
+They are accompanied by small orange sparklers that are shaped somewhat like a bird's footprint, and are bursting outward from their trajectories. <br/>
+In the center of the photo and at the highest point in the night sky, we can see the largest firework. <br/>
+It is a massive bluish-purple firework with a glowing red core that explodes gracefully through the air.<br/>
 <br/>
 The explanation will be long, so I'll pause here.<br/>
 <br/>
-(84 words)
+(102 words)
 {{</card>}}
 
 　
 
 {{<card header="**2nd script**">}}
 Shifting our focus to the bottom right corner, neon lights softly illuminate what appears to be the stadium entrance. <br/>
-Upon closer inspection, it's evident that the stadium field serves as the launch pad for the pink fireworks, with the venue's light poles turned off. <br/>
+If you don't zoom in on the image and look closely, you might miss that the pink fireworks on the right are being launched from the stadium field, and the light poles there are turned off.<br/>
 Along the shore, the sparkling trails of fireworks and neon lights are reflected on the surface of the water.<br/>
 <br/>
-Culturally, such firework displays are often associated with New Year's celebrations in the West.<br/>
+Culturally, such fireworks displays are often associated with New Year's celebrations in the West.<br/>
 In Japan, they're a staple of the summer Bon festival season, celebrated nationwide. <br/>
 Incidentally, the Japanese Bon festival has cultural similarities to Christianity's All Souls' Day, a time to honor ancestral spirits. <br/>
 <br/>
-(109 words)
+(120 words)
 {{</card>}}
 
