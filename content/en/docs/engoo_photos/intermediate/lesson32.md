@@ -23,6 +23,15 @@ Yet, even to me, his display of achievement is dazzling.<br/>
 
 ## Exercise 2: Friends at the Beach
 
+{{<card header="**Script**">}}
+It captures the exhilarating moment when five girlfriends jump towards the ocean in unison. <br/>
+They're all sporting bikini tops and denim shorts, arms flung up as they bend their knees and launch themselves high off the sandy beach, kicking up sprays of sand.<br/>
+All five have long hair and are about the same height, with the woman in the center having beautiful blonde hair. <br/>
+A turquoise blue ocean stretches endlessly under a brilliantly clear sky, with not a single cloud in sight, offering a crisp view all the way to the horizon.<br/>
+The five friends are probably letting out joyful shouts as they jump, even though we can't see their expressions from this angle. <br/>
+<br/>
+(114 words)
+{{</card>}}
 
 ## Exercise 3: Milk
 
