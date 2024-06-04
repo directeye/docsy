@@ -15,7 +15,7 @@ It's a clearly staged image, but dollar notes are falling from above, suggesting
 The man is wearing a gray suit, a light blue shirt, and a striped tie. <br/>
 With both hands raised in a victorious gesture and his mouth open in an exuberant shout, he looks like he’s reveling in his hard-earned triumph. <br/>
 The man in the photo exudes ambition and energy. <br/>
-For someone like me, now well into the latter half of life and living an ordinary existence, I I've lost that hunger to strike it big in one shot. <br/>
+For someone like me, now well into the latter half of life and living an ordinary existence, I've lost that hunger to strike it big in one shot. <br/>
 Yet, even to me, his display of achievement is dazzling.<br/>
 <br/>
 (117 words)
