@@ -78,14 +78,14 @@ The explanation will be long, so I'll pause here.<br/>
 　
 
 {{<card header="**2nd script**">}}
-Shifting our focus to the bottom right corner, neon lights softly illuminate what appears to be the stadium entrance. <br/>
-If you don't zoom in on the image and look closely, you might miss that the pink fireworks on the right are being launched from the stadium field, and the light poles there are turned off.<br/>
+Shifting our focus to the bottom right corner, neon lights softly illuminate what appears to be a stadium entrance. <br/>
+If you don't zoom in on the image and look closely, you might miss that the pink fireworks on the right are being launched from the stadium field, and the lights there are turned off.<br/>
 Along the shore, the sparkling trails of fireworks and neon lights are reflected on the surface of the water.<br/>
 <br/>
 Culturally, such fireworks displays are often associated with New Year's celebrations in the West.<br/>
 In Japan, they're a staple of the summer Bon festival season, celebrated nationwide. <br/>
 Incidentally, the Japanese Bon festival has cultural similarities to Christianity's All Souls' Day, a time to honor ancestral spirits. <br/>
 <br/>
-(120 words)
+(119 words)
 {{</card>}}
 

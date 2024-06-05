@@ -35,3 +35,12 @@ The five friends are probably letting out joyful shouts as they jump, even thoug
 
 ## Exercise 3: Milk
 
+{{<card header="**Script**">}}
+The photo shows a milk bottle with a white cap on top, a white mug with a black rim filled with milk, and a blue and white checkered handkerchief, all placed on a white wooden slatted table.<br/>
+The milk bottle isn't completely full, so it looks like some of the milk has been poured into the mug.<br/>
+The round bottle is lying on its side, but the slightly crumpled handkerchief casually placed next to it is acting as a stopper, keeping the bottle from rolling away.<br/>
+By the way, I can’t help but wonder about the black circular ring on the table in the foreground. <br/>
+I’m not sure what could have caused that mark.<br/>
+<br/>
+(114 words)
+{{</card>}}
