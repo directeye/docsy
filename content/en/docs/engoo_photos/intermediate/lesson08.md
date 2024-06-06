@@ -43,15 +43,15 @@ It's a touching scene that reflects the father's pride in his son's growth.<br/>
 ## Exercise 2: Eating an Ice Cream
 
 {{<card header="**Script**">}}
-In this arresting photo, we can see a young woman holding a delicious mixed vanilla-strawberry ice cream in a waffle cone.<br/>
-She looks stylish as she strikes a playful pose with a slight lift of her left shoulder.<br/>
-She is wearing pink-framed sunglasses with mirrored lenses that are tinged pink, reflecting the scene in front of her vibrantly.<br/>
-Her chunky pink chain necklace and pink vest add a touch of charm to her overall look. <br/>
-With her ash-blonde hair, she exudes a saucy aura that perfectly complements her pink-loving personality.<br/>
-The background behind her appears blurry, but suggests hills and fields, with sunlight peeking through from behind.<br/>
-Incidentally, after the photo was taken, she probably intended to enjoy the ice cream before it melted.<br/>
+In this arresting photo, a young woman holds a mixed vanilla-strawberry ice cream in a waffle cone. <br/>
+She looks stylish as she strikes a playful pose with a slight lift of her left shoulder. <br/>
+Her oversized sunglasses with pink frames and pink-tinged mirrored lenses vividly reflect the scene before her. <br/>
+A chunky pink chain necklace and a pink vest add charm to her overall look. <br/>
+With her ash-blonde hair, she exudes a saucy aura that complements her pink-loving personality. <br/>
+The blurry background suggests hills and fields with sunlight peeking through from behind. <br/>
+Incidentally, after the photo is captured, she probably intends to enjoy the tempting ice cream before it melts.<br/>
 <br/>
-(124 words)
+(110 words)
 {{</card>}}
 
 ## Exercise 3: Ready for School

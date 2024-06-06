@@ -14,7 +14,7 @@ This script is divided into two parts.
 {{</alert>}}
 
 {{<card header="**1st script**">}}
-The photo shows an open office layout. <br/>
+The photo shows an open plan office. <br/>
 On the left side in the front and the right side at the back, you've got rows of desks where employees are sitting at their assigned spots. <br/>
 The large, front-facing desks are divided by low partitions.<br/>
 Every desk has a monitor, and you can see some folks working on laptops while others are using desktop computers. <br/>
@@ -33,11 +33,11 @@ Looking towards the back rows where employees are seated, you can see some cabin
 In the far right corner is a glass-enclosed private office, probably for an executive.<br/>
 <br/>
 As a side note, after the COVID pandemic, my company stopped assigning individual desks. <br/>
-We transitioned to free seating, where you can sit at any available desk. <br/>
+We transitioned to hot-desking, where you can sit at any available desk. <br/>
 However, in the past four years since COVID, I've only commuted to the office a handful of times. <br/>
 I prefer my home office because I can lie down for a guilt-free half-hour nap after lunch, clear my head, and work productively in the afternoon.<br/>
 <br/>
-(110 words)
+(109 words)
 {{</card>}}
 
 
@@ -45,14 +45,14 @@ I prefer my home office because I can lie down for a guilt-free half-hour nap af
 
 {{<card header="**Script**">}}
 The photo captures a couple dressed in matching grey T-shirts and shorts, sitting on the sandy beach, ready to enjoy their salad. <br/>
-The man is holding a plastic salad container in his right hand and a fork in his left, pointing it at the salad while talking to his girlfriend. <br/>
-She’s holding her own salad container, and she's literally in the middle of bringing a forkful up to her mouth, smiling in response to what he’s saying. <br/>
+The man is holding a clear plastic salad container in his right hand and a fork in his left, pointing it at the salad while talking to his girlfriend. <br/>
+She’s holding her own salad container, and she's literally in the middle of bringing a forkful up to her mouth, whilst smiling in response to whatever he’s saying. <br/>
 <br/>
-Behind them, the sandy ground slopes upward, with some greenery visible at the top.<br/>
-In the distance, there's a palm tree behind the man.<br/>
-To the right, you can see the ocean extending from the beach and the cloudy sky creating a hazy horizon.<br/>
+Behind them, the beach slopes up towards some greenery visible at the top.<br/>
+In the distance, there's a solitary palm tree behind the man.<br/>
+To the right, you can see the gray ocean extending from the beach, meeting the cloudy sky at a hazy horizon.<br/>
 <br/>
-(121 words)
+(124 words)
 {{</card>}}
 
 ## Exercise 3: An Amazing View
