@@ -63,13 +63,13 @@ This script is divided into two parts.
 
 {{<card header="**1st script**">}}
 The photo captures a serene lake surrounded by majestic mountains along with a terrace that offers a breathtaking vantage point.<br/>
-The magnificent blue mountains and crystal-clear lake set against a blue sky with drifting white clouds look like a painting.<br/>
+The magnificent snow capped blue mountains and crystal-clear lake set against a blue sky with drifting white clouds look like a painting.<br/>
 The water extends under the terrace, making it appear as if the terrace is floating on the lake. <br/>
 The terrace is enclosed by transparent acrylic railings, providing an unobstructed view of the water below. <br/>
 <br/>
 The explanation will be long, so I'll pause here.<br/>
 <br/>
-(83 words)
+(85 words)
 {{</card>}}
 
 　

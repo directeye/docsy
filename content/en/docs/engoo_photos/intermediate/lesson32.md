@@ -10,15 +10,15 @@ description: >
 ## Exercise 1: Drowning in Money
 
 {{<card header="**Script**">}}
-The picture shows a man getting a large amount of money.<br/>
-It's a clearly staged image, but dollar notes are falling from above, suggesting he’s had some business success. <br/>
-The man is wearing a gray suit, a light blue shirt, and a striped tie. <br/>
+It appears that a man getting a large amount of money.<br/>
+It's a clearly staged image where dollar bills are falling from above, suggesting he’s had some business success. <br/>
+He's decked out in a gray suit, light blue shirt, and striped tie. <br/>
 With both hands raised in a victorious gesture and his mouth open in an exuberant shout, he looks like he’s reveling in his hard-earned triumph. <br/>
 The man in the photo exudes ambition and energy. <br/>
 For someone like me, now well into the latter half of life and living an ordinary existence, I've lost that hunger to strike it big in one shot. <br/>
 Yet, even to me, his display of achievement is dazzling.<br/>
 <br/>
-(117 words)
+(116 words)
 {{</card>}}
 
 ## Exercise 2: Friends at the Beach
@@ -36,11 +36,11 @@ The five friends are probably letting out joyful shouts as they jump, even thoug
 ## Exercise 3: Milk
 
 {{<card header="**Script**">}}
-The photo shows a milk bottle with a white cap on top, a white mug with a black rim filled with milk, and a blue and white checkered handkerchief, all placed on a white wooden slatted table.<br/>
+The photo shows a milk bottle with a white cap on top, a white mug with a black rim filled with milk, and a blue and white flannel handkerchief, all placed on a white-washed slatted table.<br/>
 The milk bottle isn't completely full, so it looks like some of the milk has been poured into the mug.<br/>
 The round bottle is lying on its side, but the slightly crumpled handkerchief casually placed next to it is acting as a stopper, keeping the bottle from rolling away.<br/>
-By the way, I can’t help but wonder about the black circular ring on the table in the foreground. <br/>
-I’m not sure what could have caused that mark.<br/>
+By the way, I can’t help but wonder about the black circular ring on the table in the foreground.<br/>
+It's probably a hole that was patched up using a wooden dowel pin that matches the original surface.<br/>
 <br/>
-(114 words)
+(122 words)
 {{</card>}}
