@@ -14,16 +14,16 @@ This script is divided into two parts.
 {{</alert>}}
 
 {{<card header="**1st script**">}}
-The photo shows an open plan office. <br/>
+Displayed in the photo is an open plan office. <br/>
 On the left side in the front and the right side at the back, you've got rows of desks where employees are sitting at their assigned spots. <br/>
 The large, front-facing desks are divided by low partitions.<br/>
-Every desk has a monitor, and you can see some folks working on laptops while others are using desktop computers. <br/>
+Every desk has a monitor, and you can see several employees working on laptops while others are using desktop computers. <br/>
 Some people's heads are down as they work, while others are on office phones or huddled together, collaborating on something as they look at a monitor. <br/>
 You can't see the people sitting behind the partitions in the right row. <br/>
 <br/>
 The explanation will be long, so I'll pause here.<br/>
 <br/>
-(111 words)
+(113 words)
 {{</card>}}
 
 　
@@ -33,7 +33,7 @@ Looking towards the back rows where employees are seated, you can see some cabin
 In the far right corner is a glass-enclosed private office, probably for an executive.<br/>
 <br/>
 As a side note, after the COVID pandemic, my company stopped assigning individual desks. <br/>
-We transitioned to hot-desking, where you can sit at any available desk. <br/>
+We transitioned to a touchdown space, where you can sit at any available desk. <br/>
 However, in the past four years since COVID, I've only commuted to the office a handful of times. <br/>
 I prefer my home office because I can lie down for a guilt-free half-hour nap after lunch, clear my head, and work productively in the afternoon.<br/>
 <br/>
@@ -62,7 +62,7 @@ This script is divided into two parts.
 {{</alert>}}
 
 {{<card header="**1st script**">}}
-The photo captures a serene lake surrounded by majestic mountains along with a terrace that offers a breathtaking vantage point.<br/>
+Captured here is a serene lake surrounded by majestic mountains, along with a terrace that offers a breathtaking vantage point.<br/>
 The magnificent snow capped blue mountains and crystal-clear lake set against a blue sky with drifting white clouds look like a painting.<br/>
 The water extends under the terrace, making it appear as if the terrace is floating on the lake. <br/>
 The terrace is enclosed by transparent acrylic railings, providing an unobstructed view of the water below. <br/>

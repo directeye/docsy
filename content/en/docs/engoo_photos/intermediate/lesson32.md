@@ -24,13 +24,13 @@ Yet, even to me, his display of achievement is dazzling.<br/>
 ## Exercise 2: Friends at the Beach
 
 {{<card header="**Script**">}}
-It captures the exhilarating moment when five girlfriends jump towards the ocean in unison. <br/>
+It captures the exhilarating moment when five girlfriends jump up facing the ocean in unison. <br/>
 They're all sporting bikini tops and denim shorts, arms flung up as they bend their knees and launch themselves high off the sandy beach, kicking up sprays of sand.<br/>
 All five have long hair and are about the same height, with the woman in the center having beautiful blonde hair. <br/>
 A turquoise blue ocean stretches endlessly under a brilliantly clear sky, with not a single cloud in sight, offering a crisp view all the way to the horizon.<br/>
 The five friends are probably letting out joyful shouts as they jump, even though we can't see their expressions from this angle. <br/>
 <br/>
-(114 words)
+(115 words)
 {{</card>}}
 
 ## Exercise 3: Milk
@@ -40,7 +40,7 @@ The photo shows a milk bottle with a white cap on top, a white mug with a black 
 The milk bottle isn't completely full, so it looks like some of the milk has been poured into the mug.<br/>
 The round bottle is lying on its side, but the slightly crumpled handkerchief casually placed next to it is acting as a stopper, keeping the bottle from rolling away.<br/>
 By the way, I can’t help but wonder about the black circular ring on the table in the foreground.<br/>
-It's probably a hole that was patched up using a wooden dowel pin that matches the original surface.<br/>
+It was probably a hole that was patched up using a wooden dowel pin that matches the original surface.<br/>
 <br/>
-(122 words)
+(123 words)
 {{</card>}}
