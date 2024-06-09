@@ -49,7 +49,7 @@ Her oversized sunglasses with pink frames and pink-tinged mirrored lenses vividl
 A chunky pink chain necklace and a pink vest add charm to her overall look. <br/>
 With her ash-blonde hair, she exudes a saucy aura that complements her pink-loving personality. <br/>
 The blurry background suggests hills and fields with sunlight peeking through from behind. <br/>
-Incidentally, after taking this picture, she probably intends to enjoy the tempting ice cream before it melts.<br/>
+Incidentally, after taking this picture, she probably intended to enjoy the tempting ice cream before it melted.<br/>
 <br/>
 (109 words)
 {{</card>}}
