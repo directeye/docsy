@@ -28,17 +28,29 @@ I'll stop here for now, as the explanation is quite long.<br/>
 　
 
 {{<card header="**2nd script**">}}
-In the previous video, I discussed the plates on the table and the laughter of the two people in the center. <br/>
-The man with neatly tied back black hair, next to the woman with Afro hair, and the woman with long hair in a sleeveless top on the far right, seemed to join in the laughter. <br/>
-Everyone looked genuinely joyful. <br/>
-Incidentally, the woman in the black sleeveless top with long hair, standing behind the woman with Afro hair, was facing away, but it seemed like she might be pushing a cart, hinting at a restaurant setting. <br/>
-Her face wasn't visible but might have been attending to her tasks without much attention to the conversation.<br/>
+In the previous video, I discussed the plates on the table and the laughter of the two people in the center.<br/>
+Shifting our focus to the other friends, the man with neatly tied back black hair, next to the woman with Afro hair, and the woman with long hair in a sleeveless top on the far right, seemed to be hanging on to their laughter.<br/>
+However everyone there looked genuinely joyful.<br/>
 <br/>
-(114 words)
+Incidentally, the woman in the black sleeveless top with long hair, standing behind the woman with Afro hair, was facing away, but it seemed like she might be pushing a cart, hinting at a restaurant setting.<br/>
+Her face wasn't visible but she might have been attending to her tasks without much attention to the conversation.<br/>
+<br/>
+(126 words)
 {{</card>}}
 
 ## Exercise 2: Helping the Elderly
 
+{{<card header="**Script**">}}
+The photo shows elderly individuals undergoing walking rehabilitation in a nursing home's ward.<br/>
+In the forefront, an elderly man in a pink shirt receives encouragement from a nurse as he practices with a walking aid. <br/>
+Behind them, a elderly couple prepares for post-meal rehab.<br/>
+The husband stands beside his wife, holding a meal tray, while his wife rouses herself from her bed. <br/>
+Upon rising, she firmly grips a tripod walking cane, carefully placing a glass onto the tray held by him. <br/>
+Though their physical limitations are undoubtedly challenging, the tender interactions between spouses and the compassionate presence of the staff undoubtedly help ease their difficulties, even just a little bit. <br/>
+Witnessing their efforts truly warms my heart. <br/>
+<br/>
+(117 words)
+{{</card>}}
 
 ## Exercise 3: Chocolate Cake
 

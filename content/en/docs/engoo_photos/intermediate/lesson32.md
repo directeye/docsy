@@ -39,8 +39,8 @@ The five friends are probably letting out joyful shouts as they jump, even thoug
 The photo shows a milk bottle with a white cap on top, a white mug with a black rim filled with milk, and a blue and white checkered tea towel, all placed on a white-washed slatted table.<br/>
 The milk bottle isn't completely full, so it looks like some of the milk has been poured into the mug.<br/>
 The round bottle is lying on its side, but the slightly crumpled handkerchief, casually placed next to it, is acting as a stopper, keeping the bottle from rolling away.<br/>
-By the way, I can’t help but wonder about the black circular ring on the table in the foreground.<br/>
+Incidentally, I can’t help but wonder about the black circular ring on the table in the foreground.<br/>
 It was probably a hole that was patched up using a wooden dowel pin that matches the original surface.<br/>
 <br/>
-(123 words)
+(122 words)
 {{</card>}}

@@ -14,7 +14,7 @@ Displayed in the photo is someone by the pool, lacing up their running shoes. <b
 Their outfit isn't fully visible, and it's hard to tell if they're wearing a cap, but they seem to be in lightweight running gear.<br/>
 A green smoothie sits on the ground next to their feet. <br/>
 In the background, palm trees line the far side of the outdoor pool, making the whole area look perfect for running. <br/>
-They’ll likely head to the well-paved, light running trail once they've tied their shoelaces and downing their smoothie. <br/>
+They’ll likely head to the well-paved, light running trail once they've tied their shoelaces and downed their smoothie. <br/>
 Even though they don't seem to have any digital devices with them, I always bring my smartphone to use a run-tracking app whenever I go for a jog myself.<br/>
 <br/>
 (119 words)
