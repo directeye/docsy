@@ -42,10 +42,10 @@ This script is divided into two parts.
 
 {{<card header="**1st script**">}}
 Displayed in the photo is a man reveling in victory on the pitch.<br/>
-With his team jersey pulled up over his head to cover his face, he triumphantly punches the air with both arms, while sliding on his knees to the white line of the well-manicured field. <br/>
-The stadium stands are packed to the third level with ecstatic fans, the air charged with excitement as showers of confetti rain down in a colorful blizzard. <br/>
+With his team jersey pulled up over his head to cover his face, he triumphantly punches the air with both arms, while sliding on his knees towards the white line of the well-manicured field. <br/>
+The stadium stands are packed to the top level with ecstatic fans, the air charged with excitement as showers of confetti rain down in a colorful blizzard. <br/>
 The stadium lights are on, but the setting sun casts a diagonal beam of light, almost as if honoring the victory. <br/>
-This appears to be from a football match, likely at the moment of a decisive goal or a championship win.<br/>
+This appears to be taken during a football match, likely at the moment of a decisive goal or a championship win.<br/>
 <br/>
 I'll stop here for now, as the explanation is quite long.<br/>
 <br/>
