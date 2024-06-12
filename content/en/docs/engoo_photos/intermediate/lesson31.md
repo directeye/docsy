@@ -76,12 +76,13 @@ The explanation will be long, so I'll pause here.<br/>
 
 {{<card header="**2nd script**">}}
 Now, let's turn our attention to the details of the terrace itself. <br/>
-Underfoot, wooden tiles cover the floor, complementing the modern L-shaped wicker-framed sofa and matching low table that furnish the terrace. <br/>
+On the floor, there are wooden tiles that complement the modern L-shaped wicker-framed sofa and match a low table that furnishes the terrace.<br/>
 A green living wall provides a natural backdrop behind the sofa.<br/>
-Whether this well-manicured terrace is on a cruise boat or overlooking a lakeside resort is unclear, but the seamless integration of natural materials cultivates an atmosphere of tranquility and inviting comfort. <br/>
-Incidentally, one can't help but wonder how the fluffy cushions adorning the sofa's corners, and the sofa itself, are protected from the elements when the weather turns inclement.<br/>
+Whether this well-manicured terrace is on a cruise boat or overlooking a lakeside resort is unclear. <br/>
+However, the seamless integration of natural materials cultivates an atmosphere of tranquility and invites comfort.<br/>
+Incidentally, one can't help but wonder how the fluffy cushions adorning the sofa's corners, and the sofa itself, are protected from the elements during inclement weather.<br/>
 Regardless, it's definitely a place worth visiting to experience the coolness of early summer.<br/>
 <br/>
-(116 words)
+(117 words)
 {{</card>}}
 
