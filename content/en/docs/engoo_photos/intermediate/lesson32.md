@@ -43,7 +43,7 @@ The photo shows a milk bottle with a white cap on top, and a white mug with a bl
 There's also a blue and white checkered tea towel behind them. <br/>
 All these items are on a white-washed slatted table. <br/>
 The milk bottle isn't completely full, indicating some milk has been poured into the mug. <br/>
-The round bottle is lying on its side, but a slightly crumpled towel next to it acts as a stopper, preventing it from rolling away. <br/>
+The cylindrical bottle is lying on its side, but a slightly crumpled towel next to it acts as a stopper, preventing it from rolling away. <br/>
 Incidentally, I can’t help but wonder about the black circular ring on the table in the foreground.<br/>
 It looks like a hole that was patched up with a wooden dowel pin matching the original surface.<br/>
 <br/>
