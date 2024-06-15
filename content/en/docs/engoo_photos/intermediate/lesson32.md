@@ -39,7 +39,7 @@ The five friends are probably letting out joyful shouts as they jump, even thoug
 ## Exercise 3: Milk
 
 {{<card header="**Script**">}}
-The photo shows a milk bottle with a white cap on top, and a white mug with a black rim filled with milk. <br/>
+The photo shows a milk bottle with a white cap on top, and a white mug with a black rim that is filled with milk.<br/>
 There's also a blue and white checkered tea towel behind them. <br/>
 All these items are on a white-washed slatted table. <br/>
 The milk bottle isn't completely full, indicating some milk has been poured into the mug. <br/>

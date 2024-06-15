@@ -14,7 +14,7 @@ This script is divided into two parts.
 {{</alert>}}
 
 {{<card header="**1st script**">}}
-Displayed in the photo is an open plan office. <br/>
+The photo shows an open office layout. <br/>
 On the left side in the front and the right side at the back, you've got rows of desks where employees are sitting at their assigned spots. <br/>
 The large, front-facing desks are divided by low partitions.<br/>
 Every desk has a monitor, and you can see several employees working on laptops while others are using desktop computers. <br/>
@@ -23,7 +23,7 @@ You can't see the people sitting behind the partitions in the right row. <br/>
 <br/>
 The explanation will be long, so I'll pause here.<br/>
 <br/>
-(113 words)
+(111 words)
 {{</card>}}
 
 　

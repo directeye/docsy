@@ -10,28 +10,28 @@ description: >
 ## Exercise 1: Jogging
 
 {{<card header="**Script**">}}
-Displayed in the photo is someone by the pool, lacing up their running shoes. <br/>
+The photo shows someone by a swimming pool who is lacing up their running shoes.<br/>
 Their outfit isn't fully visible, and their shadow doesn't indicate whether they're wearing a cap, but they seem to be in lightweight running gear.<br/>
 A green smoothie sits on the ground next to their feet. <br/>
-In the background, palm trees line the far side of the outdoor pool, making the whole area look perfect for running. <br/>
+In the background, palm trees line the far side of the swimming pool, making the whole area look perfect for running. <br/>
 They’ll likely head to the well-paved, light running trail once they've tied their shoelaces and downed their smoothie. <br/>
 Even though they don't seem to have any digital devices with them, I always bring my smartphone to use a run-tracking app whenever I go for a jog myself.<br/>
 <br/>
-(117 words)
+(118 words)
 {{</card>}}
 
 ## Exercise 2: A Cup of Tea
 
 {{<card header="**Script**">}}
 The photo shows a woman enjoying tea on a terrace. <br/>
-Her long chestnut hair is swept over her right shoulder, and she wears a flowing turquoise dress with matching earrings. <br/>
-Holding a clear glass teacup in both hands, she draws it close, eyes closed as she inhales the aroma of the steaming herbal tea.<br/>
+Her long chestnut hair is swept over her right shoulder, and she is wearing a sleeveless turquoise top with matching earrings.<br/>
+Holding a clear glass teacup in both hands, she draws it close with her eyes closed as she inhales the aroma of the steaming herbal tea.<br/>
 The blurred background makes it unclear if she’s indoors or outdoors, but the absence of a window frame near the railing suggests she’s outside. <br/>
 The deep red flowers on the right look like roses. <br/>
 The lack of visible ground and the treetops in the distance hint at an upstairs terrace. <br/>
 Soft, warm sunlight washes over her, creating a wonderfully relaxing atmosphere for her tea break.<br/>
 <br/>
-(119 words)
+(122 words)
 {{</card>}}
 
 ## Exercise 3: Victory!
@@ -41,15 +41,15 @@ This script is divided into two parts.
 {{</alert>}}
 
 {{<card header="**1st script**">}}
-Displayed in the photo is a man reveling in victory on the pitch.<br/>
+The photo shows a professional soccer player celebrating a victory on the pitch.<br/>
 With his team jersey pulled up over his head to cover his face, he triumphantly punches the air with both arms, while sliding on his knees towards the white line of the well-manicured field. <br/>
-The stadium stands are packed to the top level with ecstatic fans, the air charged with excitement as showers of confetti rain down in a colorful blizzard. <br/>
+The stadium stands are completely packed with ecstatic fans, the air charged with excitement as showers of confetti rain down in a colorful blizzard.<br/>
 The stadium lights are on, but the setting sun casts a diagonal beam of light, almost as if honoring the victory. <br/>
 This appears to be taken during a football match, likely at the moment of a decisive goal or a championship win.<br/>
 <br/>
 I'll stop here for now, as the explanation is quite long.<br/>
 <br/>
-(126 words)
+(124 words)
 {{</card>}}
 
 　
