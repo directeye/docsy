@@ -47,7 +47,7 @@ This script is divided into two parts.
 {{<card header="**1st script**">}}
 In the photo, a woman hikes alone in the forest, wearing a white T-shirt and denim shorts held by a wide brown belt. <br/>
 Her black hair is tied back and she accessorizes with black sunglasses, earrings, and a ring on her right middle finger. <br/>
-On her left arm, there's a light blue wristband, though it's unclear if it's a watch..<br/>
+On her left arm, there's a light blue wristband, though it's unclear if it's a watch.<br/>
 <br/>
 She carries a black backpack with a rolled-up lime green picnic mat attached, hanging loosely down to her waist, likely because of its weight. <br/>
 In her right hand, she holds a plastic water bottle, while her left hand grips the bottle's orange cap and a large, unfolded map. <br/>
