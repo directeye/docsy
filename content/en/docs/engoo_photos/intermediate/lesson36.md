@@ -76,4 +76,15 @@ It's incredibly convenient, but it also has its drawbacks and can be quite troub
 
 ## Exercise 3: Potty Training
 
-
+{{<card header="**Script**">}}
+The photo shows an adorable little girl practicing using the potty. <br/>
+She’s wearing a pink dress with a matching headband. <br/>
+Her feet don't touch the ground, so the potty might be too big. <br/>
+Instead of focusing on potty training, she’s fascinated by the toilet paper on her right. <br/>
+She’s picked up a roll and is about to put it in her mouth. <br/>
+If she drools on it, the toilet paper will be harder to use, so they need to stop her after taking the photo.<br/>
+After picking up the roll, one roll tipped over but didn't roll away due to the weight of the top roll. <br/>
+They should focus on helping her with potty training instead of taking pictures.<br/>
+<br/>
+(119 words)
+{{</card>}}
