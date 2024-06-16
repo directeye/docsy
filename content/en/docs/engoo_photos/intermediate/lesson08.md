@@ -60,7 +60,7 @@ Incidentally, after taking this picture, she probably intended to enjoy the temp
 The photo captures a blue backpack placed haphazardly on a slatted wooden park bench. <br/>
 The bench's backrest is painted green. <br/>
 All the bags' pockets are open, revealing their contents. <br/>
-The smallest pocket holds a calculator, while the middle pocket contains a pair of teal-colored scissors, a ruler, colored markers, a sketchbook, and a watercolor paint palette. <br/>
+The smallest pocket holds a calculator, while the middle pocket contains a pair of teal scissors, a ruler, colored markers, a sketchbook, and a watercolor paint palette. <br/>
 In the largest main pocket at the top of the bag, two ring-bound notebooks with pink and purple covers are visible. <br/>
 All the pocket zippers have black straps with red logos. <br/>
 Since there are no valuables or luxury items, it may be safe from theft even when left open carelessly. <br/>
