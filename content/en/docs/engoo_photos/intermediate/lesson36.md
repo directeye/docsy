@@ -30,7 +30,8 @@ Seeing him exhausted and seeking comfort from a teddy bear is quite endearing.<b
 {{<card header="**2nd script**">}}
 In my previous video, I talked about a man in a superhero costume and shared my thoughts on it. <br/>
 Now, I'd like to share some personal experiences and reflections.<br/>
-I’ve never done cosplay myself or attended the Halloween parties in Shibuya. However, when I lived in Osaka over five years ago, there was a large park nearby that was a popular spot for cosplay photo shoots every weekend. <br/>
+I’ve never done cosplay myself or attended the Halloween parties in Shibuya. <br/>
+However, when I lived in Osaka over five years ago, there was a large park nearby that was a popular spot for cosplay photo shoots every weekend. <br/>
 I used to stroll through the park and watch people enjoying their cosplay.<br/>
 I can really understand the desire to transform oneself through cosplay. <br/>
 While I don’t cosplay, I have a desire to transform myself by becoming fluent in English.<br/>
@@ -45,9 +46,9 @@ This script is divided into two parts.
 {{</alert>}}
 
 {{<card header="**1st script**">}}
-In the photo, a woman hikes alone in the forest, wearing a white T-shirt and denim shorts held by a wide brown belt. <br/>
+In the photo, a woman hikes alone in the forest, wearing a white T-shirt and denim shorts held up by a wide brown belt. <br/>
 Her black hair is tied back and she accessorizes with black sunglasses, earrings, and a ring on her right middle finger. <br/>
-On her left arm, there's a light blue wristband, though it's unclear if it's a watch.<br/>
+On her left wrist, there's a light blue wristband, though it's unclear if it's a watch.<br/>
 <br/>
 She carries a black backpack with a rolled-up lime green picnic mat attached, hanging loosely down to her waist, likely because of its weight. <br/>
 In her right hand, she holds a plastic water bottle, while her left hand grips the bottle's orange cap and a large, unfolded map. <br/>
@@ -55,7 +56,7 @@ She's currently drinking from the bottle.<br/>
 <br/>
 I'll stop here for now, as the explanation is quite long.<br/>
 <br/>
-(125 words)
+(126 words)
 {{</card>}}
 
 　
@@ -65,13 +66,13 @@ In my last video, I discussed a woman hiking in the forest. <br/>
 Now, let's add my observations.<br/>
 <br/>
 She appears a bit lost in an area of the forest where GPS signals don't reach. <br/>
-After she finishes hydrating, she'll probably take off her sunglasses, carefully check her current location and destination on the map, and plan her route to ensure she reaches her destination before it gets dark.<br/>
+After she finishes drinking some water, she'll probably take off her sunglasses, carefully check her current location and destination on the map, and plan her route to ensure she reaches her destination before it gets dark.<br/>
 <br/>
 As a side note, these days, smartphone GPS signals seem to be everywhere we go. <br/>
 I remember a time while hiking up a mountainside when I had to use my laptop to handle a customer system issue by tethering. <br/>
 It's incredibly convenient, but it also has its drawbacks and can be quite troublesome at times.<br/>
 <br/>
-(122 words)
+(124 words)
 {{</card>}}
 
 ## Exercise 3: Potty Training
