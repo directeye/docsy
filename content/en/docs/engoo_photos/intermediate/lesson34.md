@@ -19,7 +19,7 @@ They are almost done with their food and are taking a few sips from their glasse
 The diced fruit platter in the center of the table still has plenty left, with skewers lazily inserted.<br/>
 The man and woman in the center are laughing with big smiles on their faces. <br/>
 Particularly, the man, who is wearing a blue and white checkered shirt, is laughing so hard that tears might start rolling.<br/>
-Meanwhile the woman with tight Afro curls in a one-shoulder white top is also smiling brightly. <br/>
+Meanwhile the woman with loose Afro curls in a one-shoulder white top is also smiling brightly. <br/>
 Her eyes are squinting, showing off her pearly whites.<br/>
 <br/>
 I'll stop here for now, as the explanation is quite long.<br/>

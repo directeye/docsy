@@ -60,7 +60,7 @@ Now, I want to share my thoughts on watching sports.<br/>
 <br/>
 The truth is, I almost never attend games in person in a stadium. <br/>
 The only time I really get interested is during the World Cup when I'm cheering on the Japanese national team.<br/>
-These days, without having a TV, I've become quite disconnected from any kinds of sports news, soccer included. <br/>
+These days, without having a TV, I've become quite disconnected from any kind of sports news, soccer included. <br/>
 Even so, when I'm cheering for the Japanese team at the World Cup, I feel a connection to the players who grew up in the same country as me.<br/>
 I think that connection is what fuels my desire to passionately root for them on that grand stage.<br/>
 <br/>
