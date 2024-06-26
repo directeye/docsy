@@ -51,12 +51,12 @@ Her black hair is tied back and she accessorizes with black sunglasses, earrings
 On her left wrist, there's a light blue wristband, though it's unclear if it's a watch.<br/>
 <br/>
 She carries a black backpack with a rolled-up lime green picnic mat attached, hanging loosely down to her waist, likely because of its weight. <br/>
-In her right hand, she holds a plastic water bottle, while her left hand grips the bottle's orange cap and a large, unfolded map. <br/>
-She's currently drinking from the bottle.<br/>
+In her right hand, she holds a plastic water bottle, while her left hand grips the bottle's orange cap and a large, partially unfolded map. <br/>
+She's drinking from the bottle in the photo.<br/>
 <br/>
 I'll stop here for now, as the explanation is quite long.<br/>
 <br/>
-(126 words)
+(130 words)
 {{</card>}}
 
 　
@@ -65,14 +65,14 @@ I'll stop here for now, as the explanation is quite long.<br/>
 In my last video, I discussed a woman hiking in the forest. <br/>
 Now, let's add my observations.<br/>
 <br/>
-She appears a bit lost in an area of the forest where GPS signals don't reach. <br/>
+She appears to be a bit lost in an area of the forest where GPS signals don't reach.<br/>
 After she finishes drinking some water, she'll probably take off her sunglasses, carefully check her current location and destination on the map, and plan her route to ensure she reaches her destination before it gets dark.<br/>
 <br/>
 As a side note, these days, smartphone GPS signals seem to be everywhere we go. <br/>
 I remember a time while hiking up a mountainside when I had to use my laptop to handle a customer system issue by tethering. <br/>
 It's incredibly convenient, but it also has its drawbacks and can be quite troublesome at times.<br/>
 <br/>
-(124 words)
+(126 words)
 {{</card>}}
 
 ## Exercise 3: Potty Training
@@ -83,9 +83,9 @@ She’s wearing a pink dress with a matching headband. <br/>
 Her feet aren't touching the ground, so the potty might be too big. <br/>
 Instead of focusing on potty training, she’s fascinated by the toilet paper on her right. <br/>
 She’s picked up a roll and is about to put it in her mouth. <br/>
-If she drools on the toilet paper, it’ll be harder to unroll, so they need to stop her after taking the photo.<br/>
-After picking up the roll, one roll tipped over but didn't roll away due to the weight of the top roll. <br/>
-They should focus on helping her with potty training instead of taking pictures.<br/>
+If she drools on the toilet paper, it’ll be harder to unroll, so whoever is taking the photo needs to stop her.<br/>
+After she picked up the roll, the roll underneath tipped over but didn't roll away due to the weight of another roll on top of it.<br/>
+I believe her parents should focus on helping her with potty training instead of taking pictures.<br/>
 <br/>
-(118 words)
+(126 words)
 {{</card>}}
