@@ -33,7 +33,7 @@ Now, I'd like to share some personal experiences and reflections.<br/>
 I’ve never done cosplay myself or attended the Halloween parties in Shibuya. <br/>
 However, when I lived in Osaka over five years ago, there was a large park nearby that was a popular spot for cosplay photo shoots every weekend. <br/>
 I used to stroll through the park and watch people enjoying their cosplay.<br/>
-I can really understand the desire to transform oneself through cosplay. <br/>
+I can really understand the desire to transform oneself through it. <br/>
 While I don’t cosplay, I have a desire to transform myself by becoming fluent in English.<br/>
 <br/>
 (108 words)

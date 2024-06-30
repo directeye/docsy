@@ -61,10 +61,10 @@ Witnessing their efforts truly warms my heart. <br/>
 
 {{<card header="**Script**">}}
 The photo shows a decadent slice of chocolate cake. <br/>
-It features layers of moist chocolate sponge and rich chocolate mousse, topped with a luscious chocolate glaze that drips down the sides. <br/>
-Two maraschino cherries with connected stems sit on top, making the perfect garnish. <br/>
+It features layers of cocoa-flavored moist sponge and rich brown mousse, topped with a luscious glaze that drips down the sides. <br/>
+Two maraschino cherries with joined stems sit on top, making the perfect garnish. <br/>
 The round white plate has a few cocoa beans scattered around, highlighting the deep chocolatey notes. <br/>
-In the background, there's a crisp white coffee cup and a neatly folded napkin. <br/>
+In the background, there's a pristine white coffee cup and a neatly folded napkin. <br/>
 If I could dig into this sweet, mouthwatering cake, I'd definitely order a piping hot black coffee to balance the sweetness. <br/>
 Just looking at this photo makes me crave dessert, even if it might add a few pounds!<br/>
 <br/>
