@@ -2,7 +2,7 @@
 title: "Scripts for lesson 38"
 linkTitle: "Scripts for lesson 38"
 date: 2024-06-18 18:00:00 +0900
-weight: 38
+weight: 39
 description: >
   Engoo website reference link: [Lesson 38: What's for Dinner?](https://engoo.com/app/lessons/describing-pictures-intermediate-describing-pictures-whats-for-dinner/wIiOnEqjEeeU_WNppafWnw?category_id=P_HriMOnEeifo0O-yMP42w&course_id=ZZasjsOnEeiHZVOMC0VfdA)
 ---
@@ -14,16 +14,16 @@ This script is divided into two parts.
 {{</alert>}}
 
 {{<card header="**1st script**">}}
-The photo captures a lovely moment in a dining room with a little boy and his mother. <br/>
+The photo captures a lovely moment at a dining table with a little boy and his mother. <br/>
 The mother is dressed in a green top with a white apron. <br/>
 She is standing at the table rolling the cookie dough and is just about to cut out some star shapes.<br/>
-I believe she's clearly prepared because she dusted flour onto the table to prevent the dough from sticking and she has rolled the yellow dough evenly.<br/>
-Nearby are her baking tools, including a black-rimmed plate that probably held the flour in it, a little sifter, and the rolling pin she used.<br/>
+It's apparent she's clearly prepared because she dusted flour onto the table to prevent the dough from sticking and she has rolled the yellow dough evenly.<br/>
+Nearby are her baking tools, including a blue-rimmed plate that likely held the sifted flour in it, a little sifter, and the rolling pin she used.<br/>
 Thoughtfully, she's placed cut-out cookies and extra cutters out of her curious little helper's reach.<br/>
 <br/>
 I'll stop here for now, as the explanation is quite long.<br/>
 <br/>
-(126 words)
+(127 words)
 {{</card>}}
 
 　
@@ -32,8 +32,8 @@ I'll stop here for now, as the explanation is quite long.<br/>
 In the previous video, I described how the mother was preparing to cut out cookies at the dining table. <br/>
 Now, let's turn our attention to the boy.<br/>
 He's absolutely adorable and is standing on a chair with a cookie cutter in his hand. <br/>
-But he is completely captivated by the flour that his mother has dusted on the table, and seems to be making a pattern in it with his finger.<br/>
-You can see him tracing it with his finger, clearly fascinated.<br/>
+But he is completely captivated by the flour that his mother has dusted on the table.<br/>
+You can see him tracing in it with his finger, clearly fascinated.<br/>
 I think the mother intends to let him join in and cut out some cookies soon. <br/>
 It’s heartwarming to see them enjoying their time baking together.<br/>
 <br/>
@@ -70,10 +70,10 @@ She could refresh herself with a glass of water, have a snack, or do something u
 Even a nap might be beneficial.<br/>
 <br/>
 Generally, in a world where digital transactions are prevalent, it's crucial to promptly record cash transactions. <br/>
-If not noted immediately or by the end of the day, they can be forgotten, leading to discrepancies in financial records. <br/>
+If not noted down immediately or by the end of the day, they can be forgotten, leading to discrepancies in financial records. <br/>
 This is an aspect of personal finance that merits careful attention.<br/>
 <br/>
-(124 words)
+(125 words)
 {{</card>}}
 
 
