@@ -51,18 +51,18 @@ The photo captures a woman in the kitchen, clearly stressed over paperwork. <br/
 She’s probably redoing expense reports or balancing the household budget. <br/>
 She’s comparing receipts with a printed expense report on the table, but the numbers aren't adding up. <br/>
 With her right hand on her forehead, she’s pushing her hair back, frowning in frustration. <br/>
-She's taken off her glasses and placed them on the table, trying to figure out why the numbers aren't matching, but she seems completely stumped. <br/>
+She's taken off her glasses and placed them on the table, trying to figure out why the numbers aren't matching up, but she seems completely stumped. <br/>
 She’s probably checking online bank statements and credit card transactions on her laptop and smartphone, but even that isn't helping her remember. <br/>
 <br/>
 I'll stop here for now, as the explanation is quite long.<br/>
 <br/>
-(120 words)
+(121 words)
 {{</card>}}
 
 　
 
 {{<card header="**2nd script**">}}
-In our previous video, I discussed a woman who was having difficulty with some accounting work.<br/>
+In my previous video, I discussed a woman who was having difficulty with some accounting work.<br/>
 Now, let's add my observations.<br/>
 <br/>
 Given her apparent state of frustration and considering she's already in the comfort of her kitchen, it might be beneficial for her to consider taking a short break. <br/>
