@@ -15,7 +15,7 @@ They are seated side by side at a table next to a window with natural light stre
 Both look happy, chatting away and poking at appetizers with their knives and forks.<br/>
 A well-poured glass of red wine sits within reach of their right hands on the table.<br/>
 In the background you can see ceiling fans, and there is a wall mounted light on a yellow painted pillar behind the man.<br/>
-The woman looks stylish in a dusty pink top with an embroidered embellishment, and is wearing large earrings.<br/>
+The woman looks stylish in a dusty pink top with an embroidered embellishment and large earrings.<br/>
 The man is also fashionable, but his blue shirt is unbuttoned to expose his chest, which caught my attention, as it seems to be strange.<br/>
 <br/>
 (126 words)

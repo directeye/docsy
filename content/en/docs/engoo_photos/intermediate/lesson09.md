@@ -56,10 +56,11 @@ The tidy kitchen counter in the background suggests they might be preparing for 
 ## Exercise 3: Funny Feet
 
 {{<card header="**Script**">}}
-The photo shows a small child wearing shorts, lying down in a grassy field, letting their bare feet bask in the gentle sunlight outside. <br/>
-Someone has painted green and yellow smiley faces on the soles of their feet, and has also painted each toe green and yellow alternatively. <br/>
-I can imagine that it must have been ticklish while the faces were painted on their soft skin. <br/>
-Yet they must have been a very patient child because the faces are neatly drawn without any mess.<br/>
+The photo captures a sweet scene of a little kid lounging in a grassy field.<br/>
+They're wearing shorts, letting their bare feet bask in the gentle sunlight. <br/>
+Adorable green and yellow smiley faces are painted on the soles of their feet and the undersides of their toes are alternately painted green and yellow as well.<br/>
+It must have been really ticklish for the kid to have smiley faces painted on the soles of their feet, but they were drawn so neatly without any mess.<br/>
+This makes me think that the child must be very patient.<br/>
 <br/>
-(84 words)
+(95 words)
 {{</card>}}
