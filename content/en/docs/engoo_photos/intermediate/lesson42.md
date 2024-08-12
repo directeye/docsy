@@ -7,7 +7,7 @@ description: >
   Engoo website reference link: [Lesson 42: Forever Young](https://engoo.com/app/lessons/describing-pictures-intermediate-describing-pictures-forever-young/SWKvMkz7EeevsIv27utYJw?category_id=P_HriMOnEeifo0O-yMP42w&course_id=ZZasjsOnEeiHZVOMC0VfdA)
 ---
 
-## Exercise 1: AFlying a Kite
+## Exercise 1: A　Flying a Kite
 
 {{<alert>}}
 This script is divided into two parts.
@@ -16,14 +16,14 @@ This script is divided into two parts.
 {{<card header="**1st script**">}}
 The photo shows a family of three enjoying a kite-flying day in a wide open field. <br/>
 They’re all casually dressed in matching white shirts and denim pants. <br/>
-The sunlight is coming in at an angle, so it might be early evening in late spring or early summer. <br/> 
-The mother is actually holding the kite string and flying the kite. <br/>
-The kid is running with their left arm raised, looking pretty chuffed as if he's the one flying the kite. <br/>
-The father seems to be jumping, trying to catch the kite in mid-air.<br/>
+With the sunlight coming in at an angle, it looks like it could be early evening in late spring or early summer. <br/>
+The mother is the one holding the string, actually flying the kite. <br/>
+Meanwhile, the child runs with his left arm raised, looking proud as if he’s the one in control of the kite.<br/>
+As for the father, he seems to be jumping, trying to catch the kite mid-air.<br/>
 <br/>
 I'll stop here for now, as the explanation is quite long.<br/>
 <br/>
-(103 words)
+(108 words)
 {{</card>}}
 
 　
@@ -43,6 +43,36 @@ These days, when relatives gather for New Year’s, I think it’s more common t
 
 ## Exercise 2: Morning Run
 
+{{<alert>}}
+This script is divided into two parts.
+{{</alert>}}
+
+{{<card header="**1st script**">}}
+The photo captures a couple jogging along a gravel path in a lush park surrounded by trees and greenery. <br/>
+On the left, there's a woman dressed in a layered outfit with a pink tank top over a teal one, matching teal shorts, and bright yellow running shoes. <br/>
+She’s wearing white wristbands on both arms, though it’s unclear if they’re sweatbands or cooling ice bands. <br/>
+Her hair is tied back in a ponytail, and she’s got wired earbuds in, probably listening to music. <br/>
+She looks pretty pleased with her best jogging gear.<br/>
+Meanwhile, the man on the right is in a fitted blue T-shirt, navy shorts, and white running shoes. <br/>
+<br/>
+I'll stop here for now, as the explanation is quite long.<br/>
+<br/>
+(120 words)
+{{</card>}}
+
+　
+
+{{<card header="**2nd script**">}}
+In the previous video, I described a couple enjoying a morning run. <br/>
+Now, I'd like to share my thoughts on morning jogging.<br/>
+<br/>
+Morning jogs are a great way to kick off the day, giving you a burst of energy and setting a healthy tone. <br/>
+However, if you push yourself too hard, you might feel sleepy later, so it’s better to keep the intensity moderate to conserve your energy.<br/>
+As a side note, outdoor jogging can be tricky since it depends on factors like weather, temperature, and daylight hours. <br/>
+If you’re trying to make it a habit, I think hitting the gym might be a more reliable option.<br/>
+<br/>
+(107 words)
+{{</card>}}
 
 ## Exercise 3: Ready to Study
 
