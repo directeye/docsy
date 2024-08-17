@@ -7,7 +7,7 @@ description: >
   Engoo website reference link: [Lesson 9: Delighted](https://engoo.com/app/lessons/describing-pictures-intermediate-describing-pictures-delighted/IXld1EbREeeysy81-xi1vg?category_id=P_HriMOnEeifo0O-yMP42w&course_id=ZZasjsOnEeiHZVOMC0VfdA)
 ---
 
-## Exercise 1: An Usual Wedding Day
+## Exercise 1: An Unusual Wedding Day
 
 {{<alert>}}
 This script is divided into two parts.

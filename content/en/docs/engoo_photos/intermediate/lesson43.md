@@ -63,4 +63,36 @@ There's probably a large mirror in front of the group, allowing them to check th
 
 ## Exercise 3: Drawing
 
+{{<alert>}}
+This script is divided into two parts.
+{{</alert>}}
+
+{{<card header="**1st script**">}}
+The photo shows a little girl drawing in a classroom. <br/>
+She has long, curly hair tied up on the left side with a pink rose ribbon. <br/>
+She’s wearing a short-sleeved, button-up shirt with a colorful pattern. <br/>
+If you look closely, you'll notice she’s left-handed. <br/>
+Her right elbow is resting on the desk, with her cheek propped up on her right fist, as she sketches with a blue pencil.<br/>
+In front of her, there’s an orange pencil holder filled with various colored pencils, along with round containers that might hold watercolor paints. <br/>
+She seems really focused, so I bet she’s good at drawing.<br/>
+<br/>
+I'll stop here, as the explanation is quite long.<br/>
+<br/>
+(111 words)
+{{</card>}}
+
+　
+
+{{<card header="**2nd script**">}}
+In the previous video, I talked about the girl drawing. <br/>
+Now, I’d like to share my thoughts on drawing.<br/>
+<br/>
+Personally, I really admire people who can draw what they imagine. <br/>
+If I tried to draw something, I doubt anyone would recognize it. <br/>
+If I had enjoyed drawing from a young age, I might have been better at it. <br/>
+But these days, I think it’s amazing that I can describe what I want in words and use AI to create illustrations that turn out even better than I imagined. <br/>
+It’s such a convenient time to be alive.<br/>
+<br/>
+(96 words)
+{{</card>}}
 
