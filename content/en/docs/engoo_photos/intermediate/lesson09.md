@@ -16,14 +16,15 @@ This script is divided into two parts.
 {{<card header="**1st script**">}}
 The photo shows a bride and groom on a bicycle rushing to their wedding reception. <br/>
 The groom, dressed in a white shirt, a blue suit, and a matching tie, leans forward as he pedals the bicycle. <br/>
-The lawn appears to pose a challenge for the groom to pedal smoothly.<br/>
-Meanwhile, the bride, dressed in a pristine white wedding dress and a veil that is held in place by a tiara, helps by pushing from behind.<br/> 
-The front basket holds a bouquet for the toss.<br/>
-The background reveals a quaint log cabin with a cute small fir tree planted outside, suggesting that perhaps they were getting ready there.<br/> 
+The grassy lawn appears to pose a challenge for the groom to pedal smoothly.<br/>
+Meanwhile, the bride, dressed in a pristine white wedding dress and a veil that is held in place by a tiara, helps by pushing from behind. <br/>
+The front basket holds a bouquet, ready for the toss later.<br/>
+In the background, there's a cozy cabin with wooden planks for siding and a cute little fir tree planted outside. <br/>
+It looks like they might have been getting ready there.<br/>
 <br/>
-The explanation will be long, so I will break here.<br/>
+Since the explanation is long, I'll pause here.<br/>
 <br/>
-(117 words)
+(125 words)
 {{</card>}}
 
 　
