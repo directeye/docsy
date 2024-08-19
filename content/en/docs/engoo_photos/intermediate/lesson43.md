@@ -30,19 +30,20 @@ I'll stop here for now, as the explanation is quite long.<br/>
 　
 
 {{<card header="**2nd script**">}}
-In the previous video, I described the first two hikers crossing the log. <br/>
-Now, let's focus on the remaining three. <br/>
+Previously, I described two hikers crossing the log. <br/>
+Let's focus on the remaining three. <br/>
 <br/>
-They’re all carrying backpacks, so they’ll need to be even more careful not to fall. <br/>
-I'm worried about the guy in the middle, wearing a red shirt and beige knee-length pants, who's attempting to cross in sandals. <br/>
-He seems to be taking the hike too lightly. <br/>
-Behind him is a blonde woman in a striped sleeveless top and denim overall shorts. <br/>
-At the back is a man with stubble, wearing a plaid shirt and knee-length jeans.<br/>
+Since they're all carrying backpacks, they need to be extra careful not to lose their balance. <br/>
+I’m particularly worried about the guy in the middle, wearing a red shirt and beige knee-length shorts, who’s trying to cross in flip-flops. <br/>
+While the whole group is dressed casually, flip-flops are especially risky because they can easily slip off the log, causing him to fall into the creek.<br/>
+<br/>
+Behind him is a blonde woman in a striped sleeveless top and denim overalls.<br/>
+At the back is a man with stubble, wearing a plaid shirt and knee-length jeans. <br/>
 <br/>
 Hiking is fun, but overconfidence can be dangerous. <br/>
-The right gear and proper precautions are essential for a safe, enjoyable experience.<br/>
+The right gear and proper precautions are essential for a safe, enjoyable experience. <br/>
 <br/>
-(117 words)
+(129 words)
 {{</card>}}
 
 
