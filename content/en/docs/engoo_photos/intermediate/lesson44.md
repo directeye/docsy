@@ -4,7 +4,7 @@ linkTitle: "Scripts for lesson 44"
 date: 2024-08-18 05:00:00 +0900
 weight: 45
 description: >
-  Engoo website reference link: [Lesson 43: Goals](https://engoo.com/app/lessons/describing-pictures-intermediate-describing-pictures-goals/v6qrtk0gEeeOcz-knAZpBA?category_id=P_HriMOnEeifo0O-yMP42w&course_id=ZZasjsOnEeiHZVOMC0VfdA)
+  Engoo website reference link: [Lesson 44: Goals](https://engoo.com/app/lessons/describing-pictures-intermediate-describing-pictures-goals/v6qrtk0gEeeOcz-knAZpBA?category_id=P_HriMOnEeifo0O-yMP42w&course_id=ZZasjsOnEeiHZVOMC0VfdA)
 ---
 
 ## Exercise 1: Training
@@ -39,8 +39,20 @@ With so many people at the gym who are serious about their fitness, I sometimes 
 {{</card>}}
 
 
-## Exercise 2: weight Loss
+## Exercise 2: Weight Loss
 
+{{<card header="**Script**">}}
+The photo captures a man using a yellow measuring tape to measure a woman's waist. <br/>
+The woman is dressed in a bright blue top and dark pants. <br/>
+She has her arms spread out with her palms facing up, making a gesture of confusion, but her face shows confidence. <br/>
+She might be pleased with her waist size after successfully dieting. <br/>
+The man, with a neatly trimmed beard, is wearing a beige shirt and dark pants. <br/>
+He’s holding the tape around her waist and is exaggerating his surprise with his mouth slightly open. <br/>
+The background is plain white, which really highlights the two of them posing for the camera. <br/>
+This could be a humorous promotional photo for a dieting campaign.<br/>
+<br/>
+(118 words)
+{{</card>}}
 
 
 ## Exercise 3: Graduation

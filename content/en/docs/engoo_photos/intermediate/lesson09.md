@@ -14,13 +14,13 @@ This script is divided into two parts.
 {{</alert>}}
 
 {{<card header="**1st script**">}}
-The photo shows a bride and a groom on a bicycle rushing to their wedding reception. <br/>
-The groom, dressed in a white shirt, a blue suit, and a matching tie, leans forward as he pedals the bicycle. <br/>
+The photo shows a bride and groom on a bicycle rushing to their wedding reception. <br/>
+The groom, dressed in a white shirt, a blue suit, and a matching tie, leans forward as he pedals. <br/>
 The grassy lawn appears to pose a challenge for the groom to pedal smoothly.<br/>
 Meanwhile, the bride, dressed in a pristine white wedding dress and a veil that is held in place by a tiara, helps by pushing from behind. <br/>
 The front basket holds a bouquet, ready for the toss later.<br/>
 In the background, there seems to be a cabin with wooden planks for siding and a cute little fir tree planted outside. <br/>
-The newlyweds probably used this cabin to get ready for the ceremony.<br/>
+The newlyweds to be, probably used this cabin to get ready for the ceremony.<br/>
 <br/>
 Since the explanation is long, I'll pause here.<br/>
 <br/>
@@ -30,7 +30,7 @@ Since the explanation is long, I'll pause here.<br/>
 　
 
 {{<card header="**2nd script**">}}
-In my last video, I talked about a bride and a groom on a bicycle rushing to their wedding reception.<br/>
+In my last video, I talked about a bride and groom on a bicycle rushing to their wedding reception.<br/>
 Now, let me add my observations.<br/>
 <br/>
 They might not make it on time, and they may become sweaty or tear their clothes on the bicycle's rough journey. <br/>
@@ -39,7 +39,7 @@ Though they may not seem to be having a smooth start, going through difficulties
 <br/>
 Or perhaps the bicycle is too small to fit both of them, so the photo may be part of the wedding photoshoot after all.<br/>
 <br/>
-(115 words)
+(114 words)
 {{</card>}}
 　
 

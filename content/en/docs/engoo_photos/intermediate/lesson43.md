@@ -53,7 +53,7 @@ The right gear and proper precautions are essential for a safe, enjoyable experi
 The photo shows a group of five people participating in what looks like a fitness or dance class in a bright, spacious room.<br/>
 The woman in front, likely the instructor, has an Afro and a lovely dark complexion. <br/>
 She’s wearing a turquoise sports bra and colorful leggings. <br/>
-Behind her, the other women sport pastel T-shirts or tank tops with leggings, while the sole man stands on the far left.<br/>
+Behind her, the other women sport pastel T-shirts or tank tops with leggings, with a man on the far left.<br/>
 All the participants are performing in sync, with their left foot forward and their arms raised and crossed overhead.<br/>
 They appear to be in the midst of an exercise routine, full of energy and enjoying themselves. <br/>
 There's probably a large mirror in front of the group, allowing them to check their form as they work out.<br/>
