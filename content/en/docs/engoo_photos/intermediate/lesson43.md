@@ -37,7 +37,7 @@ Since they're all carrying backpacks, they need to be extra careful not to lose 
 I’m particularly worried about the guy in the middle, wearing a red shirt and beige knee-length shorts, who’s trying to cross in flip-flops. <br/>
 While the whole group is dressed casually, flip-flops are especially risky because they can easily slip off the log, causing him to fall into the creek.<br/>
 <br/>
-Behind him is a blonde woman in a striped sleeveless top and denim overalls.<br/>
+Behind him is a blonde woman in a striped sleeveless top and dungarees shorts.<br/>
 At the back is a man with stubble, wearing a plaid shirt and knee-length jeans. <br/>
 <br/>
 Hiking is fun, but overconfidence can be dangerous. <br/>
@@ -54,7 +54,7 @@ The photo shows a group of five people participating in what looks like a fitnes
 The woman in front, likely the instructor, has an Afro and a lovely dark complexion. <br/>
 She’s wearing a turquoise sports bra and colorful leggings. <br/>
 Behind her, the other women sport pastel T-shirts or tank tops with leggings, with a man on the far left.<br/>
-All the participants are performing in sync, with their left foot forward and their arms raised and crossed overhead.<br/>
+All the participants are performing in sync, with their right foot forward and their arms raised and crossed overhead.<br/>
 They appear to be in the midst of an exercise routine, full of energy and enjoying themselves. <br/>
 There's probably a large mirror in front of the group, allowing them to check their form as they work out.<br/>
 <br/>
@@ -70,7 +70,7 @@ This script is divided into two parts.
 
 {{<card header="**1st script**">}}
 The photo shows a little girl drawing in a classroom. <br/>
-She has long, curly brown hair tied up on the left side with a pink rose clip and is wearing a short-sleeved, button-up shirt with colorful polka dots.<br/>
+She has long, curly brown hair tied up on the left side with a pink rose clip and is wearing colorful buttoned-up short-sleeved shirt.<br/>
 If you look closely, you'll notice she’s left-handed. <br/>
 Her right elbow is resting on the desk, with her cheek propped up on her right fist, as she works on her artwork in a sketchbook with a blue colored pencil.<br/>
 In the foreground, there’s a bright orange cup filled with various colored pencils, along with some round containers with colorful caps that might hold watercolor paints. <br/>
@@ -78,7 +78,7 @@ She seems really engaged in drawing, so I bet she’s good at it.<br/>
 <br/>
 I'll stop here, as the explanation is quite long.<br/>
 <br/>
-(125 words)
+(121 words)
 {{</card>}}
 
 　
