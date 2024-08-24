@@ -44,8 +44,8 @@ With so many people at the gym who are serious about their fitness, I sometimes 
 {{<card header="**Script**">}}
 The photo captures a man using a yellow measuring tape to measure a woman's waist. <br/>
 The woman is dressed in a bright blue top and dark pants. <br/>
-She has her arms outstretched with her palms facing upwards, as if she's a bit puzzled. <br/>
-However, her facial expression conveys confidence. <br/>
+She has her arms spread out to her sides with her palms facing up, as if to say "Look at me!"<br/>
+Her facial expression exudes confidence.<br/> 
 She might be pleased with her waist size after successfully dieting. <br/>
 The guy has a neatly trimmed, thin beard and is wearing a beige shirt with dark pants. <br/>
 He’s holding the tape wrapped around her waist and is exaggerating his surprise with his mouth slightly agape.<br/>
@@ -59,11 +59,15 @@ This could be a humorous promotional photo for a dieting campaign.<br/>
 ## Exercise 3: Graduation
 
 {{<card header="**Script**">}}
-The photo captures a young woman dressed in traditional graduation regalia, a classic black cap and gown, holding her diploma and beaming with a bright smile. <br/>
-She's doing a fist pump with right hand and thrusting the rolled-up diploma, tied with a blue ribbon, forward with her left hand towards the camera. <br/>
-It’s clear she has successfully completed her degree program and is brimming with a sense of accomplishment at this milestone.<br/>
-I really hope she keeps this energy going as she moves forward into her future.<br/>
+The photo shows a fresh graduate celebrating her big day. <br/>
+The young woman is wearing a traditional black graduation regalia, a classic black cap and gown, with a huge smile lighting up her face.<br/>
+She's gripping her newly earned diploma, tied with a blue ribbon, forward with her left hand towards the camera.<br/>
+Her right hand is raised in a triumphant fist pump.<br/>
 <br/>
-(87 words)
+You can tell she has successfully completed her degree program and is brimming with a sense of accomplishment at this milestone.<br/>
+It's wonderful to see someone so happy about their achievement.<br/>
+Hopefully, she'll carry that positive energy with her as she starts the next chapter of her life.<br/>
+<br/>
+(111 words)
 {{</card>}}
 

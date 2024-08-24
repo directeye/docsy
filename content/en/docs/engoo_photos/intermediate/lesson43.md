@@ -70,7 +70,7 @@ This script is divided into two parts.
 
 {{<card header="**1st script**">}}
 The photo shows a little girl drawing in a classroom. <br/>
-She has long, curly brown hair tied up on the left side with a pink rose clip and is wearing colorful buttoned-up short-sleeved shirt.<br/>
+She has long, curly brown hair tied up on the left side with a pink rose clip and is wearing a colorful buttoned-up short-sleeved shirt.<br/>
 If you look closely, you'll notice she’s left-handed. <br/>
 Her right elbow is resting on the desk, with her cheek propped up on her right fist, as she works on her artwork in a sketchbook with a blue colored pencil.<br/>
 In the foreground, there’s a bright orange cup filled with various colored pencils, along with some round containers with colorful caps that might hold watercolor paints. <br/>
@@ -78,7 +78,7 @@ She seems really engaged in drawing, so I bet she’s good at it.<br/>
 <br/>
 I'll stop here, as the explanation is quite long.<br/>
 <br/>
-(121 words)
+(122 words)
 {{</card>}}
 
 　

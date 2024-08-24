@@ -10,18 +10,47 @@ description: >
 ## Exercise 1: Pizza Party
 
 {{<card header="**Script**">}}
-The photo shows a group of four people, both men and women, about to enjoy a pizza together. <br/>
-It looks like they’re at someone’s home, having just ordered the pizza through a delivery service like Uber Eats, and they’re kicking off a casual pizza party as it arrives. <br/>
+The photo shows a group of four people, two men and two women, about to enjoy a whole Margherita pizza together. <br/>
+It looks like they’re at someone’s home, having just ordered the pizza through a delivery service like Uber Eats, and they’re kicking off a pizza party as it arrives. <br/>
 The group is gathered around a counter where the fresh pizza is placed, with one person reaching for a slice while the others watch with smiles. <br/>
 In the background, you can see lush potted plants both inside and out on the balcony, adding to the bright and relaxed atmosphere. <br/>
-Once the first person grabs a slice, the others will likely follow, and the conversation will flow as they enjoy their pizza.<br/>
+Once the first person grabs a slice, the others are likely to follow, and the conversation will flow as they enjoy their pizza.<br/>
 <br/>
-(119 words)
+(122 words)
 {{</card>}}
 
 
 ## Exercise 2: Choir
 
+{{<alert>}}
+This script is divided into two parts.
+{{</alert>}}
+
+{{<card header="**1st script**">}}
+The photo shows a choir practice in a music room.<br/>
+On the left side of the image, there's a female choir instructor with long blonde hair, wearing a white long-sleeve shirt. <br/>
+She's holding sheet music in her left hand and is energetically conducting the children’s choir in front of her with animated gestures.<br/>
+The choir consists entirely of girls who are standing in a row, fully focused on singing while holding either sheet music or lyrics in their hands. <br/>
+Looking closely, you'll notice their mouths moving differently, suggesting they might be performing a mixed-voice choir with sopranos and altos. <br/>
+<br/>
+I'll stop here, as the explanation is quite long.<br/>
+<br/>
+(108 words)
+{{</card>}}
+
+　
+
+{{<card header="**2nd script**">}}
+In the previous video, I talked about the choir practice with the instructor and the girls in the music room.<br/>
+Something in the photo really caught my attention, and I’d like to mention it.<br/>
+The instructor is paying particular attention to the section on her right. <br/>
+There’s a girl in a green outfit within her line of sight who has her mouth closed, as if she isn’t singing. <br/>
+Even though the instructor is concentrating on conducting, she might actually want to say something to the girl.<br/>
+In the background, a large arched window lets in bright natural light, enhancing the room’s acoustics. <br/>
+It’s likely their harmonized choral performance is resonating beautifully throughout the space.<br/>
+<br/>
+(114 words)
+{{</card>}}
 
 
 
