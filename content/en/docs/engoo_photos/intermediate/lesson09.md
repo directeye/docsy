@@ -35,7 +35,7 @@ Now, let me add my observations.<br/>
 <br/>
 They might not make it on time, and they may become sweaty or tear their clothes on the bicycle's rough journey. <br/>
 Looking at this photo we can't help but feel concerned for them. <br/>
-Though they may not seem to be having a smooth start, going through difficulties such as this, could be a valuable experience for the hopeful couple or at least an amusing anecdote.<br/>
+Though they may not seem to be having a smooth start, going through difficulties such as this could be a valuable experience for the hopeful couple or at least an amusing anecdote.<br/>
 <br/>
 Alternatively, the bicycle might be too small to fit both of them, suggesting the photo is actually part of a wedding photoshoot.<br/>
 <br/>

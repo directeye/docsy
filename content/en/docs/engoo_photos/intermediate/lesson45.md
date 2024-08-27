@@ -10,9 +10,9 @@ description: >
 ## Exercise 1: Pizza Party
 
 {{<card header="**Script**">}}
-The photo shows a group of four people, two men and two women, about to enjoy a whole Margherita pizza together. <br/>
+The photo shows a group of four people, two men and two women, about to enjoy a whole Hawaiian pizza together. <br/>
 It looks like they’re at someone’s home, having just ordered the pizza through a delivery service like Uber Eats, and they’re kicking off a pizza party as it arrives. <br/>
-The group is gathered around a counter where the fresh pizza is placed, with one person reaching for a slice while the others watch with smiles. <br/>
+The group is gathered around a counter where the fresh pizza is placed, with one person reaching for a slice while the others watch and smile. <br/>
 In the background, you can see lush potted plants both inside and out on the balcony, adding to the bright and relaxed atmosphere. <br/>
 Once the first person grabs a slice, the others are likely to follow, and the conversation will flow as they enjoy their pizza.<br/>
 <br/>
@@ -58,12 +58,13 @@ It’s likely their harmonized choral performance is resonating beautifully thro
 
 {{<card header="**Script**">}}
 The photo shows a young boy at a kitchen table with a plate of spaghetti in front of him.<br/>
-He looks genuinely surprised, with wide eyes and his mouth open. <br/>
-What stands out is that the spaghetti noodles are not only on his plate but also draped over his head, almost like he’s wearing a wig made of noodle dreadlocks.<br/>
-He’s holding a fork in one hand and a spoon in the other, as if he was just about to start eating.<br/>
-Since the spaghetti has no sauce, it’s unlikely this happened while he was actually eating. <br/>
-He might have been pranked with a trick that sent the noodles flying onto his head, or the whole scene was set up for a playful photoshoot.<br/>
+He looks genuinely surprised, with wide eyes and his mouth open.<br/>
+What stands out is that the spaghetti is not only on his plate but also draped over his head, almost like he’s wearing a wig made of noodle dreadlocks.<br/>
+He’s holding a fork in one hand and a spoon in the other, as if he’s about to start eating.<br/>
+Interestingly, the spaghetti on his head looks like plain cooked noodles without any sauce, and he doesn't seem to mind whether they're hot or cold. <br/>
+So, it doesn't seem like this happened while he was actually eating. <br/>
+The whole scene might be set up for a playful staged photoshoot.<br/>
 <br/>
-(124 words)
+(128 words)
 {{</card>}}
 
