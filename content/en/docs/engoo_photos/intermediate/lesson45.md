@@ -61,10 +61,10 @@ The photo shows a young boy at a kitchen table with a plate of spaghetti in fron
 He looks genuinely surprised, with wide eyes and his mouth open.<br/>
 What stands out is that the spaghetti is not only on his plate but also draped over his head, almost like he’s wearing a wig made of noodle dreadlocks.<br/>
 He’s holding a fork in one hand and a spoon in the other, as if he’s about to start eating.<br/>
-Interestingly, the spaghetti on his head looks like plain cooked noodles without any sauce, and he doesn't seem to mind whether they're hot or cold. <br/>
-So, it doesn't seem like this happened while he was actually eating. <br/>
-The whole scene might be set up for a playful staged photoshoot.<br/>
+Interestingly, the spaghetti on his head looks plain and cooked without any sauce, and he doesn't seem to mind whether it's hot or cold. <br/>
+So, it doesn't look like this happened while he was actually eating. <br/>
+The whole scene must be set up for a playfully staged photoshoot.<br/>
 <br/>
-(128 words)
+(127 words)
 {{</card>}}
 
