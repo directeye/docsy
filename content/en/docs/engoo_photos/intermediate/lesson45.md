@@ -27,29 +27,30 @@ This script is divided into two parts.
 {{</alert>}}
 
 {{<card header="**1st script**">}}
-The photo shows a choir practice in a music room.<br/>
-On the left side of the image, there's a female choir instructor with long blonde hair, wearing a white long-sleeve shirt. <br/>
-She's holding a sheet of music in her left hand and is energetically conducting the children’s choir in front of her with animated gestures.<br/>
-The choir consists entirely of girls who are standing in a row, fully focused on singing while holding either a sheet of music or lyrics in their hands. <br/>
-Looking closely, you'll notice their mouths moving differently, suggesting they might be performing a mixed-voice choir with sopranos and altos. <br/>
+The photo shows a choir practice in a music room. <br/>
+On the left side, there's a female choir instructor with long blonde hair, wearing a white long-sleeve shirt. <br/>
+She's holding a sheet of music in her left hand and energetically conducting the children's choir using animated gestures. <br/>
+The choir, made up entirely of girls, is standing in a row, each holding a sheet of music or lyrics. <br/>
+They’re completely focused on singing. <br/>
+If you look closely, you can see their mouths moving in different ways, which suggests they might be performing a mixed-voice choir with sopranos and altos. <br/>
 <br/>
 I'll stop here, as the explanation is quite long.<br/>
 <br/>
-(112 words)
+(107 words)
 {{</card>}}
 
 　
 
 {{<card header="**2nd script**">}}
-In the previous video, I talked about the choir practice with the instructor and the girls in the music room.<br/>
-Something in the photo really caught my attention, and I’d like to mention it.<br/>
-The instructor is paying particular attention to the girls on the right. <br/>
-There’s a girl in a green outfit within her line of sight who has her mouth closed, as if she isn’t singing. <br/>
-Even though the instructor is concentrating on conducting, she might actually want to say something to the girl.<br/>
-In the background, a large arched window lets in bright natural light, enhancing the room’s acoustics. <br/>
-It’s likely their harmonized choral performance is resonating beautifully throughout the space.<br/>
+In the previous video, I talked about a choir practice with the instructor and the girls in a music room. <br/>
+There was one thing that caught my attention in that photo, and I’d like to mention it. <br/>
+The instructor seems to be focusing on guiding the girls on the right side of the group. <br/>
+However, there’s a girl in a green outfit within her line of sight who has her mouth closed, as if she’s not singing. <br/>
+While the instructor seems to be prioritizing leading the choir, she might actually have something to say to that girl.<br/>
+In the background, there’s a large arched window letting in bright natural light, which enhances the room's acoustics. <br/>
+Their harmonious singing must beautifully fill the entire space.<br/>
 <br/>
-(114 words)
+(124 words)
 {{</card>}}
 
 

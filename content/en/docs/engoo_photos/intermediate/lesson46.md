@@ -16,7 +16,7 @@ This script is divided into two parts.
 {{<card header="**1st script**">}}
 The photo captures a tender moment between newlyweds on their big day. <br/>
 The bride is dressed in a delicate white lace gown that reveals her back. <br/>
-Her blonde hair is elegantly styled up, with a long veil flowing behind her. <br/>
+Her blonde hair is elegantly styled, tied up, with a long veil flowing behind her. <br/>
 Her right hand, draped in the veil, gently rests on the groom’s chest, while her left hand, holding a bouquet of soft-colored roses, wraps around his shoulder.<br/>
 The groom, standing close to his bride, cuts a dashing figure in a classic tuxedo complete with a boutonnière.<br/>
 <br/>
@@ -53,7 +53,7 @@ It looks like he's brought her to a sunny rooftop or some high vantage point, pe
 <br/>
 However, the woman, dressed in a teal sleeveless top with lattice-patterned lace that complements her long chestnut hair, is having none of it. <br/>
 She’s holding both hands up, gently keeping some distance between them. <br/>
-Her body is slightly turned away, and though her eyes are on him, her face is turned in the different direction, unmistakably rejecting his advance. <br/>
+Her body is slightly turned away, and though her eyes are on him, her face is turned in a different direction, unmistakably rejecting his advance. <br/>
 <br/>
 I'll stop here, as the explanation is quite long.<br/>
 <br/>
