@@ -16,13 +16,13 @@ This script is divided into two parts.
 {{<card header="**1st script**">}}
 The photo captures a tender moment between newlyweds on their big day. <br/>
 The bride is dressed in a delicate white lace gown that reveals her back. <br/>
-Her blonde hair is elegantly styled, tied up, with a long veil flowing behind her. <br/>
+Her blonde hair is elegantly styled and tied up, with a long veil flowing behind her. <br/>
 Her right hand, draped in the veil, gently rests on the groom’s chest, while her left hand, holding a bouquet of soft-colored roses, wraps around his shoulder.<br/>
 The groom, standing close to his bride, cuts a dashing figure in a classic tuxedo complete with a boutonnière.<br/>
 <br/>
 I'll stop here, as the explanation is quite long.<br/>
 <br/>
-(95 words)
+(96 words)
 {{</card>}}
 
 　
@@ -98,12 +98,12 @@ He's probably trying to figure out how to suggest grabbing a coffee without risk
 {{<card header="**Script**">}}
 The photo shows a young woman with long blonde hair taking a selfie outside.<br/>
 She's rocking a wide-brimmed black hat and big round glasses with dark frames. <br/>
-Her outfit includes a light green camisole with a leaf pattern, and she’s wearing gray knit things covering her arms.<br/>
+Her outfit includes a light green camisole with a leafy pattern and a gray knit cardigan that has slipped off her shoulders and is just hanging on her arms. <br/>
 You can tell she's got a good sense of style, mixing casual and trendy.<br/>
 In the selfie, she’s sticking out her tongue and her gaze looks upwards to the left, deliberately avoiding eye contact with the camera.<br/>
 Looks like she's trying to be goofy on purpose.<br/>
-With her right arm extended to hold the camera and her left hand flashing a peace sign, her confident and slightly cheeky pose only brings out her charm.<br/>
+With her right arm extended to hold the camera and her left hand flashing a peace sign, her confident and cheeky pose adds to her charm.<br/>
 <br/>
-(120 words)
+(128 words)
 {{</card>}}
 

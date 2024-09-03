@@ -61,4 +61,13 @@ Since she’s the only person behind the counter, the photo likely captures a qu
 
 ## Exercise 3: What Did You Say?
 
-
+{{<card header="**Script**">}}
+This image features a woman with red hair tied back, making an exaggerated facial expression. <br/>
+With her right hand cupped behind her ear, it seems she's trying to eavesdrop or hear something more clearly. <br/>
+She must be quite the gossip!<br/>
+Her expression reveals shock, with wide-open eyes and a gaping mouth, as if unable to conceal her reaction to what she overheard. <br/>
+The spotlight seems to be focused on her astonished face, and given how over-the-top her gestures are, this might actually be a scene from a stage performance. <br/>
+She might be an actress in the middle of a theatrical act.<br/>
+<br/>
+(101 words)
+{{</card>}}
