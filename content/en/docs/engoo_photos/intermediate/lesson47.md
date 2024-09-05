@@ -18,13 +18,13 @@ The photo captures a joyful moment in front of a house, celebrating the completi
 The couple, likely husband and wife, stand close together, smiling warmly. <br/>
 The man is dressed in a light gray t-shirt and jeans, while the woman is in a white top and jeans, both casually dressed. <br/>
 The woman has her arm around the man's waist from behind, showing their closeness. <br/>
-Across from them stands a woman who appears to be their real estate agent, looking polished in a dark blazer. <br/>
+In front of them stands a lady who appears to be their real estate agent, looking polished in a dark blazer. <br/>
 She's shaking hands with the man, sealing the deal with a smile. <br/>
 In her other hand is a red folder, probably containing the freshly signed paperwork.<br/>
 <br/>
 I'll stop here, as the explanation is quite long.<br/>
 <br/>
-(123 words)
+(124 words)
 {{</card>}}
 
 　
@@ -62,12 +62,13 @@ Since she’s the only person behind the counter, the photo likely captures a qu
 ## Exercise 3: What Did You Say?
 
 {{<card header="**Script**">}}
-This image features a woman with red hair tied back, making an exaggerated facial expression. <br/>
-With her right hand cupped behind her ear, it seems she's trying to eavesdrop or hear something more clearly. <br/>
-She must be quite the gossip!<br/>
-Her expression reveals shock, with wide-open eyes and a gaping mouth, as if unable to conceal her reaction to what she overheard. <br/>
-The spotlight seems to be focused on her astonished face, and given how over-the-top her gestures are, this might actually be a scene from a stage performance. <br/>
-She might be an actress in the middle of a theatrical act.<br/>
+The photo features a woman with red hair tied back, dressed in a light-colored top. <br/>
+She’s cupping her right hand behind her ear in an exaggerated listening pose, as if she’s eager to catch every word. <br/>
+Her facial expression is almost overly dramatic, with wide eyes and an open mouth conveying extreme surprise.<br/>
+It's as if she can't hide her reaction to whatever she's just heard.<br/>
+The spotlight seems to be focused on her astonished face, and given how over-the-top her gestures are, this is likely a staged scene.<br/>
+It could be a theatrical performance or perhaps a stock photo shoot.<br/>
+The image seems designed to humorously capture the idea of being shocked by overheard gossip.<br/>
 <br/>
-(101 words)
+(116 words)
 {{</card>}}
