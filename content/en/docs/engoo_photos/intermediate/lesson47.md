@@ -46,16 +46,16 @@ Their beaming smiles reflect their excitement about starting a new chapter in th
 ## Exercise 2: Fast Food
 
 {{<card header="**Script**">}}
-The photo captures a friendly woman serving at a fast food restaurant. <br/>
-Her light brown hair is neatly tied back in a ponytail. <br/>
-She’s dressed in a light-colored collared shirt and a red apron, which is part of the restaurant’s uniform.<br/>
-Behind the counter, she's warmly smiling while handing a customer an orange tray holding two round black plates with clear lids.<br/>
-In the background, there's a menu board, though its text is unreadable. <br/>
-While it’s unclear what type of fast food is served, the setup looks typical of such a place. <br/>
-The dining area and registers aren’t visible, making it hard to gauge how busy the restaurant is. <br/>
-Since she’s the only person behind the counter, the photo likely captures a quieter, more relaxed moment.<br/>
+The photo shows a friendly woman serving at a fast food restaurant.<br/>
+Her light brown hair is tied back in a ponytail, and she wears a light-colored shirt with a red apron uniform. <br/>
+Standing behind the counter, she's smiling warmly while handing a customer an orange tray. <br/>
+The tray holds two round black plates with transparent lids, though the food is unclear. <br/>
+A blurry menu board is visible in the background. <br/>
+The type of food served isn't apparent, but the setup is typical for a fast food establishment. <br/>
+The photo doesn't reveal the dining area or any queues, so it's hard to tell how busy the restaurant is. <br/>
+The woman is the only visible staff member, suggesting a calm moment in the restaurant’s operations.<br/>
 <br/>
-(126 words)
+(124 words)
 {{</card>}}
 
 

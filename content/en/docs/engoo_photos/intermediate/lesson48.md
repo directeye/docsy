@@ -11,7 +11,7 @@ description: >
 
 {{<card header="**Script**">}}
 The image shows three colleagues at a wooden desk, intently focused on a laptop with worried expressions. <br/>
-The man on the left, in a khaki shirt, covers his mouth in shock, as if he's seen something he shouldn't have. <br/>
+The man on the left, in a light brown shirt, covers his mouth in shock, as if he's seen something he shouldn't have. <br/>
 To the right, the man in a gray blazer has one hand on his forehead and looks like he can't bear to look at the screen. <br/>
 His eyes are closed, and his expression says, "Oh no," as if he's deeply troubled.<br/>
 Between them, the woman has one hand on her cheek, her mouth slightly open, and her eyes wide with concern.<br/>
@@ -30,27 +30,40 @@ This script is divided into two parts.
 {{<card header="**1st script**">}}
 The photo shows a young girl dressed up as an office worker, looking quite irritated. <br/>
 The setting resembles an old-fashioned office with wooden walls and a matching desk, polished to a glossy finish.<br/>
-On the desk, there's this orange typewriter with paper in it and one of those old gray telephones with a cord. <br/>
-It's hard to tell if it's a rotary phone or has buttons, but either way, it's definitely one of those analog phones you never see anymore, definitely a vintage item. <br/>
+On the desk, there's an orange typewriter with a sheet of paper in it, and an old gray phone. <br/>
+It's hard to tell whether it’s a rotary or push-button, but either way, it’s definitely an old wired phone with a coiled cord for the receiver, the kind you hardly see anymore. <br/>
+It's quite a vintage piece.<br/>
 <br/>
 I'll stop here, as the explanation is quite long.<br/>
 <br/>
-(93 words)
+(98 words)
 {{</card>}}
 
 　
 
 {{<card header="**2nd script**">}}
-The girl has long black hair in two braids, and she’s wearing large round black glasses. <br/>
-Over her white long-sleeved shirt, she has on a black-and-white patterned vest.<br/>
-What stands out is that she's got her eyes squeezed shut, and her hands pressed against her ears.<br/>
-Alternatively, she might be in the middle of writing and experiencing writer's block. <br/>
+The girl has long black hair tied in two braids and wears oversized black-rimmed glasses, with thick, straight bangs hanging over the frames. <br/>
+Dressed in a white long-sleeved shirt under a black-and-white patterned vest, she stands out with her eyes squeezed shut and hands pressed against her ears. <br/>
+It's unclear if the ringing phone or the typewriter's clacking is bothering her, but her expression shows frustration. <br/>
+Alternatively, she might be in the middle of writing and experiencing writer's block.<br/>
 Perhaps she's unable to concentrate, distracted by various things, and she just wants to yell, "I've had it!"<br/>
-Interestingly, the girl seems too young to be using a phone or typewriter, so this could be a stock photo shoot. <br/>
-Either way, it's an engaging nostalgic recreation of a vintage office scene from back in the day.<br/>
+Interestingly, she looks too young to use the office equipment, suggesting this is a staged stock photo. <br/>
+Regardless, it's a captivating recreation of a classic office scene, evoking nostalgia for a bygone era.<br/>
 <br/>
-(115 words)
+(130 words)
 {{</card>}}
 
 ## Exercise 3: Relaxation
 
+{{<card header="**Script**">}}
+The photo captures a peaceful scene of a cat lounging on a windowsill. <br/>
+This tabby has distinctive brown and black stripes on its back and head, with white front legs that stand out.<br/>
+Its pink paw pads suggest it’s still a little kitten. <br/>
+The cat is stretched out, resting its face on its right paw, with its front legs extended. <br/>
+Its eyes are half-closed, looking totally relaxed and a bit drowsy in the warm sunlight. <br/>
+Positioned closer to the window frame, beyond a sheer off-white lace curtain, the cat is soaking up the sunlight streaming in. <br/>
+But if you disturb its peaceful sunbathing, it might get annoyed.<br/>
+You could get a sharp glare or even a scratch!<br/>
+<br/>
+(117 words)
+{{</card>}}
