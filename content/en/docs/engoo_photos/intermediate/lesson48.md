@@ -56,8 +56,8 @@ Regardless, it's a captivating recreation of a classic office scene, evoking nos
 ## Exercise 3: Relaxation
 
 {{<card header="**Script**">}}
-The photo captures a peaceful scene of a cat lounging on a windowsill. <br/>
-This tabby has distinctive brown and black stripes on its back and head, with white front legs that stand out.<br/>
+The photo captures a peaceful scene of a pussy cat lounging on a windowsill. <br/>
+This cat looks like a tabby, with distinctive brown and black striped patterns on its back and head, and noticeable white front paws.<br/>
 Its pink paw pads suggest it’s still a little kitten. <br/>
 The cat is stretched out, resting its face on its right paw, with its front legs extended. <br/>
 Its eyes are half-closed, looking totally relaxed and a bit drowsy in the warm sunlight. <br/>
@@ -65,5 +65,5 @@ Positioned closer to the window frame, beyond a sheer off-white lace curtain, th
 But if you disturb its peaceful sunbathing, it might get annoyed.<br/>
 You could get a sharp glare or even a scratch!<br/>
 <br/>
-(117 words)
+(121 words)
 {{</card>}}

@@ -28,7 +28,7 @@ This script is divided into two parts.
 {{</alert>}}
 
 {{<card header="**1st script**">}}
-The photo captures an elderly couple riding together on a bicycle, passing through what looks like a weekend market in a town square.<br/>
+The photo captures an elderly couple riding together on a bicycle, passing through what looks like a flea market in a town square.<br/>
 On both sides of the street, there are stalls set up selling clothes. <br/>
 The shadows cast by these stalls are pretty short, so it's probably around midday.<br/>
 Based on how the elderly couple is dressed, and one of the two blurry figures in the background wearing a long black coat, it seems to be late autumn or winter.<br/>
@@ -44,16 +44,15 @@ I'll stop here for now, as the explanation is quite long.<br/>
 In the previous video, I discussed the market scene. <br/>
 Now, let’s focus on the elderly couple on the bicycle.<br/>
 <br/>
-The man, who is bald on top with white hair on the sides, is wearing a tracksuit top with a wide navy-blue stripe down both sleeves. <br/>
-The woman, sporting red-framed glasses, is dressed in a denim vest, khaki pants, and a scarf. <br/>
+The man, bald on top with white hair on the sides, is wearing a tracksuit top with a wide navy-blue stripe down both sleeves.<br/>
+The woman, in red-framed glasses, sports a denim vest, khaki pants, and a scarf.  <br/>
 They are both beaming, clearly enjoying their cycling.<br/>
 <br/>
-The couple's riding style is unique. <br/>
-The man is pedaling whilst his hands are around the woman's waist instead of on the handlebars. <br/>
-She's perched on the front frame, legs stretched out to the left, and steers the bike with a firm grip. <br/>
+The man is pedaling whilst his hands are around the woman's waist instead of on the handlebars.<br/>
+She's perched on the front of the bicycle frame with her legs stretched out to the left as she steers the bike with a firm grip.<br/>
 Their teamwork makes for skillful riding, but they likely need to keep a certain speed to stay balanced.<br/>
 <br/>
-(129 words)
+(126 words)
 {{</card>}}
 
 ## Exercise 3: Silly in the Pool
