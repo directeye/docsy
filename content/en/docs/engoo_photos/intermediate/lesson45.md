@@ -43,14 +43,16 @@ I'll stop here, as the explanation is quite long.<br/>
 
 {{<card header="**2nd script**">}}
 In the previous video, I talked about a choir practice with the instructor and the girls in a music room. <br/>
-There was one thing that caught my attention in that photo, and I’d like to mention it. <br/>
-The instructor seems to be focusing on guiding the girls on the right side of the group. <br/>
-However, there’s a girl in a green outfit within her line of sight who has her mouth closed, as if she’s not singing. <br/>
-While the instructor seems to be prioritizing leading the choir, she might actually have something to say to that girl.<br/>
-In the background, there’s a large arched window letting in bright natural light, which enhances the room's acoustics. <br/>
-Their harmonious singing must beautifully fill the entire space.<br/>
 <br/>
-(124 words)
+I'd like to mention one thing that caught my attention in that photo.<br/>
+Notice the instructor focusing on guiding the girls to her right.<br/>
+Specifically, the girl in the green outfit, within the instructor's line of sight, has her mouth closed as if she’s not singing.<br/>
+While the instructor seems to prioritize conducting the piece, she also might be showing the girl how to sing properly.<br/>
+<br/>
+In the background, a large arched window lets in bright natural light, which enhances the room's acoustics.<br/>
+The choir's harmonious singing beautifully fills the entire space.<br/>
+<br/>
+(112 words)
 {{</card>}}
 
 

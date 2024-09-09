@@ -60,22 +60,33 @@ You can really tell they've been out on the town, enjoying a fun shopping spree.
 ## Exercise 2: Good Morning!
 
 {{<card header="**Script**">}}
-The photo shows a woman stretching in bed on a bright, sunny morning. <br/>
-Large windows wrap around the bedroom, flooding it with natural light. <br/>
-Since it's already bright, she may have slept in. <br/>
-With no curtains, you can see parts of other buildings outside, suggesting an urban or suburban setting.<br/>
+The photo captures a woman stretching in a king-size bed on a sun-drenched morning. <br/>
+Wraparound windows flood the room with light, hinting she may have slept in. <br/>
+The lack of curtains reveals glimpses of nearby buildings, suggesting an urban or suburban setting.<br/>
 <br/>
-The bed is dressed in crisp white bedding with a plush comforter and pillows. <br/>
-The sleek leather headboard adds a cozy touch and serves as a comfortable backrest. <br/>
-A matching dark bedside table and modern lamp complete the chic look.<br/>
+Crisp white bedding adorns the bed, complete with a plush comforter and pillows. <br/>
+A sleek leather headboard doubles as a cozy backrest, while a matching dark bedside table topped with a modern lamp adds a chic touch.<br/>
 <br/>
-Wearing a light-colored, comfy nightgown, the woman smiles slightly and stretches her arms above her head. <br/>
-The bright, airy room and her relaxed morning create a calm, refreshing start to the day.<br/>
+The woman, wearing a comfortable-looking nightgown, lies in the middle of the spacious bed. <br/>
+Her arms are stretched above her head, and a slight smile plays on her face. <br/>
+The bright, airy room and her relaxed posture create a sense of calm, promising a refreshing start to the day.<br/>
 <br/>
-(122 words)
+(128 words)
 {{</card>}}
 
 
 ## Exercise 3: Under a Tree
+
+{{<card header="**Script**">}}
+This image captures a boy engrossed in reading outdoors in a peaceful setting. <br/>
+He sits beneath a massive, majestic tree with a thick trunk and wide-spreading branches.<br/>
+Dressed in casual summer clothes, including a light-colored shirt and blue shorts, he also wears a hat. <br/>
+The boy leans comfortably against the tree, with his knees slightly raised to support his book. <br/>
+In the foreground, a field of orange and yellow flowers stretches out. <br/>
+Lush greenery extends beyond the central tree, with the distant trees and leaves adding depth to the scene.<br/>
+Sunlight filters through the trees, gently illuminating the boy, creating the perfect soft light for him to enjoy reading in this beautiful outdoor environment.<br/>
+<br/>
+(114 words)
+{{</card>}}
 
 
