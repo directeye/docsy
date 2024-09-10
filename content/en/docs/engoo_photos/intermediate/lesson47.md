@@ -47,7 +47,7 @@ Their beaming smiles reflect their excitement about starting a new chapter in th
 
 {{<card header="**Script**">}}
 The photo shows a friendly woman serving at a fast food restaurant.<br/>
-Her light brown hair is tied back in a ponytail, and she wears a light-colored shirt with a red apron uniform. <br/>
+Her light brown hair is tied back in a ponytail, and she's wearing a light-colored shirt with a red apron uniform. <br/>
 Standing behind the counter, she's smiling warmly while handing a customer an orange tray. <br/>
 The tray holds two round black plates with transparent lids, though the food is unclear. <br/>
 A blurry menu board is visible in the background. <br/>
