@@ -15,7 +15,7 @@ This script is divided into two parts.
 
 {{<card header="**1st script**">}}
 The photo shows a family of three enjoying a kite-flying day in a wide open field. <br/>
-They’re all casually dressed in matching white shirts and denim pants. <br/>
+They’re all casually dressed in matching white shirts and denim pants or shorts. <br/>
 With the sunlight coming in at an angle, it looks like it could be early evening in late spring or early summer. <br/>
 The mother is the one holding the string, actually flying the kite. <br/>
 Meanwhile, the child runs with his left arm raised, looking proud as if he’s the one in control of the kite.<br/>
@@ -23,7 +23,7 @@ As for the father, he seems to be jumping, trying to catch the kite mid-air.<br/
 <br/>
 I'll stop here for now, as the explanation is quite long.<br/>
 <br/>
-(108 words)
+(110 words)
 {{</card>}}
 
 　
@@ -66,12 +66,12 @@ I'll stop here for now, as the explanation is quite long.<br/>
 In the previous video, I described a couple enjoying a morning run. <br/>
 Now, I'd like to share my thoughts on morning jogging.<br/>
 <br/>
-Morning jogs are a great way to kick off the day, giving you a burst of energy and setting a healthy tone. <br/>
+Morning jogs are a great way to kick off the day, giving you a burst of energy and setting a healthy tone for the rest of your day.<br/>
 However, if you push yourself too hard, you might feel sleepy later, so it’s better to keep the intensity moderate to conserve your energy.<br/>
 As a side note, outdoor jogging can be tricky since it depends on factors like weather, temperature, and daylight hours. <br/>
-If you’re trying to make it a habit, I think hitting the gym or home workout might be a more reliable option.<br/>
+If you’re trying to make it a habit, I think hitting the gym or working out at home might be a more reliable option.<br/>
 <br/>
-(110 words)
+(118 words)
 {{</card>}}
 
 ## Exercise 3: Ready to Study

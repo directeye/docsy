@@ -23,6 +23,16 @@ After climbing from the base of the mountain, she’s probably feeling a sense o
 
 ## Exercise 2: Relaxing
 
+{{<card header="**Script**">}}
+The image captures a serene moment of a woman relaxing on a wooden dock by a lake or sea. <br/>
+She has strawberry blonde hair and is wearing sunglasses likely to shield her eyes from the sun. <br/>
+Lying back with her legs stretched towards the water’s edge and her hands behind her head, she looks completely at ease.<br/>
+Her casual outfit includes a plaid long-sleeve shirt over a white top, light blue jeans, and black walking shoes with red accents.<br/>
+A tablet is placed next to her, suggesting she might have been reading or browsing before she is lying down.<br/>
+Right now, she’s just enjoying the moment on the dock, likely listening to the gentle lapping of water against the pier and maybe even drifting off to sleep.<br/>
+<br/>
+(127 words)
+{{</card>}}
 
 
 ## Exercise 3: Movie Buffs
