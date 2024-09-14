@@ -79,12 +79,12 @@ If you’re trying to make it a habit, I think hitting the gym or working out at
 {{<card header="**Script**">}}
 The photo shows a young girl posing with an armful of books. <br/>
 She's standing on a slatted wooden floor, with a dark green chalkboard-style backdrop behind her. <br/>
-Wearing a polka-dot long-sleeved blouse and a black skirt, she carries a large red backpack on her shoulders. <br/>
+The girl is wearing a polka-dot long-sleeved blouse and a black skirt and carrying a large red backpack on her shoulders.<br/>
 Oversized red glasses dominate her face, and her hair is neatly tied back with a white ribbon.<br/>
 It’s a bit of a shame that she needs glasses at such a young age, but she gives off a real bookworm vibe. <br/>
 The overall atmosphere suggests she might be a diligent student who takes her studies seriously.<br/>
 <br/>
-(100 words)
+(103 words)
 {{</card>}}
 
 

@@ -64,11 +64,11 @@ The woman is the only visible staff member, suggesting a calm moment in the rest
 {{<card header="**Script**">}}
 The photo features a woman with red hair tied back, dressed in a light-colored top. <br/>
 She’s cupping her right hand behind her ear in an exaggerated listening pose, as if she’s eager to catch every word. <br/>
-Her facial expression is almost overly dramatic, with wide eyes and an open mouth conveying extreme surprise.<br/>
+Her facial expression is almost overly dramatic, with eyes wide open and a gaping mouth conveying extreme surprise.<br/>
 It's as if she can't hide her reaction to whatever she's just heard.<br/>
 The spotlight seems to be focused on her astonished face, and given how over-the-top her gestures are, this is likely a staged scene.<br/>
 It could be a theatrical performance or perhaps a stock photo shoot.<br/>
 The image seems designed to humorously capture the idea of being shocked by overheard gossip.<br/>
 <br/>
-(116 words)
+(117 words)
 {{</card>}}

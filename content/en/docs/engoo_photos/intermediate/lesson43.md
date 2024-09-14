@@ -16,15 +16,15 @@ This script is divided into two parts.
 {{<card header="**1st script**">}}
 The photo shows a group of five young people enjoying a hike in the woods. <br/>
 They’re just about to walk on a large log over a creek, trying to reach the other side.<br/>
-The sunlight filtering through the trees creates a warm and pleasant atmosphere, while the sound of the brook adds a refreshing coolness.<br/>
+The sunlight filtering through the trees creates a warm and pleasant atmosphere, while the sound of the creek adds a refreshing coolness.<br/>
 <br/>
 The two girls at the front are dressed lightly and aren't carrying backpacks. <br/>
-The girl in front has braided hair and is wearing a checkered shirt, while the second girl is wearing a green shirt under a white lace top, paired with blue denim shorts.<br/>
+The girl in front has braided hair and is wearing a checkered shirt, while the second girl is wearing a green tank top under a white lace shirt, paired with blue denim shorts.<br/>
 They’re carefully balancing on the log with both arms out as they start to cross. <br/>
 <br/>
 I'll stop here for now, as the explanation is quite long.<br/>
 <br/>
-(128 words)
+(127 words)
 {{</card>}}
 
 　
@@ -33,17 +33,16 @@ I'll stop here for now, as the explanation is quite long.<br/>
 Previously, I described two hikers crossing the log. <br/>
 Let's focus on the remaining three. <br/>
 <br/>
-Since they're all carrying backpacks, they need to be extra careful not to lose their balance. <br/>
+Since they’re all carrying backpacks, they need to be extra cautious to maintain balance. <br/>
 I’m particularly worried about the guy in the middle, wearing a red shirt and beige knee-length shorts, who’s trying to cross in flip-flops. <br/>
 While the whole group is dressed casually, flip-flops are especially risky because they can easily slip off the log, causing him to fall into the creek.<br/>
 <br/>
-Behind him is a blonde woman in a striped sleeveless top and dungarees shorts.<br/>
-At the back is a man with stubble, wearing a plaid shirt and knee-length jeans. <br/>
+Behind him is a blonde woman in a striped sleeveless top and denim overalls, followed by a man with a beard in a plaid shirt and jean shorts. <br/>
 <br/>
 Hiking is fun, but overconfidence can be dangerous. <br/>
 The right gear and proper precautions are essential for a safe, enjoyable experience. <br/>
 <br/>
-(129 words)
+(126 words)
 {{</card>}}
 
 

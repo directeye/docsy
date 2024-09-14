@@ -31,12 +31,12 @@ I'll stop here, as the explanation is quite long.<br/>
 
 {{<card header="**2nd script**">}}
 Let's take a closer look at the woman in the center. <br/>
-Her long brown hair frames her face beautifully, and she’s wearing a vibrant matching top and skirt, paired with a matching hat.<br/>
-Her mirrored aviator sunglasses she's wearing add a stylish touch. <br/>
+Her long brown hair drapes on her back and she’s wearing a vibrant matching top and skirt, paired with a matching hat.<br/>
+Her mirrored aviator sunglasses add a stylish touch. <br/>
 What's particularly interesting is her choice of shopping bags. <br/>
-She's carrying a light blue one that's identical to the bag her blonde friend on the left is holding. <br/>
+She's carrying a light blue one that's identical to the bag her blonde mother on the left is holding. <br/>
 Along with that, she has another bag with a similar geometric pattern. <br/>
-Both are casually draped over her right shoulder, held in her right hand.<br/>
+Both are casually draped over her right shoulder, held in her fingers.<br/>
 The matching bags are quite intriguing.<br/>
 It looks like they may have shopped at the same boutique.<br/>
 <br/>
@@ -64,7 +64,7 @@ The photo captures a woman stretching in a king-size bed on a sun-drenched morni
 Wraparound windows flood the room with light, hinting she may have slept in. <br/>
 The lack of curtains reveals glimpses of nearby buildings, suggesting an urban or suburban setting.<br/>
 <br/>
-Crisp white bedding adorns the bed, complete with a plush comforter and pillows. <br/>
+Crisp white bedding adorns the bed, complete with a smooth comforter and pillows. <br/>
 A sleek leather headboard doubles as a cozy backrest, while a matching dark bedside table topped with a modern lamp adds a chic touch.<br/>
 <br/>
 The woman, wearing a comfortable-looking nightgown, lies in the middle of the spacious bed. <br/>

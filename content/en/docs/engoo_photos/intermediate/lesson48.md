@@ -10,14 +10,14 @@ description: >
 ## Exercise 1: OMG!
 
 {{<card header="**Script**">}}
-The image shows three colleagues at a wooden desk, intently focused on a laptop with worried expressions. <br/>
+The image shows three colleagues sitting at a wooden desk, intently focused on a laptop screen with worried expressions. <br/>
 The man on the left, in a light brown shirt, covers his mouth in shock, as if he's seen something he shouldn't have. <br/>
 To the right, the man in a gray blazer has one hand on his forehead and looks like he can't bear to look at the screen. <br/>
-His eyes are closed, and his expression says, "Oh no," as if he's deeply troubled.<br/>
+His eyes are closed, and his expression says, "Oh no!" as if he's deeply troubled.<br/>
 Between them, the woman has one hand on her cheek, her mouth slightly open, and her eyes wide with concern.<br/>
 It's unclear whether the laptop is displaying a video or some kind of document, but the atmosphere surrounding the three suggests they're facing some kind of difficulty. <br/>
 <br/>
-(127 words)
+(130 words)
 {{</card>}}
 
 
