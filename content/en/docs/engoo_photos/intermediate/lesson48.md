@@ -10,14 +10,14 @@ description: >
 ## Exercise 1: OMG!
 
 {{<card header="**Script**">}}
-The image shows three colleagues sitting at a wooden desk, intently focused on a laptop screen with worried expressions. <br/>
+The image shows three colleagues sitting at a wooden desk, intently focused on a laptop with worried expressions. <br/>
 The man on the left, in a light brown shirt, covers his mouth in shock, as if he's seen something he shouldn't have. <br/>
 To the right, the man in a gray blazer has one hand on his forehead and looks like he can't bear to look at the screen. <br/>
 His eyes are closed, and his expression says, "Oh no!" as if he's deeply troubled.<br/>
 Between them, the woman has one hand on her cheek, her mouth slightly open, and her eyes wide with concern.<br/>
 It's unclear whether the laptop is displaying a video or some kind of document, but the atmosphere surrounding the three suggests they're facing some kind of difficulty. <br/>
 <br/>
-(130 words)
+(129 words)
 {{</card>}}
 
 
@@ -42,7 +42,7 @@ I'll stop here, as the explanation is quite long.<br/>
 　
 
 {{<card header="**2nd script**">}}
-The girl has long black hair tied in two braids and wears oversized black-rimmed glasses, with thick, straight bangs hanging over the frames. <br/>
+The girl has long black hair in braids and wears oversized black-rimmed glasses, with thick, straight bangs hanging over the frames. <br/>
 Dressed in a white long-sleeved shirt under a black-and-white patterned vest, she stands out with her eyes squeezed shut and hands pressed against her ears. <br/>
 It's unclear if the ringing phone or the typewriter's clacking is bothering her, but her expression shows frustration. <br/>
 Alternatively, she might be in the middle of writing and experiencing writer's block.<br/>
@@ -50,7 +50,7 @@ Perhaps she's unable to concentrate, distracted by various things, and she just 
 Interestingly, she looks too young to use the office equipment, suggesting this is a staged stock photo. <br/>
 Regardless, it's a captivating recreation of a classic office scene, evoking nostalgia for a bygone era.<br/>
 <br/>
-(130 words)
+(128 words)
 {{</card>}}
 
 ## Exercise 3: Relaxation

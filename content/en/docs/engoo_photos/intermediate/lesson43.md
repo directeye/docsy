@@ -52,12 +52,13 @@ The right gear and proper precautions are essential for a safe, enjoyable experi
 The photo shows a group of five people participating in what looks like a fitness or dance class in a bright, spacious room.<br/>
 The woman in front, likely the instructor, has an Afro and a lovely dark complexion. <br/>
 She’s wearing a turquoise sports bra and colorful leggings. <br/>
-Behind her, the other women sport pastel T-shirts or tank tops with leggings, with a man on the far left.<br/>
+Behind her, three other women sport pastel T-shirts or tank tops with leggings. <br/>
+There is also a man in a lime green shirt on the far left.<br/>
 All the participants are performing in sync, with their right foot forward and their arms raised and crossed overhead.<br/>
 They appear to be in the midst of an exercise routine, full of energy and enjoying themselves. <br/>
 There's probably a large mirror in front of the group, allowing them to check their form as they work out.<br/>
 <br/>
-(125 words)
+(130 words)
 {{</card>}}
 
 
@@ -83,15 +84,15 @@ I'll stop here, as the explanation is quite long.<br/>
 　
 
 {{<card header="**2nd script**">}}
-In the previous video, I talked about the girl drawing. <br/>
+In the previous video, I talked about the girl who is drawing.<br/>
 Now, I’d like to share my thoughts on drawing.<br/>
 <br/>
 Personally, I'm quite envious of people who can easily draw whatever they imagine. <br/>
 When I try to draw something, I don't think anyone would be able to tell what it's supposed to be.<br/>
 If I had loved drawing from such a young age, perhaps I would have become skilled at it too. <br/>
 But these days, I think it’s amazing that we can describe what we want to draw in words and have AI create illustrations beyond our imagination.<br/>
-It’s really a convenient era we live in.<br/>
+This is really a convenient era to live in.<br/>
 <br/>
-(105 words)
+(108 words)
 {{</card>}}
 

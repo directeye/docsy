@@ -14,15 +14,16 @@ This script is divided into two parts.
 {{</alert>}}
 
 {{<card header="**1st script**">}}
-The photo shows a scene in a fitness gym where a trainer is helping with strength training using dumbbells.<br/>
-The woman is wearing a white training vest and red gym shorts, with her long hair tied up on top of her head. <br/>
+The photo shows a scene in a gym where a personal trainer is helping a woman with strength training using dumbbells.<br/>
+The woman is wearing a white tank top and red gym shorts, with her long hair tied up on top of her head in a ponytail.<br/>
 She's lying on an inclined workout bench and is holding the dumbbells with both hands, extending her arms vertically above her chest.<br/>
-A man in a gray T-shirt and black leggings with a green stripe stands behind her, helping guide the weights.<br/>
+A man who appears to be her personal trainer is in a gray T-shirt and black leggings with a green stripe. <br/>
+He is standing behind her, helping guide the weights.<br/>
 The woman appears focused on her workout, and the man seems to be providing support to ensure she performs the movement correctly.<br/>
 <br/>
 I'll stop here, as the explanation is quite long.<br/>
 <br/>
-(115 words)
+(130 words)
 {{</card>}}
 
 　

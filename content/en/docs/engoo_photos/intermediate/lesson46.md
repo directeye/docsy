@@ -52,7 +52,7 @@ A well-groomed man with a quiff hairstyle and light blue shirt is leaning in, ey
 It looks like he's brought her to a sunny rooftop or some high vantage point, perhaps thinking it was the perfect romantic setting.<br/>
 <br/>
 However, the woman, dressed in a teal sleeveless top with lattice-patterned lace that complements her long chestnut hair, is having none of it. <br/>
-She’s holding both hands up, gently keeping some distance between them. <br/>
+She’s holding both hands up, gently keeping some distance from him. <br/>
 Her body is slightly turned away, and though her eyes are on him, her face is turned in a different direction, unmistakably rejecting his advance. <br/>
 <br/>
 I'll stop here, as the explanation is quite long.<br/>

@@ -24,11 +24,11 @@ After climbing from the base of the mountain, she’s probably feeling a sense o
 ## Exercise 2: Relaxing
 
 {{<card header="**Script**">}}
-The image captures a serene moment of a woman relaxing on a wooden dock by a lake or sea. <br/>
+The image captures a serene moment of a woman relaxing on a wooden dock by a lake or the sea. <br/>
 She has strawberry blonde hair and is wearing sunglasses likely to shield her eyes from the sun. <br/>
 Lying back with her legs stretched towards the water’s edge and her hands behind her head, she looks completely at ease.<br/>
 Her casual outfit includes a plaid long-sleeve shirt over a white top, light blue jeans, and black walking shoes with red accents.<br/>
-A tablet is placed next to her, suggesting she might have been reading or browsing before she is lying down.<br/>
+A tablet is next to her, suggesting she might have been reading or browsing before she laid down.<br/>
 Right now, she’s just enjoying the moment on the dock, likely listening to the gentle lapping of water against the pier and maybe even drifting off to sleep.<br/>
 <br/>
 (127 words)
@@ -43,14 +43,14 @@ This script is divided into three parts.
 
 {{<card header="**1st script**">}}
 This photo captures a playful scene of three babies posed as if they're enjoying a movie on a bright orange couch. <br/>
-The little ones are clad only in diapers, sporting classic blue-and-red 3D glasses that dwarf their tiny faces. <br/>
+The little ones are wearing only diapers, sporting classic blue-and-red 3D glasses that dwarf their tiny faces. <br/>
 They're lounging comfortably, legs stretched out, each grasping a red popcorn container.<br/>
 All of them have blonde hair and appear to have just reached the age where they can sit up on their own, showcasing how young they are. <br/>
 The outer two hold long, cylindrical popcorn containers, while the center baby balances a large plastic bucket brimming with popcorn.<br/>
 <br/>
 I'll stop here, as the explanation is quite long.<br/>
 <br/>
-(107 words)
+(106 words)
 {{</card>}}
 
 　
@@ -59,7 +59,7 @@ I'll stop here, as the explanation is quite long.<br/>
 Now, let's take a look at the behavior of each of the three babies.<br/>
 <br/>
 The baby on the right is reaching for popcorn but seems captivated by a screen. <br/>
-The middle one is fiddling with a remote control as if adjusting the volume, while the left baby appears utterly engrossed in the film, ignoring the snacks entirely.<br/>
+The middle one is fiddling with a remote control as if adjusting the volume, while the baby on the left appears utterly engrossed in the film, ignoring the snacks entirely.<br/>
 <br/>
 The setup is both clever and amusing as the babies are imitating adults enjoying a movie. <br/>
 Bold colors and their synchronized poses create a quirky, entertaining image that's both charming and slightly surreal.  <br/>
