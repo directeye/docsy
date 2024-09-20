@@ -61,7 +61,7 @@ The tidy kitchen counter in the background suggests they might be preparing for 
 {{<card header="**Script**">}}
 The photo captures a sweet scene of a little kid lounging in a grassy field.<br/>
 They're wearing shorts, letting their bare feet bask in the gentle sunlight. <br/>
-The background is softly blurred, but there appears to be a pond or similar body of water reflecting bright light, which adds a lovely glow to the surroundings.<br/>
+The background is softly blurred, but there appears to be a puddle or similar body of water reflecting bright light, which adds a lovely glow to the surroundings.<br/>
 Adorable green and yellow smiley faces are painted on the soles of their feet and the undersides of their toes are alternately painted green and yellow as well.<br/>
 It must have been really ticklish for the kid to have smiley faces painted on the soles of their feet, but they were drawn so neatly without any mess.<br/>
 This makes me think that the child must be very patient.<br/>
