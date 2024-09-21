@@ -15,14 +15,14 @@ This script is divided into two parts.
 
 {{<card header="**1st script**">}}
 The photo captures a tender moment between newlyweds on their big day. <br/>
-The bride is dressed in a delicate white lace gown that reveals her back. <br/>
-Her blonde hair is elegantly styled and tied up, with a long veil flowing behind her. <br/>
-Her right hand, draped in the veil, gently rests on the groom’s chest, while her left hand, holding a bouquet of soft-colored roses, wraps around his shoulder.<br/>
+The bride is dressed in a delicate white lace gown with a cutout that reveals her back.<br/>
+Her blonde hair is elegantly styled in an updo, with a long veil flowing behind her.<br/>
+Her right hand, which appears to be holding the train of her dress, gently rests on the groom’s chest, while her left hand, holding a bouquet of soft-colored roses, wraps around his shoulder.<br/>
 The groom, standing close to his bride, cuts a dashing figure in a classic tuxedo complete with a boutonnière.<br/>
 <br/>
 I'll stop here, as the explanation is quite long.<br/>
 <br/>
-(96 words)
+(106 words)
 {{</card>}}
 
 　

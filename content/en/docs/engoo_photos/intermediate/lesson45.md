@@ -12,11 +12,11 @@ description: >
 {{<card header="**Script**">}}
 The photo shows a group of four people, two men and two women, about to enjoy a whole Hawaiian pizza together. <br/>
 It looks like they’re at someone’s home, having just ordered the pizza through a delivery service like Uber Eats, and they’re kicking off a pizza party as it arrives. <br/>
-The group is gathered around a counter where the fresh pizza is placed, with one person reaching for a slice while the others watch and smile. <br/>
+The group is gathered around a counter where the fresh pizza is placed, with one of the men reaching for a slice while the others watch and smile. <br/>
 In the background, you can see lush potted plants both inside and out on the balcony, adding to the bright and relaxed atmosphere. <br/>
-Once the first person grabs a slice, the others are likely to follow, and the conversation will flow as they enjoy their pizza.<br/>
+Once the first man grabs a slice, the others are likely to follow, and the conversation will flow as they enjoy their pizza.<br/>
 <br/>
-(122 words)
+(124 words)
 {{</card>}}
 
 
@@ -43,8 +43,8 @@ I'll stop here, as the explanation is quite long.<br/>
 
 {{<card header="**2nd script**">}}
 In the previous video, I talked about a choir practice with the instructor and the girls in a music room. <br/>
-<br/>
 I'd like to mention one thing that caught my attention in that photo.<br/>
+<br/>
 Notice the instructor focusing on guiding the girls to her right.<br/>
 Specifically, the girl in the green outfit, within the instructor's line of sight, has her mouth closed as if she’s not singing.<br/>
 While the instructor seems to prioritize conducting the piece, she also might be showing the girl how to sing properly.<br/>
