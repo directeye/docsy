@@ -12,7 +12,7 @@ draft: false
 I've launched a website where I document my English learning journey!
 
 I mainly utilize [Engoo](https://engoo.com/app/materials/en)'s resources, which are freely available for personal use and are tailored for English learners.   
-In particular, [Engoo's describing pictures material](https://engoo.com/app/materials/describing-pictures/P_HriMOnEeifo0O-yMP42w) contains a wide variety of photos and I use them for improving my English.
+In particular, [Engoo's describing pictures material](https://engoo.com/app/materials/describing-pictures/P_HriMOnEeifo0O-yMP42w) contain a wide variety of photos and I use them for improving my English.
 
 ![Engoo Photo Description page](/docsy/imgs/2024-05-10-Engoo-PhotoDescription.png)
 
@@ -25,7 +25,7 @@ So, I decided to change my approach.
 Now, I'm fully committed to thinking and speaking in English.  
 I’ve been working on dividing and condensing it into short speeches within one minute, memorizing the script, and then recording myself delivering the speech without reading it.
 
-Through this practice, I've found myself expressing the scripts much more actively in my own words in English, rather than simply reading something written by someone else.  
+Through this practice, I've found myself saying the scripts much more actively in my own words in English, rather than simply reading something written by someone else.  
 I want to break the habit of thinking in Japanese and start thinking and speaking in English, with proper grammar.
 
 Currently, I feel like I'm finally starting to speak some English.   

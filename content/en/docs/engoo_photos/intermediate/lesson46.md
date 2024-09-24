@@ -17,7 +17,7 @@ This script is divided into two parts.
 The photo captures a tender moment between newlyweds on their big day. <br/>
 The bride is dressed in a delicate white lace gown with a cutout that reveals her back.<br/>
 Her blonde hair is elegantly styled in an updo, with a long veil flowing behind her.<br/>
-Her right hand, which appears to be holding the train of her dress, gently rests on the groom’s chest, while her left hand, holding a bouquet of soft-colored roses, wraps around his shoulder.<br/>
+Her right hand, which appears to be holding the train of her dress, gently rests on the groom’s chest, while her left hand, holding a bouquet of pastel-colored roses, wraps around his shoulder.<br/>
 The groom, standing close to his bride, cuts a dashing figure in a classic tuxedo complete with a boutonnière.<br/>
 <br/>
 I'll stop here, as the explanation is quite long.<br/>
@@ -34,9 +34,9 @@ The couple stands in a close, warm embrace. <br/>
 Their foreheads and noses are gently touching, creating a picture of intimacy. <br/>
 The groom's hands rest softly on the bride's waist as he appears to whisper something, a smile playing on his lips. <br/>
 The bride seems captivated, either listening intently to his words or perhaps waiting with anticipation for what comes next.<br/>
-The serene outdoor background seems to be near the water, with soft natural light enhancing the warm and loving atmosphere surrounding them.<br/>
+The serene outdoor background seems to be near the water, with soft natural light enhancing the warm and loving atmosphere that surrounds them.<br/>
 <br/>
-(106 words)
+(107 words)
 {{</card>}}
 
 
@@ -48,8 +48,8 @@ This script is divided into three parts.
 
 {{<card header="**1st script**">}}
 The photo captures an awkward moment between a man and a woman. <br/>
-A well-groomed man with a quiff hairstyle and light blue shirt is leaning in, eyes closed and lips puckered, clearly attempting to kiss her. <br/>
-It looks like he's brought her to a sunny rooftop or some high vantage point, perhaps thinking it was the perfect romantic setting.<br/>
+A well-groomed man with a quiff hairstyle and light blue shirt is leaning in towards the woman, eyes closed and lips puckered, clearly attempting to kiss her.<br/>
+It looks like he's brought her to a sunny rooftop or some high vantage point, perhaps thinking it was the perfect romantic setting for a date.<br/>
 <br/>
 However, the woman, dressed in a teal sleeveless top with lattice-patterned lace that complements her long chestnut hair, is having none of it. <br/>
 She’s holding both hands up, gently keeping some distance from him. <br/>
@@ -57,7 +57,7 @@ Her body is slightly turned away, and though her eyes are on him, her face is tu
 <br/>
 I'll stop here, as the explanation is quite long.<br/>
 <br/>
-(127 words)
+(133 words)
 {{</card>}}
 
 　
@@ -96,14 +96,14 @@ He's probably trying to figure out how to suggest grabbing a coffee without risk
 ## Exercise 3: Selfie Time
 
 {{<card header="**Script**">}}
-The photo shows a young woman with long blonde hair taking a selfie outside.<br/>
+The photo shows a young woman with long golden blonde hair taking a selfie outside.<br/>
 She's rocking a wide-brimmed black hat and big round glasses with dark frames. <br/>
 Her outfit includes a light green camisole with a leafy pattern and a gray knit cardigan that has slipped off her shoulders and is just hanging on her arms. <br/>
-You can tell she's got a good sense of style, mixing casual and trendy.<br/>
-In the selfie, she’s sticking out her tongue and her gaze looks upwards to the left, deliberately avoiding eye contact with the camera.<br/>
+You can tell she's got a good sense of style, mixing casual and trendy clothes and accessories.<br/>
+In the selfie, she’s sticking her tongue out and gazing upwards to the left, deliberately avoiding eye contact with the camera.<br/>
 Looks like she's trying to be goofy on purpose.<br/>
 With her right arm extended to hold the camera and her left hand flashing a peace sign, her confident and cheeky pose adds to her charm.<br/>
 <br/>
-(128 words)
+(130 words)
 {{</card>}}
 

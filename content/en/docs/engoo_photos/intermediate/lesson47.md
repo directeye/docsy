@@ -18,13 +18,13 @@ The photo captures a joyful moment in front of a house, celebrating the completi
 The couple, likely husband and wife, stand close together, smiling warmly. <br/>
 The man is dressed in a light gray t-shirt and jeans, while the woman is in a white top and jeans, both casually dressed. <br/>
 The woman has her arm around the man's waist from behind, showing their closeness. <br/>
-In front of them stands a lady who appears to be their real estate agent, looking polished in a dark blazer. <br/>
+Directly in front of them stands a lady who appears to be their real estate agent who looks polished in a dark blazer.<br/>
 She's shaking hands with the man, sealing the deal with a smile. <br/>
 In her other hand is a red folder, probably containing the freshly signed paperwork.<br/>
 <br/>
 I'll stop here, as the explanation is quite long.<br/>
 <br/>
-(124 words)
+(126 words)
 {{</card>}}
 
 　
