@@ -35,27 +35,27 @@ Now, let’s focus on the background.<br/>
 <br/>
 This classic brick home has a warm, sturdy appearance with light-colored bricks. <br/>
 The entrance features a large white-framed door, flanked by matching rectangular windows that let natural light pour in, beautifully complementing the brickwork. <br/>
-The front yard is well-maintained, with neatly trimmed greenery lining the stone steps leading up to the entrance, adding a touch of nature to the facade. <br/>
-At the bottom of the steps, a lawn with a “Sold” sticker on a "For Sale" sign signals the finalized deal. <br/>
+The front yard is well-maintained, with neatly trimmed greenery aligning with the stone steps leading up to the entrance, adding a touch of nature to the facade. <br/>
+A "For Sale" sign on the lawn now bears a bright "Sold" sticker, marking the completion of the sale.<br/>
 Their beaming smiles reflect their excitement about starting a new chapter in their very own home.<br/>
 <br/>
-(124 words)
+(123 words)
 {{</card>}}
 
 
 ## Exercise 2: Fast Food
 
 {{<card header="**Script**">}}
-The photo shows a friendly woman handing a customer food in a fast food restaurant.<br/>
-Her light brown hair is tied back in a ponytail, and she's wearing a uniform that consists of a light-colored shirt and a red apron.<br/>
+The photo shows a friendly woman handing food to a customer in a fast food restaurant.<br/>
+Her light brown hair is tied back in a ponytail, and she's wearing a red apron over a light-colored shirt.<br/>
 Standing behind the counter, she's smiling warmly while presenting the customer an orange tray. <br/>
 The tray holds two round black plates with clear lids, though the food itself isn't visible.<br/>
 Blurry menu boards hang in the background, but the type of cuisine isn't apparent from this view. <br/>
 The setup looks typical for a fast food place.<br/>
 The dining area and any queues aren’t shown, so it's hard to tell how busy the restaurant is. <br/>
-The woman is the only visible staff member, suggesting a calm moment in the day.<br/>
+She is the only visible staff member, suggesting a calm moment in the day.<br/>
 <br/>
-(129 words)
+(131 words)
 {{</card>}}
 
 

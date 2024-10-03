@@ -16,7 +16,7 @@ Both look happy, chatting away and poking at appetizers with their knives and fo
 Two well-poured glasses of red wine sit within reach of their right hands on the table.<br/>
 In the background you can see ceiling fans, and there is a wall mounted light on a yellow painted pillar behind the man.<br/>
 The woman looks stylish in a dusty pink top with an embroidered embellishment and large earrings.<br/>
-The man is also fashionable, but his blue shirt is unbuttoned to expose his chest, which caught my attention, as it seems to be strange.<br/>
+The man is also fashionable, but his blue shirt is unbuttoned to expose his chest, which caught my attention, as it seemed a bit strange.<br/>
 <br/>
 (124 words)
 {{</card>}}
@@ -24,15 +24,15 @@ The man is also fashionable, but his blue shirt is unbuttoned to expose his ches
 ## Exercise 2: Elephant Ride
 
 {{<card header="**Script**">}}
-In the photo, we can see a young couple on an elephant ride by Ayutthaya in Thailand. <br/>
+In the photo, we can see a young couple on an elephant ride at Ayutthaya in Thailand. <br/>
 The sun, as it hovers over the horizon, creates a glorious backlight of the heritage site. <br/>
 The elephant is adorned with a red cloth edged in yellow, and there's a seat supporting a red and gold parasol as well. <br/>
-It is walking along a narrow gravel path, that gently curves to the right leading up to the temple. <br/>
-Upon closer inspection, you can notice an elephant handler in front of the couple, donning a hat with a brim. <br/>
+It's walking along a narrow gravel path, that gently curves to the right leading up to the temple. <br/>
+Upon closer inspection, you can notice an elephant handler in front of the couple, wearing a hat with a brim. <br/>
 I imagine the ride might be quite bumpy and the passengers would sway a lot. <br/>
 The motion could make it challenging to capture this stunning scenery in a photo from their seats.<br/>
 <br/>
-(127 words)
+(126 words)
 {{</card>}}
 
 ## Exercise 3: Fish Dinner

@@ -64,15 +64,15 @@ I'll stop here, as the explanation is quite long.<br/>
 
 {{<card header="**2nd script**">}}
 In my last video, I talked about a man attempting to kiss a woman who is clearly rejecting his advance.<br/>
-Now, let me share what I think might happen next with these two.<br/>
+Now, let me share what I think might happen between these two.<br/>
 <br/>
-She might be thinking about how to turn him down, calm him, and navigate this uncomfortable situation. <br/>
+She might be thinking about how to turn him down, calm him, and deal with this uncomfortable situation. <br/>
 If he keeps pushing for a kiss, she might end up slapping him across the face and walking away from the scene altogether.<br/>
 <br/>
 It’s also possible that she simply didn’t like the way his breath smelled. <br/>
 In that case, she might shove him away with both hands that are already pointed at him.<br/>
 <br/>
-(103 words)
+(104 words)
 {{</card>}}
 
 　
@@ -96,14 +96,14 @@ He's probably trying to figure out how to suggest grabbing a coffee without risk
 ## Exercise 3: Selfie Time
 
 {{<card header="**Script**">}}
-The photo shows a young woman with long golden blonde hair taking a selfie outside.<br/>
+The photo shows a young woman with long golden blonde hair taking a selfie outside on the road.<br/>
 She's rocking a wide-brimmed black hat and big round glasses with dark frames. <br/>
-Her outfit includes a light green camisole with a leafy pattern and a gray knit cardigan that has slipped off her shoulders and is just hanging on her arms. <br/>
+Her outfit includes a light green camisole with a leafy pattern and a gray knit cardigan that has slipped off her shoulders and is just hanging off her arms. <br/>
 You can tell she's got a good sense of style, mixing casual and trendy clothes and accessories.<br/>
 In the selfie, she’s sticking her tongue out and gazing upwards to the left, deliberately avoiding eye contact with the camera.<br/>
 Looks like she's trying to be goofy on purpose.<br/>
-With her right arm extended to hold the camera and her left hand flashing a peace sign, her confident and cheeky pose adds to her charm.<br/>
+With her right arm extended to hold the camera and her left hand holding a peace sign, her confident and cheeky pose adds to her charm.<br/>
 <br/>
-(130 words)
+(133 words)
 {{</card>}}
 

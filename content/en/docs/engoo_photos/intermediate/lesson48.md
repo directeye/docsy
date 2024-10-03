@@ -42,28 +42,28 @@ I'll stop here, as the explanation is quite long.<br/>
 　
 
 {{<card header="**2nd script**">}}
-The girl has long black hair in braids and wears oversized black-rimmed glasses, with thick, straight bangs hanging over the frames. <br/>
-Dressed in a white long-sleeved shirt under a black-and-white patterned vest, she stands out with her eyes squeezed shut and hands pressed against her ears. <br/>
+The girl has long dark brown hair in braids and wears oversized black-rimmed glasses, with thick, straight bangs hanging over the frames. <br/>
+Dressed in a white long-sleeved shirt under a black-and-white patterned vest, she stands out because her eyes are squeezed shut and her hands are pressed against her ears.<br/>
 It's unclear if the ringing phone or the typewriter's clacking is bothering her, but her expression shows frustration. <br/>
 Alternatively, she might be in the middle of writing and experiencing writer's block.<br/>
 Perhaps she's unable to concentrate, distracted by various things, and she just wants to yell, "I've had it!"<br/>
 Interestingly, she looks too young to use the office equipment, suggesting this is a staged stock photo. <br/>
 Regardless, it's a captivating recreation of a classic office scene, evoking nostalgia for a bygone era.<br/>
 <br/>
-(128 words)
+(132 words)
 {{</card>}}
 
 ## Exercise 3: Relaxation
 
 {{<card header="**Script**">}}
-The photo captures a peaceful scene of a pussy cat lounging on a windowsill. <br/>
+The photo captures a peaceful scene of a cat lounging on a windowsill. <br/>
 This cat looks like a tabby, with distinctive brown and black striped patterns on its back and head, and noticeable white front paws.<br/>
 Its pink paw pads suggest it’s still a little kitten. <br/>
 The cat is stretched out, resting its face on its right paw, with its front legs extended. <br/>
 Its eyes are half-closed, looking totally relaxed and a bit drowsy in the warm sunlight. <br/>
-Positioned closer to the window frame, beyond a sheer off-white lace curtain, the cat is soaking up the sunlight streaming in. <br/>
+Positioned closer to the window frame, behind a sheer off-white lace curtain, the cat is soaking up the sunlight streaming in. <br/>
 But if you disturb its peaceful sunbathing, it might get annoyed.<br/>
 You could get a sharp glare or even a scratch!<br/>
 <br/>
-(121 words)
+(120 words)
 {{</card>}}

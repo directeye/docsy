@@ -11,7 +11,7 @@ description: >
 
 {{<card header="**Script**">}}
 The photograph shows a woman enjoying a sweeping, green landscape from a scenic viewpoint. <br/>
-Her long black hair flows behind her as she stands with her arms outstretched, seeming to savor the vast expanse of nature before her.<br/>
+Her long dark hair flows behind her as she stands with her arms outstretched, seeming to savor the vast expanse of nature before her.<br/>
 The scenery is filled with lush, green forest sprawling as far as the eye can see. <br/>
 In the distance, a large mountain looms, its slopes similarly covered with thick vegetation.<br/>
 Although the sky is partly cloudy, it doesn't seem gloomy, hinting at ideal weather for a hike. <br/>
