@@ -51,7 +51,7 @@ The photo captures an awkward moment between a man and a woman. <br/>
 A well-groomed man with a quiff hairstyle and light blue shirt is leaning in towards the woman, eyes closed and lips puckered, clearly attempting to kiss her.<br/>
 It looks like he's brought her to a sunny rooftop or some high vantage point, perhaps thinking it was the perfect romantic setting for a date.<br/>
 <br/>
-However, the woman, dressed in a teal sleeveless top with lattice-patterned lace that complements her long chestnut hair, is having none of it. <br/>
+However, the woman, dressed in a teal sleeveless top with lattice-patterned lace that complements her long brunette hair, is having none of it. <br/>
 She’s holding both hands up, gently keeping some distance from him. <br/>
 Her body is slightly turned away, and though her eyes are on him, her face is turned in a different direction, unmistakably rejecting his advance. <br/>
 <br/>
@@ -64,7 +64,7 @@ I'll stop here, as the explanation is quite long.<br/>
 
 {{<card header="**2nd script**">}}
 In my last video, I talked about a man attempting to kiss a woman who is clearly rejecting his advance.<br/>
-Now, let me share what I think might happen between these two.<br/>
+Now, let me share what I think might be happening between these two.<br/>
 <br/>
 She might be thinking about how to turn him down, calm him, and deal with this uncomfortable situation. <br/>
 If he keeps pushing for a kiss, she might end up slapping him across the face and walking away from the scene altogether.<br/>
@@ -72,7 +72,7 @@ If he keeps pushing for a kiss, she might end up slapping him across the face an
 It’s also possible that she simply didn’t like the way his breath smelled. <br/>
 In that case, she might shove him away with both hands that are already pointed at him.<br/>
 <br/>
-(104 words)
+(105 words)
 {{</card>}}
 
 　

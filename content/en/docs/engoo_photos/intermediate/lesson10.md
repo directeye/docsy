@@ -38,7 +38,7 @@ The motion could make it challenging to capture this stunning scenery in a photo
 ## Exercise 3: Fish Dinner
 
 {{<card header="**Script**">}}
-The photo features a large banana leaf serving as a plate, with grilled fish in the center, butter fired shrimp to the right and salad to the left.<br/>
+The photo features a large banana leaf serving as a plate, with grilled fish in the center, butter fried shrimp to the right and salad to the left.<br/>
 The salad consists of a single leaf of lettuce, half a slice of pineapple in a semi-circle shape, and a slice of tomato, all of which are arranged to exhibit their vibrant colors.<br/>
 The shrimp is presented with its back split open into a ring shape.<br/>
 The grilled herring is deboned, and its flesh looks plump and tasty.<br/>

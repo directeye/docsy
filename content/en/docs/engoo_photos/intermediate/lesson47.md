@@ -55,7 +55,7 @@ The setup looks typical for a fast food place.<br/>
 The dining area and any queues aren’t shown, so it's hard to tell how busy the restaurant is. <br/>
 She is the only visible staff member, suggesting a calm moment in the day.<br/>
 <br/>
-(131 words)
+(124 words)
 {{</card>}}
 
 
@@ -68,7 +68,7 @@ Her facial expression is almost overly dramatic, with eyes wide open and a gapin
 It's as if she can't hide her reaction to whatever she's just heard.<br/>
 The spotlight seems to be focused on her astonished face, and given how over-the-top her gestures are, this is likely a staged scene.<br/>
 It could be a theatrical performance or perhaps a stock photo shoot.<br/>
-The image seems designed to humorously capture the idea of being shocked by overheard gossip.<br/>
+The picture seems curated to humorously capture the expression of shock at overhearing gossip.<br/>
 <br/>
-(117 words)
+(116 words)
 {{</card>}}

@@ -31,7 +31,7 @@ I'll stop here, as the explanation is quite long.<br/>
 
 {{<card header="**2nd script**">}}
 Let's take a closer look at the woman in the center. <br/>
-Her long brown hair drapes over her back and she’s wearing a vibrant matching top and skirt, paired with a matching hat.<br/>
+Her long brown hair drapes over her back and she’s wearing a pale pink cardigan over a white layered mini dress, paired with a matching hat.<br/>
 Her mirrored aviator sunglasses add a stylish touch. <br/>
 What's particularly interesting is her choice of shopping bags. <br/>
 She's carrying a light blue one that's identical to the bag her blonde haired mother on the left is holding. <br/>
@@ -40,7 +40,7 @@ Both bags are casually hanging over her right shoulder as she smiles at the came
 The matching bags are quite intriguing.<br/>
 It looks like they may have shopped at the same boutique.<br/>
 <br/>
-(121 words)
+(125 words)
 {{</card>}}
 
 　
@@ -69,7 +69,7 @@ A sleek leather headboard doubles as a cozy backrest, while a matching dark beds
 <br/>
 The woman, wearing comfortable-looking pajamas, lies in the middle of the spacious bed. <br/>
 Her arms are stretched above her head, and a slight smile plays on her face. <br/>
-The bright, airy room and her relaxed posture create a sense of calm, promising a refreshing start to the day.<br/>
+The bright, airy room and her relaxed posture create a sense of calm, promising a refreshing start of the day.<br/>
 <br/>
 (127 words)
 {{</card>}}
