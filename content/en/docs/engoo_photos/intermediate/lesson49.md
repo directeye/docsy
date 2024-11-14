@@ -35,12 +35,11 @@ Her long brown hair drapes over her back and she’s wearing a pale pink cardiga
 Her mirrored aviator sunglasses add a stylish touch. <br/>
 What's particularly interesting is her choice of shopping bags. <br/>
 She's carrying a light blue one that's identical to the bag her blonde haired mother on the left is holding. <br/>
-Along with that, she has another bag with a geometric pattern that is similar to her mother's shopping bag. <br/>
-Both bags are casually hanging over her right shoulder as she smiles at the camera.<br/>
-The matching bags are quite intriguing.<br/>
-It looks like they may have shopped at the same boutique.<br/>
+In addition, she has another bag with a geometric pattern, which also resembles her mother’s bag.<br/>
+Both bags are casually slung over her right shoulder as she smiles at the camera.<br/>
+The matching bags are intriguing; it seems they may have shopped at the same boutique.<br/>
 <br/>
-(125 words)
+(120 words)
 {{</card>}}
 
 　
@@ -48,7 +47,7 @@ It looks like they may have shopped at the same boutique.<br/>
 {{<card header="**3rd script**">}}
 Lastly, the woman on the right, with long brown hair, is rocking a straw hat and the same aviator sunglasses as the woman in the middle.<br/> 
 She’s dressed in white shorts and a pink patterned top, with silver bangle bracelets on both arms standing out. <br/>
-In one hand, she’s holding a shopping bag with an orange and yellow circular design, and on the other shoulder, she’s carrying a large straw tote bag.<br/>
+In one hand, she’s holding a shopping bag with an orange and yellow circular design, while on her other shoulder, she’s carrying a large straw tote bag.<br/>
 All three women look incredibly stylish and full of energy. <br/>
 It’s clear they must have spent some time in the fitting room picking out outfits and accessories that suit them perfectly. <br/>
 You can really tell they've been out on the town, enjoying a fun shopping spree.<br/>
@@ -61,7 +60,7 @@ You can really tell they've been out on the town, enjoying a fun shopping spree.
 
 {{<card header="**Script**">}}
 The photo captures a woman stretching in a king-size bed on a sun-drenched morning. <br/>
-Wraparound windows flood the room with light, hinting she may have slept in. <br/>
+Wraparound windows flood the room with natural light, hinting she may have slept in. <br/>
 The lack of curtains reveals glimpses of nearby buildings, suggesting an urban or suburban setting.<br/>
 <br/>
 Crisp white bedding adorns the bed, complete with a smooth comforter and pillows. <br/>
@@ -69,9 +68,9 @@ A sleek leather headboard doubles as a cozy backrest, while a matching dark beds
 <br/>
 The woman, wearing comfortable-looking pajamas, lies in the middle of the spacious bed. <br/>
 Her arms are stretched above her head, and a slight smile plays on her face. <br/>
-The bright, airy room and her relaxed posture create a sense of calm, promising a refreshing start of the day.<br/>
+The bright, airy room and her relaxed posture convey a sense of calm, promising a refreshing start to the day.<br/>
 <br/>
-(127 words)
+(128 words)
 {{</card>}}
 
 
@@ -82,11 +81,11 @@ This image captures a boy engrossed in reading outdoors in a peaceful setting. <
 He sits beneath a massive, majestic tree with a thick trunk and wide-spread branches.<br/>
 Dressed in casual summer clothes, including a light-colored shirt and blue shorts, he also wears a hat. <br/>
 The boy leans comfortably with his back against the tree, and his knees slightly raised to support his book. <br/>
-In the foreground, a field of orange and yellow flowers stretches out. <br/>
-Lush greenery extends beyond the central tree, with the distant trees and leaves adding depth to the scene.<br/>
-Sunlight filters through the trees, gently illuminating the boy, creating the perfect soft light for him to enjoy reading in this beautiful outdoor environment.<br/>
+In the foreground, a field of orange and yellow fallen leaves stretches out. <br/>
+Lush greenery extends beyond the central tree, with distant trees and leaves adding depth to the scene.<br/>
+Sunlight filters softly through the trees, casting a gentle glow on the boy as he reads, creating an ideal, serene setting in this beautiful outdoor environment.<br/>
 <br/>
-(117 words)
+(119 words)
 {{</card>}}
 
 
