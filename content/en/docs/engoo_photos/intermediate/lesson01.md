@@ -10,14 +10,16 @@ description: >
 ## Exercise 1: At the Doctor's Office
 
 {{<card header="**Script**">}}
-The photo shows a woman attending a consultation with her doctor. <br/>
-Morning sunlight shines into the room. <br/>
-The doctor, dressed in a lab coat with a stethoscope around his neck, takes notes with a pen and a paper instead of a computer. <br/>
-His clean and professional appearance is complemented by his blue tie. <br/>
-The woman, her hands clasped on the white desk, seems anxious while discussing her health. <br/>
-However, her ability to attend the appointments suggests that her condition is not severe.<br/>
+The photo shows a doctor and a patient seated across from each other at a white desk.  <br/>
+Morning sunlight streams into the room, creating a bright and calm atmosphere.  <br/>
+The doctor is wearing a lab coat with a stethoscope around his neck. <br/>
+He's holding a pen and appears to be taking notes on a clipboard. <br/>
+His clean and professional appearance is complemented by his blue tie.  <br/>
+The patient, likely a woman, has her hands clasped tightly together, resting on the desk.  <br/>
+She seems slightly anxious while discussing her health. <br/>
+However, since she’s able to visit the clinic, her condition doesn't seem to be serious. <br/>
 <br/>
-(82 words)
+(106 words)
 {{</card>}}
 
 ## Exercise 2: Music on the Road
